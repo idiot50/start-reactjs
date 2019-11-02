@@ -1,0 +1,67 @@
+{
+    "utilityConfigEmployeeImpact": {
+        "title": {
+            "utilityConfigEmployeeImpactInfo": "Thông tin nhân sự tác động",
+            "utilityConfigEmployeeImpactAdd": "Thêm mới nhân sự tác động",
+            "utilityConfigEmployeeImpactEdit": "Cập nhật nhân sự tác động"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "level": {
+                "1": "1",
+                "2": "2",
+                "3": "3"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "employee": "Nhân viên",
+            "unit": "Đơn vị",
+            "parentArray": "Mảng cha",
+            "childArray": "Mảng con",
+            "level": "Level",
+            "updatedUser": "Người cập nhật",
+            "updatedTime":"Ngày cập nhật"
+        },
+        "placeholder": {
+            "unit": "Nhập mã <tên> đơn vị",
+            "employee": "Nhập username<tên> nhân viên",
+            "searchAll":"Tìm kiếm theo nhân viên",
+            "updatedTime":"dd/mm/yyyy",
+            "updatedUser":"Nhập tên người cập nhật"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm nhân sự tác động không thành công",
+                "add": "Thêm mới nhân sự tác động không thành công",
+                "edit": "Sửa nhân sự tác động không thành công",
+                "delete": "Xóa nhân sự tác động không thành công",
+                "getDetail": "Lấy thông tin chi tiết nhân sự tác động không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới nhân sự tác động thành công",
+                "edit": "Sửa nhân sự tác động thành công",
+                "delete": "Xóa nhân sự tác động thành công",
+                "getDetail": "Lấy thông tin chi tiết nhân sự tác động thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa nhân sự tác động {{utilityConfigEmployeeImpactCode}} không ?",
+            "requiredLevel": "Bạn chưa chọn level",
+            "requiredEmployee": "Bạn chưa nhập tên nhân viên",
+            "requiredParentArray": "Bạn chưa chọn mảng cha",
+            "requiredChildArray": "Bạn chưa chọn mảng con"
+        }
+    }
+}

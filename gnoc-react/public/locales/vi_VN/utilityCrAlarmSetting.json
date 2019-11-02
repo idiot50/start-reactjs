@@ -1,0 +1,116 @@
+{
+    "utilityCrAlarmSetting": {
+        "title": {
+            "tableSearchResult": "Kết quả tìm kiếm",
+            "alarmList": "Danh sách cảnh báo",
+            "utilityCrAlarmSettingAdd": "Thêm mới cảnh báo CR",
+            "utilityCrAlarmSettingEdit": "Cập nhật cảnh báo CR",
+            "utilityCrAlarmSettingInfo": "Thông tin cảnh báo CR",
+            "listAlarm": "Tìm kiếm cảnh báo",
+            "searchResults": "Kết quả tìm kiếm",
+            "listVendor": "Vendor đã chọn",
+            "addVendor": "Cập nhật Vendor",
+            "listModule": "Module đã chọn",
+            "addModule": "Cập nhật Module ",
+            "searchProcess": "Tìm kiếm quy trình"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm",
+            "impl": "Bổ sung",
+            "accept": "Chọn",
+            "remove": "Loại bỏ",
+            "choose": "Chọn"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đã được duyệt",
+                "inActive": "Chưa được duyệt"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "status": "Trạng thái",
+            "domain": "Mảng tác động",
+            "deviceType": "Loại thiết bị",
+            "CRProcessName": "Quy trình",
+            "faultName": "Tên cảnh báo",
+            "faultGroupName": "Tên nhóm cảnh báo",
+            "alarmField": "Mảng cảnh báo",
+            "alarmGroupName": "Nhóm cảnh báo",
+            "createUser": "Người tạo",
+            "keyword": "Keyword",
+            "NOCDevice": "Loại thiết bị NOC",
+            "vendorCode": "Mã Vendor",
+            "moduleCode": "Mã Module",
+            "vendorName": "Tên Vendor",
+            "moduleName": "Tên Module",
+            "isAutoLoad": "Có load tự động hay không ?",
+            "nation": "Quốc gia",
+            "updateVendor": "Cập nhật Vendor",
+            "updateModule": "Cập nhật Module",
+            "applicationCode": "Mã ứng dụng",
+            "crProcessCode": "Mã quy trình",
+            "crProcessName": "Tên quy trình"
+        },
+        "placeholder": {
+            "searchAll": "Tìm kiếm theo tên cảnh báo",
+            "CRProcessName": "Nhập tên quy trình",
+            "faultName": "Nhập tên cảnh báo",
+            "createUser": "Nhập tên người tạo",
+            "vendorCode": "Nhập mã vendor",
+            "moduleCode": "Nhập mã module",
+            "vendorName": "Nhập tên vendor",
+            "moduleName": "Nhập tên module",
+            "applicationCode": "Nhập mã ứng dụng",
+            "crProcessCode": "Nhập mã quy trình",
+            "crProcessName": "Nhập tên quy trình",
+            "doubleClick": "DoubleClick"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm cảnh báo CR không thành công",
+                "add": "Thêm mới cảnh báo CR không thành công",
+                "edit": "Sửa cảnh báo CR không thành công",
+                "delete": "Xóa cảnh báo CR không thành công",
+                "getDetail": "Lấy thông tin chi tiết cảnh báo CR không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "searchVendor": "Tìm kiếm vendor không thành công",
+                "searchModule": "Tìm kiếm module không thành công",
+                "updateVendor": "Cập nhật vendor không thành công",
+                "updateModule": "Cập nhật module không thành công",
+                "searchAlarmList": "Tìm kiếm danh sách cảnh bảo không thành công"
+            },
+            "success": {
+                "add": "Thêm mới cảnh báo CR thành công",
+                "edit": "Sửa cảnh báo CR thành công",
+                "delete": "Xóa cảnh báo CR thành công",
+                "getDetail": "Lấy thông tin chi tiết cảnh báo CR thành công",
+                "updateVendor": "Cập nhật vendor thành công",
+                "updateModule": "Cập nhật module thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa cảnh báo CR {{faultName}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredType": "Bạn chưa nhập tên cảnh báo CR",
+            "requiredODcode": "Bạn chưa nhập mã cảnh báo CR",
+            "requiredProcessTime": "Bạn chưa nhập thời gian xử lý",
+            "requiredVendor": "Bạn chưa chọn Vendor",
+            "requiredModule": "Bạn chưa chọn Module",
+            "requiredCheckAlarm": "Bạn chưa chọn cảnh báo",
+            "requiredAlarmField": "Bạn chưa chọn Mảng cảnh báo",
+            "requiredDomain": "Bạn chưa chọn Mảng tác động",
+            "requiredDeviceType": "Bạn chưa chọn Loại thiết bị",
+            "requiredCRProcessName": "Bạn chưa chọn Quy trình",
+            "requiredNation": "Bạn chưa chọn Quốc gia"
+        }
+    }
+}

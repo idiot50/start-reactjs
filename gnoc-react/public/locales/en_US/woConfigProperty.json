@@ -1,0 +1,65 @@
+{
+    "woConfigProperty": {
+        "title": {
+            "woConfigPropertyInfo": "Config property information ",
+            "woConfigPropertyInfoExtra": "Type OD extra information",
+            "woConfigPropertyAdd": "Add new config property",
+            "woConfigPropertyEdit": "Update config property"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "key": "Key",
+            "value": "Value",
+            "description": "Description"
+        },
+        "placeholder": {
+            "key": "Enter key",
+            "value": "Enter value",
+            "description": "Enter description",
+            "searchAll": "Search by key, value, description"
+        },
+        "message": {
+            "error": {
+                "search": "Search property failed",
+                "add": "Add new property failed",
+                "edit": "Edit property failed",
+                "delete": "Delete property failed",
+                "getDetail": "Get property information failed",
+                "wrongDataFormat": "Wrong data format",
+                "duplicate": "Key already exist "
+            },
+            "success": {
+                "add": "Add property successfully",
+                "edit": "Edit property successfully",
+                "delete": "Delete property successfully",
+                "getDetail": "Get detail property successfully"
+            },
+            "confirmDelete": "Do you want delete property {{woConfigPropertyId}} ?",
+            "requiredKey": "Please enter key",
+            "requiredKeyPattern": "Key please enter character, number and '_'",
+            "requiredValue": "Please enter value",
+            "requiredDescription": "Please enter description"
+        }
+    }
+}

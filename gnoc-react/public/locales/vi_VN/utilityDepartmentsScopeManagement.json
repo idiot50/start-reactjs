@@ -1,0 +1,78 @@
+{
+    "utilityDepartmentsScopeManagement": {
+        "title": {
+            "utilityDepartmentsScopeManagementInfo": "Thông tin danh mục đơn vị xử lý - phạm vi",
+            "utilityDepartmentsScopeManagementInfoExtra": "Thông tin bổ sung",
+            "utilityDepartmentsScopeManagementAdd": "Thêm mới danh mục đơn vị xử lý - phạm vi",
+            "utilityDepartmentsScopeManagementEdit": "Cập nhật danh mục đơn vị xử lý - phạm vi"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "status": "Trạng thái",
+            "typeCode": "Mã đơn vị xử lý - phạm vi",
+            "groupType": "Nhóm đơn vị xử lý - phạm vi",
+            "cmseCode": "Mã phạm vi",
+            "cmseName": "Tên phạm vi",
+            "unitCode": "Mã đơn vị",
+            "unitName": "Tên đơn vị",
+            "scope":"Phạm vi",
+            "unit":"Đơn vị",
+            "impactGroup":"Mảng tác động",
+            "deviceType":"Loại thiết bị",
+            "group": "Mảng"
+        },
+        "placeholder": {
+            "typeCode": "Nhập mã đơn vị xử lý - phạm vi",
+            "type": "Nhập đơn vị xử lý - phạm vi",
+            "groupType": "Nhập nhóm đơn vị xử lý - phạm vi",
+            "searchAll": "Tìm kiếm theo mã, tên phạm vi",
+            "cmseCode":"Nhập mã phạm vi",
+            "cmseName":"Nhập tên phạm vi",
+            "unitCode":"Nhập mã đơn vị",
+            "unitName":"Nhập tên đơn vị",
+            "unit":"Nhập đơn vị"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm đơn vị xử lý - phạm vi không thành công",
+                "add": "Thêm mới đơn vị xử lý - phạm vi không thành công",
+                "edit": "Sửa đơn vị xử lý - phạm vi không thành công",
+                "delete": "Xóa đơn vị xử lý - phạm vi không thành công",
+                "getDetail": "Lấy thông tin chi tiết đơn vị xử lý - phạm vi không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới đơn vị xử lý - phạm vi thành công",
+                "edit": "Sửa đơn vị xử lý - phạm vi thành công",
+                "delete": "Xóa đơn vị xử lý - phạm vi thành công",
+                "getDetail": "Lấy thông tin chi tiết đơn vị xử lý - phạm vi thành công"
+            },
+            "required":{
+                "unit":"Bạn chưa nhập đơn vị",
+                "scope":"Bạn chưa chọn phạm vi"
+            },
+            "confirmDelete": "Bạn có muốn xóa đơn vị xử lý - phạm vi {{utilityDepartmentsScopeManagementCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredType": "Bạn chưa nhập tên đơn vị xử lý - phạm vi"
+        }
+    }
+}

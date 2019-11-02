@@ -1,0 +1,46 @@
+{
+    "utilityConfigReturnAction": {
+        "title": {
+            "utilityConfigReturnActionAdd": "Add return action",
+            "utilityConfigReturnActionEdit": "Update return action",
+            "utilityConfigReturnActionInfo": "Information return action"
+        },
+        "button": {
+            "add": "Add"
+        },
+        "label": {
+            "action" : "Action",
+            "returnCode": "Return code",
+            "returnTitle": "Return title",
+            "returnCategory": "RETURN_CATEGORY",
+            "description": "Description",
+            "uneditable": "Uneditable"
+        },
+        "placeholder": {
+            "searchAll": "Search by return code",
+            "returnCode": "Enter return code",
+            "returnTitle": "Enter return title",
+            "description": "Enter description"
+        },
+        "message": {
+            "error": {
+                "search": "Search Configure Return Code Catalog failed",
+                "add": "Add Configure Return Code Catalog failed",
+                "edit": "Edit Configure Return Code Catalog failed",
+                "delete": "Delete Configure Return Code Catalog failed",
+                "getDetail": "Get Configure Return Code Catalog information failed"
+            },
+            "success": {
+                "add": "Add Configure Return Code Catalog successfully",
+                "edit": "Edit Configure Return Code Catalog successfully",
+                "delete": "Delete Configure Return Code Catalog successfully",
+                "getDetail": "Get detail Configure Return Code Catalog successfully"
+            },
+            "confirmDelete": "Do you want delete return code {{utilityConfigReturnActionCode}} ?",
+            "requiredReturnCode": "Please enter return code",
+            "requiredReturnTitle": "Please enter return title",
+            "requiredReturnCategory": "Please select RETURN_CATEGORY",
+            "requiredStatus":"Please select status"
+        }
+    }
+}

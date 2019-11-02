@@ -1,0 +1,100 @@
+{
+    "ttMessageConfig": {
+        "title": {
+            "ttMessageConfigInfo": "Thông tin nhắn tin quá hạn/ quá hạn sự cố",
+            "ttMessageConfigInfoExtra": "Thông tin bổ sung",
+            "ttMessageConfigAdd": "Thêm mới nhắn tin quá hạn/ quá hạn sự cố",
+            "ttMessageConfigEdit": "Cập nhật nhắn tin quá hạn/ quá hạn sự cố",
+            "staff": "Nhân viên"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "status": "Trạng thái",
+            "typeCode": "Mã tin nhắn quá hạn/ quá hạn sự cố",
+            "type": "Loại OD",
+            "groupType": "Nhóm tin nhắn quá hạn/ quá hạn sự cố",
+            "priority": "Mức ưu tiên",
+            "processingTime": "Thời gian xử lý (H)",
+            "spmCode": "Tên cấu hình",
+            "configLevel": "Mức cấu hình",
+            "unit": "Đơn vị",
+            "staff": "Nhân viên",
+            "section": "Địa bàn",
+            "messageType": "Loại tin nhắn",
+            "fullname": "Họ và tên",
+            "account": "Tài khoản",
+            "email": "Email",
+            "phoneNumber": "Số điện thoại",
+            "singleSynMess": "Nhắn tin đơn lẻ và tổng hợp",
+            "singleMess": "Nhắn tin đơn lẻ",
+            "syntheticMess": "Nhắn tin tổng hợp"
+        },
+        "placeholder": {
+            "typeCode": "Nhập mã tin nhắn sự cố/hết hạn",
+            "type": "Nhập loại tin nhắn",
+            "groupType": "Nhập nhóm tin nhắn sự cố",
+            "searchAll": "Tìm kiếm theo tên cấu hình",
+            "spmCode": "Nhập tên cấu hình",
+            "unit": "Nhập mã <Tên>",
+            "staff": "Nhập account",
+            "handleTime": "Nhập thời gian xử lý",
+            "section": "Nhập địa bàn"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm tin nhắn không thành công",
+                "add": "Thêm mới tin nhắn không thành công",
+                "edit": "Sửa tin nhắn không thành công",
+                "delete": "Xóa tin nhắn không thành công",
+                "getDetail": "Lấy thông tin chi tiết tin nhắn không thành công",
+                "searchStaff": "Thêm nhân viên không thành công",
+                "messList": "Lấy thông tin bảng không thành công",
+                "wrongDataFormat": "Nhập sai định dạng, thời gian nhập vào phải nhỏ hơn 10000, hai chữ số phần thập phân",
+                "wrongZeroDataFormat": "Thời gian phải lớn hơn 0",
+                "duplicate": "Bản ghi đã tồn tại"
+            },
+            "success": {
+                "add": "Thêm mới tin nhắn thành công",
+                "edit": "Sửa tin nhắn thành công",
+                "delete": "Xóa tin nhắn thành công",
+                "getDetail": "Lấy thông tin chi tiết tin nhắn thành công"
+            },
+            "required": {
+                "spmCode": "Bạn chưa nhập vào tên cấu hình",
+                "configLevel": "Bạn chưa chọn mức cấu hình",
+                "priority": "Bạn chưa chọn mức ưu tiên",
+                "handleTime": "Bạn chưa nhập vào thời gian xử lí",
+                "unit": "Bạn chưa chọn đơn vị",
+                "numberRequired": "Bạn phải nhập số",
+                "duplicatedStaff": "Bạn đã nhập nhân viên này",
+                "messageType": "Bạn chưa chọn loại tin nhắn",
+                "staff": "Bạn chưa nhập vào nhân viên",
+                "rangeConfigLevel": "Vui lòng chọn lại mức cấu hình tương ứng với đơn vị"
+            },
+            "confirmDelete": "Bạn có muốn xóa tin nhắn {{ttMessageConfigCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredType": "Bạn chưa nhập tên tin nhắn",
+            "requiredODcode": "Bạn chưa nhập mã tin nhắn",
+            "requiredProcessTime": "Bạn chưa nhập thời gian xử lý"
+        }
+    }
+}

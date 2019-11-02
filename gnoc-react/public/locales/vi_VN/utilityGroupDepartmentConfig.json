@@ -1,0 +1,63 @@
+{
+    "utilityGroupDepartmentConfig": {
+        "title": {
+            "utilityGroupDepartmentConfigInfo": "Thông tin đơn vị thuộc nhóm đơn vị nghiệp vụ",
+            "utilityGroupDepartmentConfigInfoExtra": "Thông tin bổ sung",
+            "utilityGroupDepartmentConfigAdd": "Thêm mới đơn vị thuộc nhóm đơn vị nghiệp vụ",
+            "utilityGroupDepartmentConfigEdit": "Cập nhật đơn vị thuộc nhóm đơn vị nghiệp vụ"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "unitCode" : "Mã đơn vị",
+            "unitName" : "Đơn vị",
+            "groupUnitCode" : "Mã nhóm đơn vị nghiệp vụ",
+            "groupUnitName" : "Nhóm đơn vị nghiệp vụ"
+        },
+        "placeholder": {
+            "unitCode" : "Nhập mã đơn vị",
+            "unitName" : "Nhập tên đơn vị",
+            "groupUnitCode" : "Nhập mã nhóm đơn vị nghiệp vụ",
+            "groupUnitName" : "Nhập tên nhóm đơn vị nghiệp vụ",
+            "searchAll": "Tìm kiếm theo mã nhóm đơn vị nghiệp vụ và tên nhóm đơn vị nghiệp vụ"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm đơn vị thuộc nhóm đơn vị nghiệp vụ không thành công",
+                "add": "Thêm mới đơn vị thuộc nhóm đơn vị nghiệp vụ không thành công",
+                "edit": "Sửa đơn vị thuộc nhóm đơn vị nghiệp vụ không thành công",
+                "delete": "Xóa đơn vị thuộc nhóm đơn vị nghiệp vụ không thành công",
+                "getDetail": "Lấy thông tin chi tiết đơn vị thuộc nhóm đơn vị nghiệp vụ không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới đơn vị thuộc nhóm đơn vị nghiệp vụ thành công",
+                "edit": "Sửa đơn vị thuộc nhóm đơn vị nghiệp vụ thành công",
+                "delete": "Xóa đơn vị thuộc nhóm đơn vị nghiệp vụ thành công",
+                "getDetail": "Lấy thông tin chi tiết đơn vị thuộc nhóm đơn vị nghiệp vụ thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa đơn vị thuộc nhóm đơn vị nghiệp vụ {{utilityGroupDepartmentConfigCode}} không ?",
+            "requiredUnitName":"Bạn chưa chọn đơn vị",
+            "requiredGroupUnitName":"Bạn chưa chọn nhóm đơn vị nghiệp vụ"
+        }
+    }
+}

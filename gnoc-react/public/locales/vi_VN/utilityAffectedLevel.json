@@ -1,0 +1,78 @@
+{
+    "utilityAffectedLevel": {
+        "title": {
+            "utilityAffectedLevelInfo": "Thông tin mức độ ảnh hưởng",
+            "utilityAffectedLevelInfoExtra": "Thông tin bổ sung",
+            "utilityAffectedLevelAdd": "Thêm mới mức độ ảnh hưởng",
+            "utilityAffectedLevelEdit": "Cập nhật mức độ ảnh hưởng"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "status": "Trạng thái",
+            "typeCode": "Mã danh mục mức độ ảnh hưởng",
+            "type": "Loại danh mục mức độ ảnh hưởng",
+            "groupType": "Nhóm danh mục mức độ ảnh hưởng",
+            "affectedLevelCode": "Mã mức độ ảnh hưởng",
+            "affectedLevelName": "Tên mức độ ảnh hưởng",
+            "affectedLevel": "Mức độ ảnh hưởng",
+            "appliedSystem": "Hệ thống áp dụng",
+            "yes": "Có",
+            "no": "Không",
+            "applyforCR": "Áp dụng cho CR",
+            "applyforMR": "Áp dụng cho MR"
+        },
+        "placeholder": {
+            "typeCode": "Nhập mã danh mục mức độ ảnh hưởng",
+            "type": "Nhập danh mục mức độ ảnh hưởng",
+            "groupType": "Nhập nhóm danh mục mức độ ảnh hưởng",
+            "searchAll": "Tìm kiếm theo mã, tên mức độ ảnh hưởng",
+            "affectedLevelCode": "Nhập mã mức độ ảnh hưởng",
+            "affectedLevelName": "Nhập tên mức độ ảnh hưởng"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm mức độ ảnh hưởng không thành công",
+                "add": "Thêm mới mức độ ảnh hưởng không thành công",
+                "edit": "Sửa dan độ ảnh hưởng không thành công",
+                "delete": "Xóa mức độ ảnh hưởng không thành công",
+                "getDetail": "Lấy thông tin chi tiết mức độ ảnh hưởng không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "duplicate": "Bản ghi đã tồn tại"
+            },
+            "success": {
+                "add": "Thêm mới mức độ ảnh hưởng thành công",
+                "edit": "Sửa mức độ ảnh hưởng thành công",
+                "delete": "Xóa mức độ ảnh hưởng thành công",
+                "getDetail": "Lấy thông tin chi tiết mức độ ảnh hưởng thành công"
+            },
+            "required": {
+                "affectedLevelCode": "Bạn chưa nhập mã mức độ ảnh hưởng",
+                "affectedLevelName": "Bạn chưa nhập tên mức độ ảnh hưởng",
+                "affectedLevel": "Bạn chưa chọn mức độ ảnh hưởng",
+                "appliedSystem": "Bạn chưa chọn hệ thống áp dụng"
+            },
+            "confirmDelete": "Bạn có muốn xóa mức độ ảnh hưởng {{utilityAffectedLevelCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredType": "Bạn chưa nhập tên mức độ ảnh hưởng"
+        }
+    }
+}

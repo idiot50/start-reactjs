@@ -1,0 +1,64 @@
+{
+    "ttInfoConfig": {
+        "title": {
+            "ttInfoConfigInfo": "Trouble information information ",
+            "ttInfoConfigInfoExtra": "Trouble information extra information",
+            "ttInfoConfigAdd": "Add new Trouble information",
+            "ttInfoConfigEdit": "Update Trouble information"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "troubleArray" : "Trouble Array",
+            "troubleGroup" : "Trouble Group",
+            "troubleName" : "Trouble Name",
+            "subCategory" : "Sub Category"
+        },
+        "placeholder": {
+            "troubleName" : "Enter trouble name",
+            "searchAll": "Search by trouble array, trouble group, trouble name, sub category"
+        },
+        "message": {
+            "error": {
+                "search": "Search Trouble information failed",
+                "add": "Add new trouble information failed",
+                "edit": "Edit Trouble information failed",
+                "delete": "Delete Trouble information failed",
+                "getDetail": "Get Trouble information information failed",
+                "wrongDataFormat": "Wrong data format",
+                "duplicate": "Record is available on system"
+            },
+            "success": {
+                "add": "Add Trouble information successfully",
+                "edit": "Edit Trouble information successfully",
+                "delete": "Delete Trouble information successfully",
+                "getDetail": "Get detail Trouble information successfully"
+            },
+            "confirmDelete": "Do you want delete Trouble information {{ttInfoConfigId}} ?",
+            "requiredTroubleArray": "Please select trouble array",
+            "requiredTroubleGroup": "Please select trouble group",
+            "requiredTroubleName": "Please enter trouble name",
+            "requiredSubCategory": "Please select sub category"
+        }
+    }
+}

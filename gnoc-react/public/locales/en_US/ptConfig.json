@@ -1,0 +1,65 @@
+{
+    "ptConfig": {
+        "title": {
+            "ptConfigInfo": "Config problem process time information"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "export": "Export",
+            "search": "Search"
+        },
+        "label": {
+            "action" : "Action",
+            "priority": "Priority",
+            "technicalDepartment": "Technical array",
+            "configCode": "Configuration code",
+            "estimatedTimeFindRca": "Duration find RCA (hours)",
+            "estimatedTimeFindTemporarySolution": "Estimated time to find temporary solution (hours)",
+            "estimatedTimeFindRadicalSolution": "Estimated time to find radical solution (hours)",
+            "latestUpdateTime": "Time of the most recent updates"
+        },
+        "placeholder": {
+            "configCode": "Enter configuration code",
+            "estimatedTimeFindRca": "Enter duration find RCA",
+            "estimatedTimeFindTemporarySolution": "Enter estimated time to find temporary solution",
+            "estimatedTimeFindRadicalSolution": "Enter estimated time to find radical solution",
+            "searchAll": "Search by code"
+        },
+        "message": {
+            "error": {
+                "search": "Search configuration failed ",
+                "add": "Add new configuration failed",
+                "edit": "Edit configuration failed",
+                "delete": "Delete configuration failed",
+                "getDetail": "Get configuration information failed",
+                "slDataFormat": "Time to search for solution must be a positive integer",
+                "waDataFormat": "Time to search for Wa must be a positive integer",
+                "rcaDataFormat": "Time to search for Rca must be a positive integer",
+                "slDataFormatLength": "Time to search for solution is only a maximum of 10",
+                "waDataFormatLength": "Time to search for Wa is only a maximum of 10",
+                "rcaDataFormatLength": "Time to search for Rca is only a maximum of 10"
+            },
+            "success": {
+                "add": "Add configuration successfully",
+                "edit": "Edit configuration successfully",
+                "delete": "Delete configuration successfully",
+                "getDetail": "Get detail configuration successfully"
+            },
+            "required": {
+                "configCode": "Please enter configuration code",
+                "priority": "Please select priority",
+                "technicalDepartment": "Please select technical array",
+                "estimatedTimeFindRca": "Please enter estimated time to find Rca",
+                "estimatedTimeFindTemporarySolution": "Please enter estimated time to find temporary solution",
+                "estimatedTimeFindRadicalSolution": "Please enter estimated time to find radical solution"
+            },
+            "confirmDelete": "Do you want delete configuration {{name}} ?"
+        }
+    }
+}

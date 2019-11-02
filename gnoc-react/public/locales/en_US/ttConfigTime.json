@@ -1,0 +1,92 @@
+{
+    "ttConfigTime": {
+        "title": {
+            "ttConfigTimeInfo": "Config troubleshooting time",
+            "ttConfigTimeInfoExtra": "Type OD extra information",
+            "ttConfigTimeAdd": "Add new troubleshooting time type",
+            "ttConfigTimeEdit": "Update troubleshooting time type"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "isCall": {
+                "1": "Yes",
+                "0": "No"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "subCategoryId": "Sub category",
+            "ttPriority": "Priority",
+            "country": "Country",
+            "isCall": "Call",
+            "createTtTime": "Times to create ticket (H)",
+            "processTtTime": "Times to clear ticket (H)",
+            "processWoTime": "Time process of wo (H)",
+            "cdAudioName": "The name of the CD recording",
+            "ftAudioName": "The name of the FT recording",
+            "lastUpdateTime": "Last updated time",
+            "closeTtTime": "Times to close ticket (H)",
+            "timeWoVip": "Times to clear wo station vip (H)",
+            "timeStationVip": "Times to clear ticket station vip (H)",
+            "typeId": "Domain",
+            "timeAboutOverdue": "Time to send an incident message about to expire (H)",
+            "vipStation": "Vip station"
+        },
+        "placeholder": {
+            "createTtTime": "Times to create ticket (H)",
+            "processTtTime": "Times to clear ticket (H)",
+            "processWoTime": "Time process of wo (H)",
+            "cdAudioName": "The name of the CD recording",
+            "ftAudioName": "The name of the FT recording",
+            "lastUpdateTime": "Last updated time",
+            "closeTtTime": "Times to close ticket (H)",
+            "timeWoVip": "Times to clear wo station vip (H)",
+            "timeStationVip": "Times to clear ticket station vip (H)",
+            "typeId": "Domain",
+            "timeAboutOverdue": "Time to send an incident message about to expire (H)",
+            "searchAll": "Search by domain, sub category, priority, country"
+        },
+        "message": {
+            "error": {
+                "search": "Search troubleshooting time failed",
+                "add": "Add new troubleshooting time failed",
+                "edit": "Edit troubleshooting time failed",
+                "delete": "Delete troubleshooting time failed",
+                "getDetail": "Get troubleshooting time information failed",
+                "wrongDataFormat": "Wrong data format, time must less than 10000, two digits after decimal part",
+                "wrongZeroDataFormat": "Time must be greater than 0"
+            },
+            "success": {
+                "add": "Add troubleshooting time successfully",
+                "edit": "Edit troubleshooting time successfully",
+                "delete": "Delete troubleshooting time successfully",
+                "getDetail": "Get detail troubleshooting time successfully"
+            },
+            "confirmDelete": "Do you want delete troubleshooting time {{ttConfigTimeCode}} ?",
+            "requiredCountry": "Please select country",
+            "requiredType": "Please select domain",
+            "requiredSubCategory": "Please select sub category",
+            "requiredPriority": "Please select priority",
+            "requiredCreateTtTime": "Please enter times to create ticket",
+            "requiredCloseTtTime": "Please enter times to close ticket",
+            "requiredProcessTtTime": "Please enter times to clear ticket",
+            "requiredProcessWoTime": "Please enter time process of wo",
+            "requiredTimeStationVip": "Please enter times to clear ticket station vip",
+            "requiredTimeWoVip": "Please enter times to clear wo station vip"
+        }
+    }
+}

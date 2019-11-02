@@ -1,0 +1,64 @@
+{
+    "utilityLanguageConfig": {
+        "title": {
+            "utilityLanguageConfigInfo": "Language Information ",
+            "utilityLanguageConfigAdd": "Add new language ",
+            "utilityLanguageConfigEdit": "Update language",
+            "utilityLanguageConfigInfoExtra":"Type language extra information"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "flag": "Icon Flag",
+            "key": "Key",
+            "name": "Language"
+        },
+        "placeholder": {
+            "key": "Enter key",
+            "name": "Enter language",
+            "flag": "Enter Flag",
+            "searchAll": "Search by key, language name"
+        },
+        "message": {
+            "error": {
+                "search": "Search language failed",
+                "add": "Add new language failed",
+                "edit": "Edit Language failed",
+                "delete": "Delete language failed",
+                "getDetail": "Get Language information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add language successfully",
+                "edit": "Edit language successfully",
+                "delete": "Delete language successfully",
+                "getDetail": "Get detail language successfully"
+            },
+            "confirmDelete": "Do you want delete language {{gnocLanguageId}} ?",
+            "requiredStatus": "Please select status",
+            "requiredUtilityFlag": "Please enter flag",
+            "requiredUtilityKey": "Please enter key",
+            "requiredUtilityName": "Please enter name"
+        }
+    }
+}

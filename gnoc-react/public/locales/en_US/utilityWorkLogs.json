@@ -1,0 +1,47 @@
+{
+    "utilityWorkLogs": {
+        "title": {
+            "utilityWorkLogsAdd": "Add WorkLog",
+            "utilityWorkLogsEdit": "Update WorkLog",
+            "utilityWorkLogsInfo": "Information WorkLog"
+        },
+        "button": {
+            "add": "Add"
+        },
+        "label": {
+            "action" : "Action",
+            "worklogType": "WorkLog Type",
+            "worklogCode": "WorkLog Code",
+            "worklogName": "WorkLog Name",
+            "description": "Description",
+            "uneditable": "Uneditable"
+        },
+        "placeholder": {
+            "searchAll": "Search by code, name",
+            "worklogType": "Enter WorkLog type",
+            "worklogCode": "Enter WorkLog code",
+            "worklogName": "Enter WorkLog name",
+            "description": "Enter description"
+        },
+        "message": {
+            "error": {
+                "search": "Search Configure Worklog successfully failed",
+                "add": "Add Configure Worklog successfully failed",
+                "edit": "Edit Configure Worklog failed",
+                "delete": "Delete Configure Worklog failed",
+                "getDetail": "Get Configure Worklog information failed"
+            },
+            "success": {
+                "add": "Add Configure Worklog successfully",
+                "edit": "Edit Configure Worklog successfully",
+                "delete": "Delete Configure Worklog successfully",
+                "getDetail": "Get detail Configure Worklog successfully"
+            },
+            "confirmDelete": "Do you want delete worklog {{utilityWorkLogsCode}} ?",
+            "requiredWorkLogType": "Please select WorkLog type",
+            "requiredWorkLogCode": "Please enter WorkLog code",
+            "requiredWorkLogName": "Please enter WorkLog name",
+            "requiredStatus":"Please select status"
+        }
+    }
+}

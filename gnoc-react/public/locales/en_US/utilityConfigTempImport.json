@@ -1,0 +1,92 @@
+{
+    "utilityConfigTempImport": {
+        "title": {
+            "utilityConfigTempImportInfo": "Configure temp import information ",
+            "utilityConfigTempImportAdd": "Add configure temp import",
+            "utilityConfigTempImportEdit": "Update configure temp import",
+            "listFile":"List file",
+            "colValidation":"Column validation"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search",
+            "remove": "Remove"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "yes":"Yes",
+            "no":"No",
+            "fileCode": "Code",
+            "fileName": "File name",
+            "file":"File",
+            "path":"Path",
+            "description": "Description",
+            "isMerge": "IS_MERGE",
+            "totalCols":"Total columns",
+            "isEditAllowed":"Is edit allowed",
+            "isInputValidated":"Is input validated",
+            "isOutputValidated":"Is output validated",
+            "isRevert":"IS_REVERT",
+            "isMecFile":"IS_MEC_FILE",
+            "title":"Title",
+            "colPosition":"Column position",
+            "methodParameter":"Method parameter",
+            "webserviceMethod":"WEBSERVICE method"
+        },
+        "placeholder": {
+            "fileCode": "Enter file code",
+            "fileName": "Enter file name",
+            "description": "Enter description",
+            "searchAll": "Search by code, name",
+            "totalCols":"Enter total columns",
+            "file":"Enter file",
+            "path":"Enter path",
+            "title":"Enter title",
+            "colPosition" :"Enter column position"
+        },
+        "message": {
+            "error": {
+                "search": "Search Configure Temp Import failed",
+                "add": "Add Configure Temp Import failed",
+                "edit": "Edit Configure Temp Import failed",
+                "delete": "Delete Configure Temp Import failed",
+                "getDetail": "Get Configure Temp Import information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add Configure Temp Import successfully",
+                "edit": "Edit Configure Temp Import successfully",
+                "delete": "Delete Configure Temp Import successfully",
+                "getDetail": "Get detail Configure Temp Import successfully"
+            },
+            "required":{
+                "confirmDelete": "Do you want delete temp import {{utilityConfigTempImportCode}} ?",
+                "requiredFileCode": "Please enter file code",
+                "requiredFileName": "Please enter file name",
+                "requiredTotalCols": "Please enter total column",
+                "requiredDescription": "Please enter description",
+                "requiredFileDefault": "Required select the default file according to the language being used",
+                "requiredTitle":"Please enter title",
+                "requiredColPosition":"Please enter column position",
+                "methodParameter":"Please select method parameter",
+                "requiredNumber":"Please enter an integer with max length of 10 digits",
+                "codeExisted":"code existed"
+            }
+        }
+    }
+}

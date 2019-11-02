@@ -1,0 +1,67 @@
+{
+    "utilityConfigEmployeeImpact": {
+        "title": {
+            "utilityConfigEmployeeImpactInfo": "Employee impact information",
+            "utilityConfigEmployeeImpactAdd": "Insert employee impact",
+            "utilityConfigEmployeeImpactEdit": "Update employee impact"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "level": {
+                "1": "1",
+                "2": "2",
+                "3": "3"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "employee": "Employee",
+            "unit": "Unit",
+            "parentArray": "Parent Array",
+            "childArray": "Child Array",
+            "level": "Level",
+            "updatedUser": "Updated User",
+            "updatedTime":"Updated Time"
+        },
+        "placeholder": {
+            "unit": "Input code<name> unit",
+            "employee": "Input username<full name> user",
+            "searchAll":"Search by employee",
+            "updatedTime":"dd/mm/yyyy",
+            "updatedUser":"Enter updated User"
+        },
+        "message": {
+            "error": {
+                "search": "Search Employee Impact Management failed",
+                "add": "Insert Employee Impact Management failed",
+                "edit": "Update Employee Impact Management failed",
+                "delete": "Delete Employee Impact Management failed",
+                "getDetail": "Get detail Employee Impact Management faild",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Insert Employee Impact Management successfully",
+                "edit": "Update Employee Impact Management successfully",
+                "delete": "Delete Employee Impact Management successfully",
+                "getDetail": "Get detail Employee Impact Management successfully"
+            },
+            "confirmDelete": "Do you want delete employee impact {{utilityConfigEmployeeImpactCode}}  ?",
+            "requiredLevel": "Please select Level",
+            "requiredEmployee": "Please enter full name",
+            "requiredParentArray": "Please select Parent Array",
+            "requiredChildArray": "Please select Child Array"
+        }
+    }
+}

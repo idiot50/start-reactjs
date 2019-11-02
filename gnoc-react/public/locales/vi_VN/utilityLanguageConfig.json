@@ -1,0 +1,63 @@
+{
+    "utilityLanguageConfig": {
+        "title": {
+            "utilityLanguageConfigInfo": "Thông tin ngôn ngữ",
+            "utilityLanguageConfigAdd": "Thêm ngôn ngữ mới",
+            "utilityLanguageConfigEdit": "Cập nhật ngôn ngữ",
+            "utilityLanguageConfigExtra":"Thông tin bổ sung"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "flag": "Cờ",
+            "key": "Key",
+            "name": "Tên ngôn ngữ"           
+        },
+        "placeholder": {
+            "key": "Nhập key",
+            "name": "Nhập ngôn ngữ",
+            "searchAll": "Tìm kiếm bằng khóa, tên"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm ngôn ngữ không thành công",
+                "add": "Thêm mới ngôn ngữ không thành công",
+                "edit": "Sửa ngôn ngữ không thành công",
+                "delete": "Xóa ngôn ngữ không thành công",
+                "getDetail": "Lấy thông tin chi tiết ngôn ngữ không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới ngôn ngữ thành công",
+                "edit": "Sửa ngôn ngữ thành công",
+                "delete": "Xóa ngôn ngữ thành công",
+                "getDetail": "Lấy thông tin chi tiết ngôn ngữ thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa language {{gnocLanguageId}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredUtilityFlag": "Bạn chưa nhập cờ",
+            "requiredUtilityKey": "Bạn chưa nhập key",
+            "requiredUtilityName": "Bạn chưa nhập tên ngôn ngữ"
+        }
+    }
+}

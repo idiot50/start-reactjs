@@ -1,0 +1,67 @@
+{
+    "utilityCrCabUsers": {
+        "title": {
+            "utilityCrCabUsersInfo": "Thông tin nhân sự CAB",
+            "utilityCrCabUsersInfoExtra": "Thông tin bổ sung",
+            "utilityCrCabUsersAdd": "Thêm mới nhân sự CAB",
+            "utilityCrCabUsersEdit": "Cập nhật nhân sự CAB"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "unitImpl": "Đơn vị thực hiện",
+            "impactArr": "Mảng tác động",
+            "CABUnit": "Đơn vị CAB",
+            "CABEmpl": "Nhân sự CAB",
+            "createdUnit": "Đơn vị tạo"
+        },
+        "placeholder": {
+            "searchAll": "Tìm kiếm theo nhân sự CAB",
+            "unitImpl": "Nhập mã <tên> đơn vị",
+            "CABUnit": "Nhập mã <tên> đơn vị",
+            "createdUnit": "Nhập mã <tên> đơn vị"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm nnhân sự CAB không thành công",
+                "add": "Thêm mới nhân sự CAB không thành công",
+                "edit": "Sửa nhân sự CAB không thành công",
+                "delete": "Xóa nhân sự CAB không thành công",
+                "getDetail": "Lấy thông tin chi tiết nhân sự CAB không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới nhân sự CAB thành công",
+                "edit": "Sửa nhân sự CAB thành công",
+                "delete": "Xóa nhân sự CAB thành công",
+                "getDetail": "Lấy thông tin chi tiết nhân sự CAB thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa nhân sự CAB {{utilityCrCabUsersCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredProcessTime": "Bạn chưa nhập thời gian xử lý",
+            "requiredUnitImpl": "Bạn chưa nhập đơn vị thực hiện",
+            "requiredImpactArr": "Bạn chưa chọn mảng tác động",
+            "requiredCABUnit": "Bạn chưa nhập đơn vị CAB",
+            "requiredCABEmpl": "Bạn chưa chọn nhân sự CAB"
+        }
+    }
+}

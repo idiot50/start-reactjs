@@ -1,0 +1,66 @@
+{
+    "odType": {
+        "title": {
+            "odTypeInfo": "Type OD information ",
+            "odTypeInfoExtra": "Type OD extra information",
+            "odTypeAdd": "Add new OD type",
+            "odTypeEdit": "Update OD type"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "typeCode": "OD type code",
+            "type": "OD type",
+            "groupType": "Group OD type",
+            "priority": "Priority",
+            "processingTime": "Processing Time (H)"
+        },
+        "placeholder": {
+            "typeCode": "Enter OD type code",
+            "type": "Enter OD type",
+            "groupType": "Enter group OD type",
+            "searchAll": "Search by code, name"
+        },
+        "message": {
+            "error": {
+                "search": "Search type OD failed",
+                "add": "Add new type OD failed",
+                "edit": "Edit type OD failed",
+                "delete": "Delete type OD failed",
+                "getDetail": "Get type OD information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add type OD successfully",
+                "edit": "Edit type OD successfully",
+                "delete": "Delete type OD successfully",
+                "getDetail": "Get detail type OD successfully"
+            },
+            "confirmDelete": "Do you want delete OD {{odTypeCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter OD type",
+            "requiredODcode": "Please enter OD type code",
+            "requiredProcessTime": "Please enter process time"
+        }
+    }
+}

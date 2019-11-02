@@ -1,0 +1,79 @@
+{
+    "utilityStatusConfig": {
+        "title": {
+            "utilityStatusConfigInfo": "Thông tin cấu hình",
+            "utilityStatusConfigInfoExtra": "Thông tin bổ sung",
+            "utilityStatusConfigAdd": "Thêm mới cấu hình",
+            "utilityStatusConfigEdit": "Cập nhật cấu hình",
+            "inforConfig": "Thông tin cấu hình"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm",
+            "rotateLeft": "Xoay trái",
+            "rotateRight": "Xoay phải"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "status": "Trạng thái",
+            "typeCode": "Mã cấu hình trạng thái",
+            "type": "Loại cấu hình trạng thái",
+            "groupType": "Nhóm cấu hình trạng thái",
+            "priority": "Mức ưu tiên",
+            "processingTime": "Thời gian xử lý (H)",
+            "initialStatus": "Trạng thái đầu",
+            "lastStatus": "Trạng thái sau",
+            "procedure": "Quy trình",
+            "description": "Mô tả"
+        },
+        "placeholder": {
+            "procedure": "Nhập tên quy trình",
+            "initialStatus": "Nhập mô tả",
+            "lastStatus": "Nhập trạng thái sau",
+            "type": "Nhập cấu hình trạng thái",
+            "groupType": "Nhập nhóm cấu hình trạng thái",
+            "description": "Nhập vào mô tả",
+            "searchAll": "Tìm kiếm theo mô tả"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm thông tin cấu hình không thành công",
+                "add": "Thêm mới thông tin cấu hình không thành công",
+                "edit": "Sửa thông tin cấu hình không thành công",
+                "delete": "Xóa thông tin cấu hình không thành công",
+                "getDetail": "Lấy thông tin chi tiết thông tin cấu hình không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới thông tin cấu hình thành công",
+                "edit": "Sửa thông tin cấu hình thành công",
+                "delete": "Xóa thông tin cấu hình thành công",
+                "getDetail": "Lấy thông tin chi tiết thông tin cấu hình thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa cấu hình trạng thái {{utilityStatusConfigCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredType": "Bạn chưa nhập tên cấu hình trạng thái",
+            "requiredODcode": "Bạn chưa nhập mã cấu hình trạng thái",
+            "requiredProcessTime": "Bạn chưa nhập thời gian xử lý",
+            "requiredProcedure": "Bạn chưa chọn quy trình",
+            "requiredInitialStatus": "Bạn chưa chọn trạng thái đầu",
+            "requiredLastStatus": "Bạn chưa chọn trạng thái sau",
+            "requiredDescription": "Bạn chưa nhập mô tả"
+        }
+    }
+}

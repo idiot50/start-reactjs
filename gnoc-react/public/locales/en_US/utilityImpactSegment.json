@@ -1,0 +1,73 @@
+{
+    "utilityImpactSegment": {
+        "title": {
+            "utilityImpactSegmentInfo": "Impact segment information ",
+            "utilityImpactSegmentInfoExtra": "Impact segment extra information",
+            "utilityImpactSegmentAdd": "Add impact segment",
+            "utilityImpactSegmentEdit": "Update impact segment"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "status": "Status",
+            "typeCode": "impact segment code",
+            "groupType": "Group impact segment",
+            "impactSegmentCode": "Impact segment code",
+            "impactSegmentName": "Impact segment name",
+            "appliedSystem": "Applied system",
+            "applyforCR": "Apply for CR",
+            "applyforMR": "Apply for MR"
+        },
+        "placeholder": {
+            "typeCode": "Enter impact segment code",
+            "type": "Enter impact segment",
+            "groupType": "Enter group impact segment",
+            "searchAll": "Search by code, name impact segment",
+            "impactSegmentCode": "Enter impact segment code",
+            "impactSegmentName": "Enter impact segment name"
+        },
+        "message": {
+            "error": {
+                "search": "Search Impact Segment Category failed",
+                "add": "Add Impact Segment Category failed",
+                "edit": "Edit Impact Segment Category failed",
+                "delete": "Delete Impact Segment Category failed",
+                "getDetail": "Get Impact Segment Category information failed",
+                "wrongDataFormat": "Wrong data format",
+                "duplicate":"Impact Segment code existed"
+            },
+            "success": {
+                "add": "Add Impact Segment Category successfully",
+                "edit": "Edit Impact Segment Category successfully",
+                "delete": "Delete Impact Segment Category successfully",
+                "getDetail": "Get detail Impact Segment Category successfully"
+            },
+            "required": {
+                "impactSegmentCode": "Please enter segment code",
+                "impactSegmentName": "Please enter segment name",
+                "appliedSystem": "Please enter applied system"
+            },
+            "confirmDelete": "Do you want delete impact segment {{utilityImpactSegmentCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter impact segment"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "woUpdateServiceInfra": {
+        "title": {
+            
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "infraType": {
+                "coppleCable": "Copple cable",
+                "coaxialCable": "Coaxial cable",
+                "AON": "AON",
+                "GPON": "GPON"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "woCode": "Wo code",
+            "account": "Account_ISDN",
+            "service": "Service",
+            "infrastructure": "Infrastructure",
+            "save": "Save",
+            "woU": "woU"
+        },
+        "placeholder": {
+            "status": "Status",
+            "woCode": "Wo code",
+            "account": "Account_ISDN",
+            "service": "Service",
+            "infrastructure": "Infrastructure",
+            "save": "Save",
+            "searchAll": "Search by wo code, account"
+        },
+        "message": {
+            "error": {
+                "search": "Search infrastructure failed",
+                "add": "Add new infrastructure failed",
+                "update": "Edit infrastructure failed",
+                "delete": "Delete infrastructure failed",
+                "getDetail": "Get infrastructure information failed"
+            },
+            "success": {
+                "add": "Add infrastructure successfully",
+                "update": "Edit infrastructure successfully",
+                "delete": "Delete infrastructure successfully",
+                "getDetail": "Get detail infrastructure successfully"
+            }
+        }
+    }
+}

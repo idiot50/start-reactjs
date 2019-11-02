@@ -1,0 +1,92 @@
+{
+    "utilityConfigTempImport": {
+        "title": {
+            "utilityConfigTempImportInfo": "Thông tin danh sách import file",
+            "utilityConfigTempImportAdd": "Thêm mới danh sách import file",
+            "utilityConfigTempImportEdit": "Cập nhật danh sách import file",
+            "listFile": "Danh sách file",
+            "colValidation": "Validate cột"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm",
+            "remove": "Loại bỏ"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "yes":"Có",
+            "no":"Không",
+            "fileCode": "Mã",
+            "fileName": "Tên file",
+            "file": "File",
+            "path": "Path",
+            "description": "Mô tả",
+            "isMerge": "IS_MERGE",
+            "totalCols": "Tổng cột",
+            "isEditAllowed": "Không cho sửa",
+            "isInputValidated": "Có validate đầu vào",
+            "isOutputValidated": "Có validate đầu ra",
+            "isRevert": "IS_REVERT",
+            "isMecFile": "IS_MEC_FILE",
+            "title": "Tiêu đề",
+            "colPosition":"Vị trí cột",
+            "methodParameter":"METHOD_PARAMETER",
+            "webserviceMethod":"Hàm WEBSERVICE"
+        },
+        "placeholder": {
+            "fileCode": "Nhập mã file",
+            "fileName": "Nhập tên file",
+            "description": "Nhập mô tả",
+            "file": "Nhập File",
+            "path": "Nhập Path",
+            "searchAll": "Tìm kiếm theo mã , tên file",
+            "totalCols": "Nhập tổng cột",
+            "title": "Nhập tiêu đề",
+            "colPosition" :"Nhập vị trí cột"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm file import không thành công",
+                "add": "Thêm mới file import không thành công",
+                "edit": "Sửa file import không thành công",
+                "delete": "Xóa file import không thành công",
+                "getDetail": "Lấy thông tin chi tiết file import không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới file import thành công",
+                "edit": "Sửa file import thành công",
+                "delete": "Xóa file import thành công",
+                "getDetail": "Lấy thông tin chi tiết file import thành công"
+            },
+            "required": {
+                "confirmDelete": "Bạn có muốn xóa file import {{utilityConfigTempImportCode}} không ?",
+                "requiredFileCode": "Bạn chưa nhập mã file",
+                "requiredFileName": "Bạn chưa nhập tên file",
+                "requiredTotalCols": "Bạn chưa nhập tổng cột",
+                "requiredDescription": "Bạn chưa nhập mô tả",
+                "requiredFileDefault": "Bắt buộc chọn file mặc định theo ngôn ngữ đang sử dụng",
+                "requiredTitle":"Bạn chưa nhập tiêu đề",
+                "requiredColPosition":"Bạn chưa nhập vị trí cột",
+                "methodParameter":"Bạn chưa chọn tham số phương thức",
+                "requiredNumber":"Nhập số nguyên tối đa 10 chữ số",
+                "codeExisted":"Mã đã tồn tại"
+            }
+        }
+    }
+}

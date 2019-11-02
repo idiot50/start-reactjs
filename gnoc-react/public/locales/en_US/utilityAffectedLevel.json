@@ -1,0 +1,78 @@
+{
+    "utilityAffectedLevel": {
+        "title": {
+            "utilityAffectedLevelInfo": "Affected level information ",
+            "utilityAffectedLevelInfoExtra": "Affected level extra information",
+            "utilityAffectedLevelAdd": "Add new affected level",
+            "utilityAffectedLevelEdit": "Update affected level"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "status": "Status",
+            "typeCode": "Affected level code",
+            "type": "Affected level",
+            "groupType": "Group affected level",
+            "affectedLevelCode": "Affected level code",
+            "affectedLevelName": "Affected level name",
+            "affectedLevel": "Affected level",
+            "appliedSystem": "Applied system",
+            "yes": "Yes",
+            "no": "No",
+            "applyforCR": "Apply for CR",
+            "applyforMR": "Apply for MR"
+        },
+        "placeholder": {
+            "typeCode": "Enter affected level code",
+            "type": "Enter affected level",
+            "groupType": "Enter group affected level",
+            "searchAll": "Search by code, name affected level",
+            "affectedLevelCode": "Enter affected level code",
+            "affectedLevelName": "Enter affected level name"
+        },
+        "message": {
+            "error": {
+                "search": "Search Affected Level Category failed",
+                "add": "Add Affected Level Category failed",
+                "edit": "Edit Affected Level Category failed",
+                "delete": "Delete Affected Level Category failed",
+                "getDetail": "Get Affected Level Category information failed",
+                "wrongDataFormat": "Wrong data format",
+                "duplicate": "Affected level code existed"
+            },
+            "success": {
+                "add": "Add Affected Level Category successfully",
+                "edit": "Edit Affected Level Category successfully",
+                "delete": "Delete Affected Level Category successfully",
+                "getDetail": "Get detail Affected Level Category successfully"
+            },
+            "required": {
+                "affectedLevelCode": "Please enter affected level code",
+                "affectedLevelName": "Please enter affected level name",
+                "affectedLevel": "Please select affected level",
+                "appliedSystem": "Please select applied system"
+            },
+            "confirmDelete": "Do you want delete affected level {{utilityAffectedLevelCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter affected level"
+        }
+    }
+}

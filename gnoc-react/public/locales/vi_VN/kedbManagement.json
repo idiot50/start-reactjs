@@ -1,0 +1,139 @@
+{
+    "kedbManagement": {
+        "title": {
+            "kedbManagementInfo": "Thông tin",
+            "kedbManagementInfoExtra": "Thông tin thêm",
+            "kedbManagementAdd": "Thêm mới",
+            "kedbManagementEdit": "Cập nhật ",
+            "history":"Lịch sử",
+            "information":"Thông tin",
+            "viewConfigField": "Xem cấu hình tìm kiếm"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm",
+            "save": "Lưu lại cấu hình tìm kiếm",
+            "restore": "Khôi phục tìm kiếm mặc định",
+            "viewConfigField": "Xem cấu hình tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "status": "Trạng thái",
+            "typeCode": "Mã Kedb",
+            "type": "Kedb",
+            "groupType": "Nhóm Kedb",
+            "priority": "Mức ưu tiên",
+            "processingTime": "Thời gian xử lý (H)",
+            "softwareVersion": "Phiên bản phần mềm",
+            "hardwareVersion": "Phiên bản phần cứng",
+            "staff": "Nhân viên đóng",
+            "kedbCode": "Mã bài học kinh nghiệm",
+            "kedbName": "Tên bài học kinh nghiệm",
+            "vendor": "Vendor",
+            "parentTypeName": "Mảng",
+            "typeName": "Phân mảng",
+            "nodeType": "Loại node mạng",
+            "createUserName": "Người tạo",
+            "createdTime": "Thời gian tạo",
+            "searchByContent": "Tìm kiếm theo nội dung file",
+            "createdByPt": "Được tạo bởi Pt/Tt nào",
+            "handleUnit": "Đơn vị phê duyệt",
+            "description": "Mô tả",
+            "rootCause": "Nguyên nhân gốc",
+            "solution": "Giải pháp/ bài học kinh nghiệm",
+            "comment": "Bình luận",
+            "newComment": "Bình luận mới",
+            "attachFile": "Files đính kèm",
+            "approvalUnit":"Đơn vị phê duyệt",
+            "rate":"Đánh giá của bạn",
+            "averageRate":"Đánh giá trung bình",
+            "quickSearch": "Tìm kiếm nhanh",
+            "checkDescription": "Checkbox tìm theo nội dung",
+            "createTimeFrom": "Thời gian tạo từ",
+            "createTimeTo": "Thời gian tạo đến",
+            "fieldName": "Tên trường",
+            "fieldValue": "Giá trị hiện tại của trường",
+            "content": "Nội dung",
+            "createUnit" : "Đơn vị tạo"
+        },
+        "placeholder": {
+            "typeCode": "Nhập mã Kedb",
+            "type": "Nhập Kedb",
+            "groupType": "Nhập nhóm Kedb",
+            "searchByContent": "Nhập nội dung file",
+            "staff": "Nhập tên nhân viên đóng",
+            "kedbCode": "Nhập mã bài học kinh nghiệm",
+            "kedbName": "Nhập tên bài học kinh nghiệm",
+            "createUserName": "Nhập vào tên người tạo",
+            "createdByPt": "Nhập vào Pt/Tt tạo",
+            "handleUnit": "Nhập đơn vị xử lý",
+            "description": "Nhập vào mô tả",
+            "rootCause": "Nhập vào nguyên nhân gốc",
+            "solution": "Nhập vào giải pháp, bài học kinh nghiệm",
+            "searchAll": "Tìm kiếm theo mã bài học kinh nghiệm, tên bài học kinh nghiệm, mô tả, nguyên nhân gốc, giải pháp tạm thời, giải pháp triệt để"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm Kedb không thành công",
+                "add": "Thêm mới Kedb không thành công",
+                "edit": "Cập nhật Kedb không thành công",
+                "delete": "Xóa Kedb không thành công",
+                "getDetail": "Lấy thông tin chi tiết Kedb không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "authority": "Bạn không có quyền để thực hiện",
+                "saveSearchConfig" : "Lưu cấu hình không thành công",
+                "filePermission": "Bạn không có quyền xóa file"
+            },
+            "success": {
+                "add": "Thêm mới Kedb thành công",
+                "edit": "Cập nhật Kedb thành công",
+                "delete": "Xóa Kedb thành công",
+                "getDetail": "Lấy thông tin chi tiết Kedb thành công",
+                "saveSearchConfig" : "Lưu cấu hình thành công"
+            },
+            "required": {
+                "kedbName": "Bạn chưa nhập vào tên bài học kinh nghiệm",
+                "createUserName":"Bạn chưa nhập vào tên người tạo",
+                "createdByPt":"Bạn chưa nhập vào Pt/Tt tạo",
+                "parentTypeName":"Bạn chưa chọn mảng",
+                "typeName":"Bạn chưa chọn phân mảng",
+                "nodeType":"Bạn chưa chọn loại node mạng",
+                "vendor":"Bạn chưa chọn vendor",
+                "kedbState":"Bạn chưa chọn trạng thái",
+                "softwareVersion":"Bạn chưa chọn phiên bản phần mềm",
+                "hardwareVersion":"Bạn chưa chọn phiên bản phần cứng",
+                "unitCheckId":"Bạn chưa chọn đơn vị phê duyệt",
+                "staff":"Bạn chưa nhập vào nhân viên đóng",
+                "description":"Bạn chưa nhập vào mô tả",
+                "rootCause":"Bạn chưa nhập vào nguyên nhân gốc",
+                "solution":"Bạn chưa nhập vào giải pháp"
+            },
+            "confirmDelete": "Bạn có muốn xóa Kedb {{kedbManagementCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredType": "Bạn chưa nhập tên Kedb",
+            "requiredODcode": "Bạn chưa nhập mã Kedb",
+            "requiredProcessTime": "Bạn chưa nhập thời gian xử lý",
+            "confirmAdd": "Bạn có chắc chắn muốn lưu thông tin không ?"
+        },
+        "textEditorGuilde": {
+            "description": "<b>- Mô tả:</b>&nbsp;ngắn gọn nhưng đầy đủ về hiện tượng và mức độ ảnh hưởng đến mạng lưới hoặc dịch vụ khách hàng…gặp phải (vd: khách hàng gọi đi máy báo tút tút, nhận cuộc gọi bình thường)<br>-&nbsp;<b>Các dấu hiệu để nhận biết lỗi này (có dấu hiệu nào để nhận biết thì liệt kê),</b>&nbsp;ví dụ:<br>+ Dấu hiệu 1: Cảnh báo A<br>+ Dấu hiệu 2: Kiểm tra log có mã lỗi B<br>+&nbsp; Dấu hiệu 3: Không thực hiện được tác động C",
+            "reason": "<p class=\"MsoNormal\">Nguyên nhân gốc gây ra lỗi (có thể trình bày từ nguyên nhân lớp 1 đến lớp thứ n).<br> <i>Ví dụ: Do card restart --&gt; Tại sao Restart? --&gt;</i><i>&nbsp;Do CPU bị cao tải -&gt; tại sao CPU cao tải? -&gt; Do nhiều process X được khởi tao -&gt; tại sao nhiều process X được khởi tạo -&gt; &nbsp;Do cấu hình sai tham số Y--&gt; Tham số Y là tham số gì ? Ảnh hưởng như thế nào ? Tại sao Cấu hình sai tham số ?&nbsp;</i></p>",
+            "solution": "<p class=\"MsoNormal\">Mô tả giải pháp xử lý tạm thời và giải pháp triệt để:<br> 1. <b>Giải pháp tạm thời:</b> Là giải pháp để xử lý lỗi.<br> - Điều kiện áp dụng: Đưa ra các điều kiện để áp dụng giải pháp tạm thời này<br> -&nbsp; Các bước thực hiện: Mô tả chi tiết từng bước thực hiện.<br> 2. <b>Giải pháp triệt để:</b> Là giải pháp để ngăn sự cố lặp lại<br> - Điều kiện áp dụng: Đưa ra các điều kiện để áp dụng giải pháp tạm thời này<br> - Các bước thực hiện: Mô tả chi tiết từng bước thực hiện.<b><br> </b><i>Ví dụ:<br> Bước 1: Hành động A, chi tiết từng thao tác.<br> Bước 2: Hành động B, chi tiết từng thao tác.<br> Bước 3: Hành động C, chi tiết từng thao tác.</i></p>"
+        }
+    }
+}

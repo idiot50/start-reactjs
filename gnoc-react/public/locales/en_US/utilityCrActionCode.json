@@ -1,0 +1,60 @@
+{
+    "utilityCrActionCode": {
+        "title": {
+            "utilityCrActionCodeInfo": "Configure action code information ",
+            "utilityCrActionCodeAdd": "Add Configure action code",
+            "utilityCrActionCodeEdit": "Update Configure action code"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "actionCode": "Action code",
+            "actionCodeTitle": "Action code title",
+            "isEditable": "No editing",
+            "status":"Status"
+        },
+        "placeholder": {
+            "actionCode": "Action code",
+            "actionCodeTitle": "Action code title",
+            "searchAll":"Search by action code"
+
+        },
+        "message": {
+            "error": {
+                "search": "Search Configure Action Code failed",
+                "add": "Add Configure Action Code failed",
+                "edit": "Edit Configure Action Code failed",
+                "delete": "Delete Configure Action Code failed",
+                "getDetail": "Get Configure Action Code information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add Configure Action Code successfully",
+                "edit": "Edit Configure Action Code successfully",
+                "delete": "Delete Configure Action Code successfully",
+                "getDetail": "Get detail Configure Action Code successfully"
+            },
+            "confirmDelete": "Do you want delete action code {{utilityCrActionCodeCode}} ?",
+            "requiredActionCode": "Please enter action code",
+            "requiredActionCodeTitle": "Please enter action code title"
+        }
+    }
+}

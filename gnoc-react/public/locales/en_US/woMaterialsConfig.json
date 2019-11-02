@@ -1,0 +1,87 @@
+{
+    "woMaterialsConfig": {
+        "title": {
+            "woMaterialsConfigInfo": "Materials config information ",
+            "woMaterialsConfigInfoExtra": "Materials config extra information",
+            "woMaterialsConfigAdd": "Add new materials config",
+            "woMaterialsConfigEdit": "Update materials config"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "tech": "Technology",
+            "service": "Service Name",
+            "function": "Function",
+            "material": "Material",
+            "technical": "Technical",
+            "alarm": "Warning",
+            "free": "Free",
+            "techNIMS": "Technical NIMS",
+            "alarmNIMS": "Alarm NIMS",
+            "freeNIMS": "Free NIMS",
+            "coppleCable": "Copple cable",
+            "coaxialCable": "Coaxial cable",
+            "AON": "AON",
+            "GPON": "GPON"
+        },
+        "placeholder": {
+            "material": "Enter material name",
+            "technical": "Enter technical",
+            "alarm": "Enter alarm",
+            "free": "Enter enter",
+            "techNIMS": "Enter technical NIMS",
+            "alarmNIMS": "Enter alarm NIMS",
+            "freeNIMS": "Enter free NIMS",
+            "searchAll": "Search by technology,service, action, material"
+        },
+        "message": {
+            "error": {
+                "search": "Search type materials config failed",
+                "add": "Add new type materials config failed",
+                "edit": "Edit type materials config failed",
+                "delete": "Delete type materials config failed",
+                "getDetail": "Get type materials config information failed",
+                "wrongDataFormat": "Wrong data format (only accept positive interger digits)",
+                "duplicate": "Duplicate record"
+            },
+            "success": {
+                "add": "Add type materials config successfully",
+                "edit": "Edit type materials config successfully",
+                "delete": "Delete type materials config successfully",
+                "getDetail": "Get detail type materials config successfully"
+            },
+            "required": {
+                "tech": "Please select technology",
+                "service": "Please select service",
+                "action": "Please select action",
+                "material": "Please select material",
+                "technical": "Please enter technical",
+                "alarm": "Please enter alarm",
+                "free": "Please enter free"
+            },
+            "confirmDelete": "Do you want delete materials config {{woMaterialsConfigCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter materials config",
+            "requiredODcode": "Please enter materials config code",
+            "requiredProcessTime": "Please enter process time"
+        }
+    }
+}

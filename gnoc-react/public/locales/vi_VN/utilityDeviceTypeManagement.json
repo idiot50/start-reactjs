@@ -1,0 +1,62 @@
+{
+    "utilityDeviceTypeManagement": {
+        "title": {
+            "utilityDeviceTypeManagementInfo": "Thông tin loại thiết bị",
+            "utilityDeviceTypeManagementInfoExtra": "Thông tin bổ sung",
+            "utilityDeviceTypeManagementAdd": "Thêm mới loại thiết bị",
+            "utilityDeviceTypeManagementEdit": "Cập nhật loại thiết bị"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "deviceType" : "Tên loại thiết bị",
+            "deviceTypeId" : "Mã loại thiết bị",
+            "description" : "Mô tả"
+        },
+        "placeholder": {
+            "searchAll": "Tìm kiếm theo mã loại thiết bị, tên loại thiết bị",
+            "deviceType" : "Nhập tên loại thiết bị",
+            "deviceTypeId" : "Nhập mã loại thiết bị",
+            "description" : "Nhập mô tả"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm loại thiết bị không thành công",
+                "add": "Thêm mới loại thiết bị không thành công",
+                "edit": "Sửa loại thiết bị không thành công",
+                "delete": "Xóa loại thiết bị không thành công",
+                "getDetail": "Lấy thông tin chi tiết loại thiết bị không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới loại thiết bị thành công",
+                "edit": "Sửa loại thiết bị thành công",
+                "delete": "Xóa loại thiết bị thành công",
+                "getDetail": "Lấy thông tin chi tiết loại thiết bị thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa loại thiết bị {{utilityDeviceTypeManagementCode}} không ?",
+            "requiredDeviceTypeId" : "Bạn chưa nhập mã loại thiết bị",
+            "requiredDeviceType" : "Bạn chưa nhập tên loại thiết bị"
+        }
+    }
+}

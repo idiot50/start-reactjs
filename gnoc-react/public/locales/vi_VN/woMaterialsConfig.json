@@ -1,0 +1,87 @@
+{
+    "woMaterialsConfig": {
+        "title": {
+            "woMaterialsConfigInfo": "Thông tin cấu hình vật tư",
+            "woMaterialsConfigInfoExtra": "Thông tin bổ sung",
+            "woMaterialsConfigAdd": "Thêm mới cấu hình vật tư",
+            "woMaterialsConfigEdit": "Cập nhật cấu hình vật tư"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "tech": "Công nghệ",
+            "service": "Dịch vụ",
+            "function": "Chức năng",
+            "material": "Vật tư",
+            "technical": "Kỹ thuật",
+            "alarm": "Cảnh báo",
+            "free": "Miễn phí",
+            "techNIMS": "Kỹ thuật NIMS",
+            "alarmNIMS": "Cảnh báo NIMS",
+            "freeNIMS": "Miễn phí NIMS",
+            "coppleCable": "Cáp đồng",
+            "coaxialCable": "Cáp đồng trục",
+            "AON": "AON",
+            "GPON": "GPON"
+        },
+        "placeholder": {
+            "material": "Nhập tên vật tư",
+            "technical": "Nhập kỹ thuật",
+            "alarm": "Nhập cảnh báo",
+            "free": "Nhập miễn phí",
+            "techNIMS": "Nhập kỹ thuật NIMS",
+            "alarmNIMS": "Nhập cảnh báo NIMS",
+            "freeNIMS": "Nhập miễn phí NIMS",
+            "searchAll": "Tìm kiếm theo công nghệ, dịch vụ, hành động, vật tư"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm cấu hình vật tư không thành công",
+                "add": "Thêm mới cấu hình vật tư không thành công",
+                "edit": "Sửa cấu hình vật tư không thành công",
+                "delete": "Xóa cấu hình vật tư không thành công",
+                "getDetail": "Lấy thông tin chi tiết cấu hình vật tư không thành công",
+                "wrongDataFormat": "Nhập sai định dạng (chỉ được nhập số nguyên dương)",
+                "duplicate": "Bản ghi đã tồn tại"
+            },
+            "success": {
+                "add": "Thêm mới cấu hình vật tư thành công",
+                "edit": "Sửa cấu hình vật tư thành công",
+                "delete": "Xóa cấu hình vật tư thành công",
+                "getDetail": "Lấy thông tin chi tiết cấu hình vật tư thành công"
+            },
+            "required": {
+                "tech": "Bạn chưa chọn công nghệ",
+                "service": "Bạn chưa chọn dịch vụ",
+                "action": "Bạn chưa chọn hành động",
+                "material": "Bạn chưa chọn vật tư",
+                "technical": "Bạn chưa nhập kỹ thuật",
+                "alarm": "Bạn chưa nhập cảnh báo",
+                "free": "Bạn chưa nhập miễn phí"
+            },
+            "confirmDelete": "Bạn có muốn xóa cấu hình vật tư {{woMaterialsConfigCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredType": "Bạn chưa nhập tên cấu hình vật tư",
+            "requiredODcode": "Bạn chưa nhập mã cấu hình vật tư",
+            "requiredProcessTime": "Bạn chưa nhập thời gian xử lý"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "ttInfoConfig": {
+        "title": {
+            "ttInfoConfigInfo": "Thông tin sự cố",
+            "ttInfoConfigInfoExtra": "Thông tin sự cố bổ sung",
+            "ttInfoConfigAdd": "Thêm mới thông tin sự cố",
+            "ttInfoConfigEdit": "Cập nhật thông tin sự cố"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "troubleArray" : "Mảng sự cố",
+            "troubleGroup" : "Nhóm sự cố",
+            "troubleName" : "Tên sự cố",
+            "subCategory" : "Loại node mạng"
+            
+        },
+        "placeholder": {
+            "troubleName" : "Nhập tên vấn đề",
+            "searchAll": "Tìm kiếm theo mảng sự cố, nhóm sự cố, tên sự cố, loại node mạng"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm thông tin sự cố không thành công",
+                "add": "Thêm mới sự cố không thành công",
+                "edit": "Sửa thông tin sự cố không thành công",
+                "delete": "Xóa thông tin sự cố không thành công",
+                "getDetail": "Lấy thông tin chi tiết thông tin sự cố không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "duplicate": "Bản ghi đã tồn tại"
+            },
+            "success": {
+                "add": "Thêm mới thông tin sự cố thành công",
+                "edit": "Sửa thông tin sự cố thành công",
+                "delete": "Xóa thông tin sự cố thành công",
+                "getDetail": "Lấy thông tin chi tiết thông tin sự cố thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa thông tin sự cố {{ttInfoConfigId}} không ?",
+            "requiredTroubleArray": "Bạn chưa chọn mảng sự cố",
+            "requiredTroubleGroup": "Bạn chưa chọn nhóm sự cố",
+            "requiredTroubleName": "Bạn chưa nhập tên sự cố",
+            "requiredSubCategory": "Bạn chưa loại node mạng"
+        }
+    }
+}

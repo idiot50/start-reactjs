@@ -1,0 +1,81 @@
+{
+    "odConfigBusiness": {
+        "title": {
+            "odConfigInfo": "Thông tin cấu hình OD",
+            "odTypeInfoExtra": "Thông tin bổ sung",
+            "permissionEditStatus": "Quyền chuyển trạng thái",
+            "odConfigAdd": "Thêm mới cấu hình OD",
+            "odConfigEdit": "Cập nhật cấu hình OD"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động",
+                "sendToUnit": "Gửi cho đơn vị",
+                "yes": "Có",
+                "no": "Không",
+                "sendToLeader": "Gửi cho lãnh đạo"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "oldStatusName": "Trạng thái cũ",
+            "newStatusName": "Trạng thái mới",
+            "odTypeName": "Loại công việc",
+            "odPriorityName": "Mức độ ưu tiên",
+            "isDefaultName": "Cấu hình mặc định",
+            "additionalMajor": "Nghiệp vụ bổ sung",
+            "sendCreate": "Nhắn tin người tạo",
+            "createContent": "Nội dung nhắn tin nhân viên tạo",
+            "sendReceiveUser": "Nhắn tin nhân viên xử lý",
+            "receiveUserContent": "Nội dung nhắn tin nhân viên xử lý",
+            "sendReceiveUnit": "Nhắn tin đơn vị xử lý",
+            "receiveUnitContent": "Nội dung nhắn tin đơn vị xử lý",
+            "columnName": "Tên trường",
+            "editable": "Cho phép sửa",
+            "isRequired": "Bắt buộc nhập",
+            "isVisible": "Hiển thị trường ẩn",
+            "message": "Thông báo lỗi",
+            "roleName": "Tên vai trò",
+            "permissionEditStatus": "Quyền sửa trạng thái"
+        },
+        "placeholder": {
+            "typeTask": "Nhập loại công việc",
+            "additionalMajor": "Nhập nghiệp vụ bổ sung",
+            "createContent": "Nhập nội dung nhắn tin nhân viên tạo",
+            "receiveUserContent": "Nhập nội dung nhắn tin nhân viên xử lý",
+            "receiveUnitContent": "Nhập nội dung nhắn tin đơn vị xử lý",
+            "searchAll": "Tìm kiếm theo loại công việc"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm cấu hình OD không thành công",
+                "add": "Thêm mới cấu hình OD không thành công",
+                "edit": "Sửa cấu hình OD không thành công",
+                "delete": "Xóa cấu hình OD không thành công",
+                "getDetail": "Lấy thông tin chi tiết cấu hình OD không thành công"
+            },
+            "success": {
+                "add": "Thêm mới cấu hình OD thành công",
+                "edit": "Sửa cấu hình OD thành công",
+                "delete": "Xóa cấu hình OD thành công",
+                "getDetail": "Lấy thông tin chi tiết cấu hình OD thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa cấu hình OD {{odTypeCode}} không ?",
+            "requiredOdTypeName": "Loại công việc không được để trống",
+            "requiredOdPriorityName": "Mức độ ưu tiên không được để trống",
+            "requiredOldStatusName": "Trạng thái cũ không được để trống",
+            "requiredNewStatusName": "Trạng thái mới không được để trống",
+            "requiredPermissionEditStatus": "Bạn chưa chọn quyền chuyển trạng thái"
+        }
+    }
+}

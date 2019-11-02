@@ -1,0 +1,100 @@
+{
+    "utilityConfigWebserviceImport": {
+        "title": {
+            "utilityConfigWebserviceImportInfo": "Thông tin WS phục vụ import file",
+            "utilityConfigWebserviceImportInfoExtra": "Thông tin bổ sung",
+            "utilityConfigWebserviceImportAdd": "Thêm mới",
+            "utilityConfigWebserviceImportEdit": "Cập nhật",
+            "webserviceMethod": "WEBSERVICE_METHOD"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "webserviceName": "Tên Webservice",
+            "URL": "URL",
+            "namespaceURI": "NAMESPACE_URI",
+            "localPart": "LOCAL_PART",
+            "wsClassPath": "WEBSERVICE_CLASS_PATH",
+            "getPortMethod": "GET_PORT_METHOD",
+            "username": "USER_NAME",
+            "password": "PASSWORD",
+            "methodName": "METHOD_NAME",
+            "successReturnValue": "SUCCESS_RETURN_VALUE",
+            "classReturnValue": "CLASS_RETURN_VALUE",
+            "classPath": "CLASS_PATH",
+            "isMerge": "IS_MERGE",
+            "returnValueField": "RETURN_VALUE_FIELD",
+            "idField":"ID_FIELD",
+            "isEditable": "Không cho sửa"
+        },
+        "placeholder": {
+            "webserviceName": "Nhập tên Webservice ",
+            "URL": "Nhập URL",
+            "namespaceURI": "Nhập NAMESPACE_URI",
+            "localPart": "Nhập LOCAL_PART",
+            "wsClassPath": "Nhập WEBSERVICE_CLASS_PATH",
+            "getPortMethod": "Nhập GET_PORT_METHOD",
+            "searchAll": "Tìm kiếm theo tên webservice",
+            "username": "nhập USER_NAME",
+            "password": "nhập PASSWORD",
+            "methodName":"Nhập tên method",
+            "successValue":"Nhập success return value",
+            "classPath":"Nhập class path",
+            "returnValueField":"Nhập return value field",
+            "idField":"Nhập id field"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm WS phục vụ import files không thành công",
+                "add": "Thêm mới WS phục vụ import files không thành công",
+                "edit": "Sửa WS phục vụ import files không thành công",
+                "delete": "Xóa WS phục vụ import files không thành công",
+                "getDetail": "Lấy thông tin chi tiết WS phục vụ import files không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới WS phục vụ import files thành công",
+                "edit": "Sửa WS phục vụ import files thành công",
+                "delete": "Xóa WS phục vụ import files thành công",
+                "getDetail": "Lấy thông tin chi tiết WS phục vụ import files thành công"
+            },
+            "required": {
+                "confirmDelete": "Bạn muốn xóa WS phục vụ import files {{utilityConfigWebserviceImportCode}} ?",
+                "requiredWebserviceName": "Bạn chưa nhập tên webservice",
+                "requiredURL": "Bạn chưa nhập URL",
+                "requiredNamespaceURI": "bạn chưa nhập NAMESPACE_URI",
+                "requiredLocalPart": "Bạn chưa nhập LOCAL_PART",
+                "requiredWsClassPath": "Bạn chưa nhập WS_CLASS_PATh",
+                "requiredGetPortMethod": "Bạn chưa nhập GET_PORT_METHOD",
+                "requiredUsername": "Bạn chưa nhập username",
+                "requiredPassword": "Bạn chưa nhập password",
+                "methodName":"Bạn chưa nhập METHOD_NAME",
+                "successReturnValue":"Bạn chưa nhập SUCCESS_RETURN_VALUE",
+                "classReturnValue":"Bạn chưa nhập CLASS_RETURN_VALUE",
+                "classPath":"Bạn chưa nhập CLASS_PATH",
+                "returnValueField":"Bạn chưa nhập RETURN_VALUE_FIELD",
+                "numberRequired":"Nhập một số nguyên tối đa 10 chữ số",
+                "maximumNumb":"Nhập giới hạn 10 chữ số",
+                "methodNameExisted":"Method name đã tồn tại"
+            }
+        }
+    }
+}

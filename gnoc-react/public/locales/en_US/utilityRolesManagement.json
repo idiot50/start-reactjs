@@ -1,0 +1,68 @@
+{
+    "utilityRolesManagement": {
+        "title": {
+            "utilityRolesManagementInfo": "Roles information",
+            "utilityRolesManagementAdd": "Add role",
+            "utilityRolesManagementEdit": "Update role"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            },
+            "emergency": {
+                "yes": "Yes",
+                "no": "No"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "roleCode": "Role code",
+            "roleName": "Role name",
+            "description" : "Description",
+            "roleCr" : "Role schedule Cr"
+ 
+        },
+        "placeholder": {
+            "roleCode": "Enter role code",
+            "roleName": "Enter role name",
+            "searchAll": "Search by code, name"
+        },
+        "message": {
+            "error": {
+                "search": "Search Roles Management failed",
+                "add": "Add Roles Management failed",
+                "edit": "Edit Roles Management failed",
+                "delete": "Delete Roles Management failed",
+                "getDetail": "Get Roles Management information failed",
+                "wrongDataFormat": "Wrong data format",
+                "duplicate": "Role code existed"
+            },
+            "success": {
+                "add": "Add Roles Management successfully",
+                "edit": "Edit Roles Management successfully",
+                "delete": "Delete Roles Management successfully",
+                "getDetail": "Get detail Roles Management successfully"
+            },
+            "confirmDelete": "Do you want delete role {{cmreCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredRoleCode": "Please enter role code",
+            "requiredRoleName": "Please enter role name",
+            "requiredRoleCr": "Please role Cr"
+        }
+    }
+}

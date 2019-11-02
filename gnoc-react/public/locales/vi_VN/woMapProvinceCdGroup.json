@@ -1,0 +1,69 @@
+{
+    "woMapProvinceCdGroup": {
+        "title": {
+            "woMapProvinceCdGroupInfo": "Thông tin cấu hình nhóm điều phối hậu kiểm",
+            "woMapProvinceCdGroupAdd": "Thêm mới cấu hình nhóm điều phối hậu kiểm",
+            "woMapProvinceCdGroupEdit": "Cập nhật cấu hình nhóm điều phối hậu kiểm"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "province" : "Tên tỉnh",
+            "cdGroup" : "Tên nhóm điều phối",
+            "accidentInspectionDistrict" : "Số huyện HKSC",
+            "accidentInspectionAccount" : "Số thuê bao HKSC",
+            "deployInspectionDistrict" : "Số huyện HKTK",
+            "deployInspectionAccount" : "Số thuê bao HKTK"
+        },
+        "placeholder": {
+            "accidentInspectionDistrict" : "Nhập số huyện HKSC",
+            "accidentInspectionAccount" : "Nhập số thuê bao HKSC",
+            "deployInspectionDistrict" : "Nhập số huyện HKTK",
+            "deployInspectionAccount" : "Nhập số thuê bao HKTK",
+            "searchAll": "Tìm theo tên tỉnh, nhóm điều phối"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm cấu hình nhóm điều phối hậu kiểm không thành công",
+                "add": "Thêm mới cấu hình nhóm điều phối hậu kiểm không thành công",
+                "edit": "Sửa cấu hình nhóm điều phối hậu kiểm không thành công",
+                "delete": "Xóa cấu hình nhóm điều phối hậu kiểm không thành công",
+                "getDetail": "Lấy thông tin chi tiết cấu hình nhóm điều phối hậu kiểm không thành công",
+                "wrongDataFormat": "Nhập sai định dạng, nhập tối da 10 chữ số nguyên dương",
+                "getListProvince": "Lấy danh sách tỉnh không thành công"
+            },
+            "success": {
+                "add": "Thêm mới cấu hình nhóm điều phối hậu kiểm thành công",
+                "edit": "Sửa cấu hình nhóm điều phối hậu kiểm thành công",
+                "delete": "Xóa cấu hình nhóm điều phối hậu kiểm thành công",
+                "getDetail": "Lấy thông tin chi tiết cấu hình nhóm điều phối hậu kiểm thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa cấu hình nhóm điều phối hậu kiểm {{woMapProvinceCdGroupCode}} không ?",
+            "requiredProvince" : "Bạn chưa chọn tên tỉnh",
+            "requiredCdGroup" : "Bạn chưa chọn tên nhóm điều phối",
+            "requiredAccidentInspectionDistrict" : "Bạn chưa nhập số huyện HKSC",
+            "requiredAccidentInspectionAccount" : "Bạn chưa nhập số thuê bao HKSC",
+            "requiredDeployInspectionDistrict" : "Bạn chưa nhập số huyện HKTK",
+            "requiredDeployInspectionAccount" : "Bạn chưa nhập số thuê bao HKTK"
+        }
+    }
+}

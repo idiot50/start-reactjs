@@ -1,0 +1,81 @@
+{
+    "woErrorCaseManagement": {
+        "title": {
+            "woErrorCaseManagementInfo": "Error case information ",
+            "woErrorCaseManagementInfoExtra": "Error case extra information",
+            "woErrorCaseManagementAdd": "Add new Error case",
+            "woErrorCaseManagementEdit": "Update Error case"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search",
+            "remove": "Remove",
+            "additional":"Additional"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "status": "Status",
+            "typeCode": "Error case code",
+            "type": "Error case",
+            "service": "Service",
+            "groupType": "Group Error case",
+            "priority": "Priority",
+            "processingTime": "Processing Time (H)",
+            "caseErrorName": "Case error name",
+            "technology": "Technology",
+            "testList": "Test list",
+            "requirement": "Requirement",
+            "photograph": "Photograph"
+        },
+        "placeholder": {
+            "typeCode": "Enter Error case code",
+            "type": "Enter Error case",
+            "groupType": "Enter group Error case",
+            "searchAll": "Search by code, name case error",
+            "caseErrorName": "Enter case error name"
+        },
+        "message": {
+            "error": {
+                "search": "Search Error case failed",
+                "add": "Add new Error case failed",
+                "edit": "Edit Error case failed",
+                "delete": "Delete Error case failed",
+                "getDetail": "Get Error case information failed",
+                "wrongDataFormat": "Wrong data format",
+                "duplicate": "Duplicate record"
+            },
+            "success": {
+                "add": "Add Error case successfully",
+                "edit": "Edit Error case successfully",
+                "delete": "Delete Error case successfully",
+                "getDetail": "Get detail Error case successfully"
+            },
+            "required": {
+                "caseErrorName": "Please enter case error name",
+                "service": "Please select service",
+                "technology": "Please select technolohy"
+            },
+            "confirmDelete": "Do you want delete Error case {{woErrorCaseManagementCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter Error case",
+            "requiredODcode": "Please enter Error case code",
+            "requiredProcessTime": "Please enter process time",
+            "requiredTestList": "Please insert at least one test"
+        }
+    }
+}

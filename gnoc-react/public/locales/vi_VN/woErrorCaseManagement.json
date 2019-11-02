@@ -1,0 +1,74 @@
+{
+    "woErrorCaseManagement": {
+        "title": {
+            "woErrorCaseManagementInfo": "Thông tin case lỗi",
+            "woErrorCaseManagementAdd": "Thêm mới case lỗi",
+            "woErrorCaseManagementEdit": "Cập nhật case lỗi",
+            "woErrorCaseManagementListOfTest": "Danh sách bài test"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm",
+            "remove": "Xóa",
+            "additional":"Bổ sung"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "errorCaseName": "Tên case lỗi",
+            "service": "Dịch vụ",
+            "infrastructure": "Công nghệ",
+            "caseErrorName": "Tên case lỗi",
+            "technology": "Công nghệ",
+            "testList": "Danh sách bài test",
+            "requirement": "Yêu cầu",
+            "photograph": "Chụp hình"
+        },
+        "placeholder": {
+            "errorCaseName": "Nhập tên case lỗi",
+            "searchAll": "Tìm kiếm theo tên case lỗi",
+            "caseErrorName": "Nhập tên case lỗi"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm case lỗi không thành công",
+                "add": "Thêm mới case lỗi không thành công",
+                "edit": "Sửa case lỗi không thành công",
+                "delete": "Xóa case lỗi không thành công",
+                "getDetail": "Lấy thông tin chi tiết case lỗi không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "duplicate": "Bản ghi đã tồn tại"
+            },
+            "success": {
+                "add": "Thêm mới case lỗi thành công",
+                "edit": "Sửa case lỗi thành công",
+                "delete": "Xóa case lỗi thành công",
+                "getDetail": "Lấy thông tin chi tiết case lỗi thành công"
+            },
+            "required": {
+                "caseErrorName": "Bạn chưa nhập tên case lỗi",
+                "service": "Bạn chưa chọn dịch vụ",
+                "technology": "Bạn chưa chọn công nghệ"
+            },
+            "confirmDelete": "Bạn có muốn xóa case lỗi {{woErrorCaseManagementCode}} không ?",
+            "requiredService": "Bạn chưa chọn dịch vụ",
+            "requiredErrorCaseName": "Bạn chưa điền tên case lỗi",
+            "requiredInfrastructure": "Bạn chưa chọn dịch vụ",
+            "requiredTestList": "Bạn phải nhập ít nhất 1 bài test"
+        }
+    }
+}

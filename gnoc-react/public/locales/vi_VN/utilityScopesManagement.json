@@ -1,0 +1,42 @@
+{
+    "utilityScopesManagement": {
+        "title": {
+            "utilityScopesManagementAdd": "Thêm mới danh mục phạm vi",
+            "utilityScopesManagementEdit": "Cập nhật danh mục phạm vi",
+            "utilityScopesManagementInfo": "Thông tin danh mục phạm vi"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "export": "Export"
+        },
+        "label": {
+            "action" : "Hành động",
+            "rangeCode": "Mã phạm vi",
+            "rangeName": "Tên phạm vi",
+            "description": "Mô tả"
+        },
+        "placeholder": {
+            "searchAll": " Tìm kiếm theo mã phạm vi, tên phạm vi",
+            "rangeCode": "Nhập mã phạm vi",
+            "rangeName": "Nhập tên phạm vi",
+            "description": "Nhập mô tả"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm phạm vi không thành công",
+                "add": "Thêm mới phạm vi không thành công",
+                "edit": "Sửa phạm vi không thành công",
+                "delete": "Xóa phạm vi không thành công",
+                "getDetail": "Lấy thông tin chi tiết phạm vi không thành công"
+            },
+            "success": {
+                "add": "Thêm mới phạm vi thành công",
+                "edit": "Sửa phạm vi thành công",
+                "delete": "Xóa phạm vi thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa danh mục {{utilityScopesManagementCode}} không ?",
+            "requiredRangeCode": "Bạn chưa nhập mã phạm vi",
+            "requiredRangeName": "Bạn chưa nhập tên phạm vi"
+        }
+    }
+}

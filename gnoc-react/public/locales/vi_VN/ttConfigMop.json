@@ -1,0 +1,67 @@
+{
+    "ttConfigMop": {
+        "title": {
+            "ttConfigMopInfo": "Thông tin Cấu hình MOP",
+            "ttConfigMopInfoExtra": "Thông tin bổ sung",
+            "ttConfigMopAdd": "Thêm mới Cấu hình MOP",
+            "ttConfigMopEdit": "Cập nhật Cấu hình MOP"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "mopName": "Mảng sự cố",
+            "groupMopName": "Nhóm sự cố",
+            "updateUser": "Người cập nhật",
+            "lastUpdateTime": "Thời gian cập nhật gần nhất"
+        },
+        "placeholder": {
+            "mopName": "Mảng sự cố",
+            "groupMopName": "Nhóm sự cố",
+            "updateUser": "Nhập người cập nhật",
+            "lastUpdateTime": "Thời gian cập nhật gần nhất",
+            "searchAll":"Tìm kiếm theo mảng sự cố hoặc nhóm sự cố"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm cấu hình cho phép thực thi MOP tác động không thành công",
+                "add": "Thêm mới MOP không thành công",
+                "edit": "Sửa MOP không thành công",
+                "delete": "Xóa MOP không thành công",
+                "getDetail": "Lấy thông tin chi tiết MOP không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới MOP thành công",
+                "edit": "Sửa MOP thành công",
+                "delete": "Xóa MOP thành công",
+                "getDetail": "Lấy thông tin chi tiết cấu hình MOP thành công"
+            },
+            "required":{
+                "mopName":"Bạn chưa nhập vào mảng sự cố",
+                "groupMopName":"Bạn chưa nhập vào nhóm sự cố"
+            },
+            "confirmDelete": "Bạn có muốn xóa cấu hình MOP {{mopName}} không ?",
+            "requiredMopName": "Bạn chưa nhập Mảng sự cố",
+            "requiredGroupMopName": "Bạn chưa nhập Nhóm sự cố"
+        }
+    }
+}

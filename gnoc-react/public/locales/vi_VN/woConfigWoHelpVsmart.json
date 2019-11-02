@@ -1,0 +1,60 @@
+{
+    "woConfigWoHelpVsmart": {
+        "title": {
+            "woConfigWoHelpVsmartInfo": "Thông tin WO help",
+            "woConfigWoHelpVsmartAdd": "Thêm mới",
+            "woConfigWoHelpVsmartEdit": "Cập nhật"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "systemName": "Tên hệ thống",
+            "typeName": "Loại cấu hình",
+            "attachFile": "File đính kèm",
+            "acceptFile": "Chỉ chấp nhận file *.xls, *.xlsx"
+        },
+        "placeholder": {
+            "searchAll": "Tìm kiếm theo tên hệ thống, loại cấu hình"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm Wo help không thành công",
+                "add": "Thêm mới Wo help không thành công",
+                "edit": "Sửa Wo help không thành công",
+                "delete": "Xóa Wo help không thành công",
+                "getDetail": "Lấy thông tin chi tiết Wo help không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "file" : "File sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới Wo help thành công",
+                "edit": "Sửa Wo help thành công",
+                "delete": "Xóa Wo help thành công",
+                "getDetail": "Lấy thông tin chi tiết Wo help thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa loại Wo help {{systemName}} không ?",
+            "requiredSystemName": "Bạn chưa chọn hệ thống",
+            "requiredTypeName": "Bạn chưa chọn loại cấu hình",
+            "fileRequired": "Bạn chưa nhập file"
+        }
+    }
+}

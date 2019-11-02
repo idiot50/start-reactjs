@@ -1,0 +1,76 @@
+{
+    "utilityVersionCatalog": {
+        "title": {
+            "utilityVersionCatalogInfo": "Thông tin Danh mục phiên bản",
+            "utilityVersionCatalogInfoExtra": "Thông tin bổ sung",
+            "utilityVersionCatalogAdd": "Thêm mới phiên bản danh mục",
+            "utilityVersionCatalogEdit": "Cập nhật phiên bản danh mục"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm",
+            "rotateLeft": "Xoay trái",
+            "rotateRight": "Xoay phải"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "status": "Trạng thái",
+            "typeCode": "Mã Danh mục phiên bản",
+            "type": "Danh mục phiên bản",
+            "groupType": "Nhóm Danh mục phiên bản",
+            "priority": "Mức ưu tiên",
+            "processingTime": "Thời gian xử lý (H)",
+            "vendor": "Vendor",
+            "domain": "Phân mảng",
+            "subCategory": "Loại node mảng",
+            "versionSoftware": "Phiên bản phần mềm",
+            "versionHardware": "Phiên bản phần cứng"
+        },
+        "placeholder": {
+            "typeCode": "Nhập mã danh mục phiên bản",
+            "type": "Nhập Danh mục phiên bản",
+            "groupType": "Nhập nhóm danh mục phiên bản",
+            "versionSoftware": "Nhập phiên bản phần mềm",
+            "versionHardware": "Nhập phiên bản phần cứng",
+            "searchAll" : "Nhập phiên bản phần cứng, phần mềm"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm danh mục phiên bản không thành công",
+                "add": "Thêm mới danh mục phiên bản không thành công",
+                "edit": "Sửa danh mục phiên bản không thành công",
+                "delete": "Xóa danh mục phiên bản không thành công",
+                "getDetail": "Lấy thông tin chi tiết danh mục phiên bản không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "export" : "Xuất file thất bại"
+            },
+            "success": {
+                "add": "Thêm mới danh mục phiên bản thành công",
+                "edit": "Sửa danh mục phiên bản thành công",
+                "delete": "Xóa danh mục phiên bản thành công",
+                "getDetail": "Lấy thông tin chi tiết danh mục phiên bản thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa danh mục phiên bản {{utilityVersionCatalogCode}} không ?",
+            "requiredVersionHardware": "Bạn chưa nhập phiên bản phần cứng",
+            "requiredVersionSoftware": "Bạn chưa nhập phiên bản phần mềm",
+            "requiredSubCategory": "Bạn chưa chọn loại node mạng",
+            "requiredDomain": "Bạn chưa chọn phân mảng",
+            "requiredVendor": "Bạn chưa chọn nhà cung cấp"
+        }
+    }
+}

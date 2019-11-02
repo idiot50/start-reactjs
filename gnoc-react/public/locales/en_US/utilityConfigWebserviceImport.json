@@ -1,0 +1,100 @@
+{
+    "utilityConfigWebserviceImport": {
+        "title": {
+            "utilityConfigWebserviceImportInfo": "Configure webservice information ",
+            "utilityConfigWebserviceImportInfoExtra": "Configure webservice extra information",
+            "utilityConfigWebserviceImportAdd": "Add configure webservice",
+            "utilityConfigWebserviceImportEdit": "Update configure webservice",
+            "webserviceMethod": "WEBSERVICE_METHOD"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "webserviceName": "Webservice name",
+            "URL": "URL",
+            "namespaceURI": "NAMESPACE_URI",
+            "localPart": "LOCAL_PART",
+            "wsClassPath": "WEBSERVICE_CLASS_PATH",
+            "getPortMethod": "GET_PORT_METHOD",
+            "username": "USER_NAME",
+            "password": "PASSWORD",
+            "methodName": "METHOD_NAME",
+            "successReturnValue": "SUCCESS_RETURN_VALUE",
+            "classReturnValue": "CLASS_RETURN_VALUE",
+            "classPath": "CLASS_PATH",
+            "isMerge": "IS_MERGE",
+            "returnValueField": "RETURN_VALUE_FIELD",
+            "idField":"ID_FIELD",
+            "isEditable": "Is not editable"
+        },
+        "placeholder": {
+            "webserviceName": "Enter Webservice name",
+            "URL": "Enter URL",
+            "namespaceURI": "Enter NAMESPACE_URI",
+            "localPart": "Enter LOCAL_PART",
+            "wsClassPath": "Enter WEBSERVICE_CLASS_PATH",
+            "getPortMethod": "Enter GET_PORT_METHOD",
+            "username": "Enter USER_NAME",
+            "password": "Enter PASSWORD",
+            "searchAll": "Search by webservice name",
+            "methodName":"Enter method name",
+            "successValue":"Enter success return value",
+            "classPath":"Enter class path",
+            "returnValueField":"Enter return value field",
+            "idField":"Enter id field",
+            "methodNameExisted":"Method nam existed"
+        },
+        "message": {
+            "error": {
+                "search": "Search Configure Webservice failed",
+                "add": "Add new Configure Webservice failed",
+                "edit": "Edit Configure Webservice failed",
+                "delete": "Delete Configure Webservice failed",
+                "getDetail": "Get Configure Webservice information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add Configure Webservice successfully",
+                "edit": "Edit Configure Webservice successfully",
+                "delete": "Delete Configure Webservice successfully",
+                "getDetail": "Get detail Configure Webservice successfully"
+            },
+            "required": {
+                "confirmDelete": "Do you want delete configure webservice {{utilityConfigWebserviceImportCode}} ?",
+                "requiredWebserviceName": "Please enter webservice name",
+                "requiredURL": "Please enter URL",
+                "requiredNamespaceURI": "Please enter namespace URL",
+                "requiredLocalPart": "Please enter local part",
+                "requiredWsClassPath": "Please enter class path",
+                "requiredGetPortMethod": "Please enter port method",
+                "requiredUsername": "Please enter username",
+                "requiredPassword": "Please enter password",
+                "methodName": "Please enter METHOD_NAME",
+                "successReturnValue": "Please enter SUCCESS_RETURN_VALUE",
+                "classReturnValue": "Please enter CLASS_RETURN_VALUE",
+                "classPath": "Please enter CLASS_PATH",
+                "returnValueField": "Please enter RETURN_VALUE_FIELD",
+                "numberRequired":"Please enter an integer with max length of 10 digits",
+                "maximumNumb":"Maximum 10 digits"
+            }
+        }
+    }
+}

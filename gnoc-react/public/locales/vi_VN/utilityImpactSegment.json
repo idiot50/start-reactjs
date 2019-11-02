@@ -1,0 +1,74 @@
+{
+    "utilityImpactSegment": {
+        "title": {
+            "utilityImpactSegmentInfo": "Thông tin mảng tác động",
+            "utilityImpactSegmentInfoExtra": "Thông tin bổ sung",
+            "utilityImpactSegmentAdd": "Thêm mới mảng tác động",
+            "utilityImpactSegmentEdit": "Cập nhật mảng tác động"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "typeCode": "Mã mảng tác động",
+            "groupType": "Nhóm mảng tác động",
+            "impactSegmentCode":"Mã mảng tác động",
+            "impactSegmentName":"Tên mảng tác động",
+            "appliedSystem":"Hệ thống áp dụng",
+            "applyforCR":"Áp dụng cho CR",
+            "applyforMR":"Áp dụng cho MR"
+        },
+        "placeholder": {
+            "typeCode": "Nhập mã mảng tác động",
+            "type": "Nhập mảng tác động",
+            "groupType": "Nhập nhóm mảng tác động",
+            "searchAll": "Tìm kiếm theo mã, tên mảng tác động",
+            "impactSegmentCode":"Nhập vào mã mảng tác động",
+            "impactSegmentName":"Nhập vào tên mảng tác động"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm mảng tác động không thành công",
+                "add": "Thêm mới mảng tác động không thành công",
+                "edit": "Sửa mảng tác động không thành công",
+                "delete": "Xóa mảng tác động không thành công",
+                "getDetail": "Lấy thông tin chi tiết mảng tác động không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "duplicate":"Bản ghi đã tồn tại"
+            },
+            "success": {
+                "add": "Thêm mới mảng tác động thành công",
+                "edit": "Sửa mảng tác động thành công",
+                "delete": "Xóa mảng tác động thành công",
+                "getDetail": "Lấy thông tin chi tiết mảng tác động thành công"
+            },
+            "required":{
+                "impactSegmentCode":"Bạn chưa nhập mã mảng tác động",
+                "impactSegmentName":"Bạn chưa nhập tên mảng tác động",
+                "appliedSystem":"Bạn chưa chọn hệ thống áp dụng"
+            },
+            "confirmDelete": "Bạn có muốn xóa mảng tác động {{utilityImpactSegmentCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredType": "Bạn chưa nhập tên mảng tác động"
+        }
+    }
+}

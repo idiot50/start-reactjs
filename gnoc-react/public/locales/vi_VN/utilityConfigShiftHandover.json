@@ -1,0 +1,137 @@
+{
+    "utilityConfigShiftHandover": {
+        "title": {
+            "utilityConfigShiftHandoverInfo": "Thông tin cấu hình",
+            "utilityConfigShiftHandoverInfoExtra": "Thông tin bổ sung",
+            "utilityConfigShiftHandoverAdd": "Thêm mới cấu hình",
+            "utilityConfigShiftHandoverEdit": "Cập nhật cấu hình",
+            "utilityConfigShiftHandoverDetail": "Thông tin cấu hình",
+            "insertConfig": "Thêm mới cấu hình",
+            "editConfig": "Cập nhật cấu hình",
+            "detailConfig": "Thông tin cấu hình",
+            "shiftUser": "Nhân viên giao ca",
+            "workShift": "Công việc bàn giao ca",
+            "seriousIncident": "Sự cố nghiêm trọng trong ca",
+            "receiveTicket": "Tiếp nhận và xử lý ticket trong ca",
+            "cr": "Cr tác động",
+            "otherWork": "Các công việc khác"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm",
+            "download": "Tải xuống",
+            "detail": "Xem chi tiết",
+            "handover": "Mở tooltip nhận ca",
+            "remove": "Xóa"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "status": "Trạng thái",
+            "shiftUser": "Nhân viên giao ca",
+            "shiftUnit": "Đơn vị giao ca",
+            "shiftTime": "Thời gian giao ca",
+            "shift": "Ca",
+            "lastUpdateTime": "Thời gian cập nhật gần nhất",
+            "employeeShift": "Nhân viên nhận giao ca",
+            "vietNam": "Việt Nam",
+            "country": "Thị trường",
+            "workName": "Nội dung công việc",
+            "description": "Mô tả chi tiết",
+            "process": "Trạng thái công việc",
+            "reasonExist": "Nguyên nhân tồn tại",
+            "contact": "Đầu mối",
+            "option": "Ghi chú/ Đề xuất",
+            "note": "Ghi chú",
+            "result": "Trạng thái",
+            "time": "Thời gian",
+            "solution": "Giải pháp",
+            "reason": "Nguyên nhân",
+            "purpose": "Mục đích",
+            "check": "Kiểm tra",
+            "userAction": "Nhân sự tác động",
+            "unitAction": "Đơn vị tác động",
+            "crName": "Tên CR",
+            "crNumber": "Số CR",
+            "kpi": "Kpi",
+            "emergency": "Rất nghiêm trọng",
+            "serious": "Nghiêm trọng",
+            "medium": "Bình thường",
+            "total": "Tổng",
+            "informationTicket": "Thông tin sự cố",
+            "affect": "Mức độ ảnh hưởng",
+            "correctiveAction": "Hành động khắc phục",
+            "nextAction": "Hành động tiếp",
+            "waitingShift": "Chờ nhận ca",
+            "handOverShift": "Đã nhận ca",
+            "startTime": "Starttime",
+            "deadline": "Deadline",
+            "owner": "Owner",
+            "handle": "Handle",
+            "importantLevel": "Độ quan trọng",
+            "nextWork": "Công việc tiếp theo",
+            "manipulation":"Thao tác"
+        },
+        "placeholder": {
+            "shiftUser": "Nhân viên giao ca",
+            "shiftUnit": "Đơn vị giao ca",
+            "shiftTime": "Thời gian giao ca",
+            "shift": "Ca",
+            "lastUpdateTime": "Thời gian cập nhật gần nhất",
+            "searchAll": "Tìm kiếm theo nhân viên, đơn vị",
+            "employeeShift": "Nhân viên nhận giao ca"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm giao ca không thành công",
+                "add": "Thêm mới giao ca không thành công",
+                "edit": "Sửa giao ca không thành công",
+                "delete": "Xóa giao ca không thành công",
+                "getDetail": "Lấy thông tin chi tiết giao ca không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới giao ca thành công",
+                "edit": "Sửa giao ca thành công",
+                "delete": "Xóa giao ca thành công",
+                "getDetail": "Lấy thông tin chi tiết giao ca thành công"
+            },
+            "required": {
+                "shiftTime": "Bạn chưa nhập thời gian giao ca",
+                "shift": "Bạn chưa chọn ca",
+                "shiftUser": "Bạn chưa nhập tên nhân viên giao ca",
+                "employeeShift": "Bạn chưa nhập tên nhân viên nhận ca",
+                "workName": "Bạn chưa nhập tên công việc",
+                "description": "Bạn chưa nhập mô tả",
+                "process": "Bạn chưa nhập tiến trình xử lý",
+                "reasonExist": "Bạn chưa nhập nguyên nhân tồn tại",
+                "contact": "Bạn chưa nhập đầu mối liên hệ",
+                "opinion": "Bạn chưa nhập đầu mối kiến nghị",
+                "crNumber": "Bạn chưa nhập số CR",
+                "crName": "Bạn chưa  nhập tên CR",
+                "userCheckName": "Bạn chưa nhập nhân sự tác động",
+                "result": "Bạn chưa nhập kết quả",
+                "note": "Bạn chưa nhập ghi chú",
+                "numberType": "Nhập vào kiểu số",
+                "manipulation":"Bạn chưa nhập thao tác"
+            },
+            "confirmDelete": "Bạn có muốn xóa giao ca {{utilityConfigShiftHandoverCode}} không ?",
+            "requiredShiftUser": "Bạn chưa nhập nhân viên giao ca",
+            "requiredEmployeeShift": "Bạn chưa nhập nhân viên nhận giao ca"
+        }
+    }
+}

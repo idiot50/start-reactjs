@@ -1,0 +1,90 @@
+{
+    "ttConfigTime": {
+        "title": {
+            "ttConfigTimeInfo": "Thông tin thời gian xử lý sự cố",
+            "ttConfigTimeAdd": "Thêm mới",
+            "ttConfigTimeEdit": "Cập nhật"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "isCall": {
+                "1": "Có",
+                "0": "Không"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "subCategoryId": "Nhóm sự cố",
+            "ttPriority": "Độ ưu tiên",
+            "country": "Quốc gia",
+            "isCall": "Gọi điện",
+            "createTtTime": "Thời gian phải tạo ticket (H)",
+            "processTtTime": "Thời gian phải hoàn thành xử lý ticket (H)",
+            "processWoTime": "Thời gian xử lý Wo (H)",
+            "cdAudioName": "Tên file ghi âm CD",
+            "ftAudioName": "Tên file ghi âm FT",
+            "lastUpdateTime": "Thời gian cập nhật gần nhất",
+            "closeTtTime": "Thời gian phải đóng sự cố (H)",
+            "timeWoVip": "Thời gian xử lý wo trạm vip (H)",
+            "timeStationVip": "Thời gian xử lý sự cố trạm vip (H)",
+            "typeId": "Mảng sự cố",
+            "timeAboutOverdue": "Thời gian nhắn tin sự cố sắp quá hạn (H)",
+            "vipStation": "Trạm vip"
+        },
+        "placeholder": {
+            "createTtTime": "Thời gian phải tạo ticket (H)",
+            "processTtTime": "Thời gian phải hoàn thành xử lý ticket (H)",
+            "processWoTime": "Thời gian xử lý Wo (H)",
+            "cdAudioName": "Tên file ghi âm CD",
+            "ftAudioName": "Tên file ghi âm FT",
+            "lastUpdateTime": "Thời gian cập nhật gần nhất",
+            "closeTtTime": "Thời gian phải đóng sự cố (H)",
+            "timeWoVip": "Thời gian xử lý wo trạm vip (H)",
+            "timeStationVip": "Thời gian xử lý sự cố trạm vip (H)",
+            "typeId": "Mảng sự cố",
+            "timeAboutOverdue": "Thời gian nhắn tin sự cố sắp quá hạn (H)",
+            "searchAll": "Tìm kiếm theo mảng sự cố, nhóm sự cố, độ ưu tiên, quốc gia"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm thời gian xử lý sự cố không thành công",
+                "add": "Thêm mới thời gian xử lý sự cố không thành công",
+                "edit": "Sửa thời gian xử lý sự cố không thành công",
+                "delete": "Xóa thời gian xử lý sự cố không thành công",
+                "getDetail": "Lấy thông tin chi tiết thời gian xử lý sự cố không thành công",
+                "wrongDataFormat": "Nhập sai định dạng, thời gian nhập vào phải nhỏ hơn 10000, hai chữ số phần thập phân",
+                "wrongZeroDataFormat": "Thời gian phải lớn hơn 0"
+            },
+            "success": {
+                "add": "Thêm mới thời gian xử lý sự cố thành công",
+                "edit": "Sửa thời gian xử lý sự cố thành công",
+                "delete": "Xóa thời gian xử lý sự cố thành công",
+                "getDetail": "Lấy thông tin chi tiết thời gian xử lý sự cố thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa thời gian xử lý sự cố {{ttConfigTimeCode}} không ?",
+            "requiredCountry": "Bạn chưa chọn quốc gia",
+            "requiredType": "Bạn chưa chọn mảng sự cố",
+            "requiredSubCategory": "Bạn chưa chọn nhóm sự cố",
+            "requiredPriority": "Bạn chưa chọn độ ưu tiên",
+            "requiredCreateTtTime": "Bạn chưa nhập thời gian phải tạo ticket",
+            "requiredCloseTtTime": "Bạn chưa nhập thời gian phải đóng sự cố",
+            "requiredProcessTtTime": "Bạn chưa nhập thời gian phải hoàn thành xử lý ticket",
+            "requiredProcessWoTime": "Bạn chưa nhập thời gian xử lý Wo",
+            "requiredTimeStationVip": "Bạn chưa nhập thời gian xử lý sự cố trạm vip",
+            "requiredTimeWoVip": "Bạn chưa nhập thời gian xử lý wo trạm vip"
+        }
+    }
+}

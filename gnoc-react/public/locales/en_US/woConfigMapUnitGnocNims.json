@@ -1,0 +1,63 @@
+{
+    "woConfigMapUnitGnocNims": {
+        "title": {
+            "woConfigMapUnitGnocNimsInfo": "Map Unit GNOC-NIMS information ",
+            "woConfigMapUnitGnocNimsAdd": "Add New Map Unit GNOC-NIMS",
+            "woConfigMapUnitGnocNimsEdit": "Update Map Unit GNOC-NIMS"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action":"action",
+            "NIMSCode" : "NIMS code",
+            "GNOCCode": "GNOC code",
+            "businessName": "Business Name"
+            
+        },
+        "placeholder": {
+            "NIMSCode": "Enter NIMS Code",
+            "GNOCCode": "Enter GNOC Code",
+            "searchAll": "Search by NIMS and GNOC code"
+        },
+        "message": {
+            "error": {
+                "search": "Search Map Unit GNOC-NIMS failed",
+                "add": "Add new Map Unit GNOC-NIMS failed",
+                "edit": "Edit Map Unit GNOC-NIMS failed",
+                "delete": "Delete Map Unit GNOC-NIMS failed",
+                "getDetail": "Get Map Unit GNOC-NIMS information failed",
+                "wrongDataFormat": "Wrong data format",
+                "duplicate":"Dữ liệu bị trùng"
+
+            },
+            "success": {
+                "add": "Add Map Unit GNOC-NIMS successfully",
+                "edit": "Edit Map Unit GNOC-NIMS successfully",
+                "delete": "Delete Map Unit GNOC-NIMS successfully",
+                "getDetail": "Get detail Map Unit GNOC-NIMS successfully"
+            },
+            "confirmDelete": "Do you want delete Map Unit GNOC-NIMS {{woConfigMapUnitGnocNimsCode}} ?",
+            "requiredNIMSCode": "Please enter NIMS Code",
+            "requiredGNOCCode": "Please enter GNOC Code",
+            "requiredBusinessName": "Please select Business name"
+        }
+    }
+}

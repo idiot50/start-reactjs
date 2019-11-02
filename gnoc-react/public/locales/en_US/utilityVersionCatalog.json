@@ -1,0 +1,76 @@
+{
+    "utilityVersionCatalog": {
+        "title": {
+            "utilityVersionCatalogInfo": "version catalog information ",
+            "utilityVersionCatalogInfoExtra": "version catalog extra information",
+            "utilityVersionCatalogAdd": "Add new version catalog",
+            "utilityVersionCatalogEdit": "Update version catalog"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search",
+            "rotateLeft": "Left",
+            "rotateRight": "Right"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "typeCode": "version catalog code",
+            "type": "version catalog",
+            "groupType": "Group version catalog",
+            "priority": "Priority",
+            "processingTime": "Processing Time (H)",
+            "vendor" : "Vendor",
+            "domain" : "Domain",
+            "subCategory" : "SubCategory",
+            "versionSoftware" : "Version software",
+            "versionHardware" : "Version hardware"
+        },
+        "placeholder": {
+            "typeCode": "Enter version catalog code",
+            "type": "Enter version catalog",
+            "groupType": "Enter group version catalog ",
+            "versionSoftware": "Enter version software",
+            "versionHardware": "Enter version hardware",
+            "searchAll" : "Enter software, hardware version"
+        },
+        "message": {
+            "error": {
+                "search": "Search version catalog failed ",
+                "add": "Add new version catalog failed",
+                "edit": "Edit version catalog failed",
+                "delete": "Delete version catalog failed",
+                "getDetail": "Get version catalog information failed",
+                "wrongDataFormat": "Wrong data format",
+                "export" : "Export fail"
+            },
+            "success": {
+                "add": "Add version catalog successfully",
+                "edit": "Edit version catalog successfully",
+                "delete": "Delete version catalog successfully",
+                "getDetail": "Get detail version catalog successfully"
+            },
+            "confirmDelete": "Do you want delete version {{utilityVersionCatalogCode}} ?",
+            "requiredVersionHardware": "Please enter version hardware",
+            "requiredVersionSoftware": "Please enter version software",
+            "requiredSubCategory": "Please select node type",
+            "requiredDomain": "Please select domain",
+            "requiredVendor": "Please select vendor"
+        }
+    }
+}

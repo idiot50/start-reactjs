@@ -1,0 +1,62 @@
+{
+    "utilityDepartmentsRolesManagement": {
+        "title": {
+            "utilityDepartmentsRolesManagementInfo": "Đơn vị QLTĐ CR – vai trò",
+            "utilityDepartmentsRolesManagementInfoExtra": "Thông tin bổ sung",
+            "utilityDepartmentsRolesManagementAdd": "Thêm mới đơn vị QLTĐ CR – vai trò",
+            "utilityDepartmentsRolesManagementEdit": "Cập nhật đơn vị QLTĐ CR – vai trò"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "roleName" : "Tên vai trò",
+            "unitName" : "Tên đơn vị",
+            "parentUnit" : "Đơn vị cha"
+        },
+        "placeholder": {
+            "roleName" : "Nhập tên vai trò",
+            "unitName" : "Nhập tên đơn vị",
+            "parentUnit" : "Nhập đơn vị cha",
+            "searchAll": "Tìm kiếm theo tên vai trò"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm đơn vị QLTĐ CR – vai trò không thành công",
+                "add": "Thêm mới đơn vị QLTĐ CR – vai trò không thành công",
+                "edit": "Sửa đơn vị QLTĐ CR – vai trò không thành công",
+                "delete": "Xóa đơn vị QLTĐ CR – vai trò không thành công",
+                "getDetail": "Lấy thông tin chi tiết đơn vị QLTĐ CR – vai trò không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới đơn vị QLTĐ CR – vai trò thành công",
+                "edit": "Sửa đơn vị QLTĐ CR – vai trò thành công",
+                "delete": "Xóa đơn vị QLTĐ CR – vai trò thành công",
+                "getDetail": "Lấy thông tin chi tiết đơn vị QLTĐ CR – vai trò thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa đơn vị QLTĐ CR – vai trò {{utilityDepartmentsRolesManagementCode}} không ?",
+            "requiredUnitName": "Bạn chưa chọn tên đơn vị",
+            "requiredRoleName": "Bạn chưa chọn tên quyền"
+        }
+    }
+}

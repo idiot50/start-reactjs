@@ -1,0 +1,67 @@
+{
+    "ttConfigMop": {
+        "title": {
+            "ttConfigMopInfo": "Config MOP information ",
+            "ttConfigMopInfoExtra": "Config MOP extra information",
+            "ttConfigMopAdd": "Add new Config MOP",
+            "ttConfigMopEdit": "Update Config MOP"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "mopName": "MOP name",
+            "groupMopName": "MOP group name",
+            "updateUser": "Update user",
+            "lastUpdateTime": "Last update time"
+        },
+        "placeholder": {
+            "mopName": "MOP name",
+            "groupMopName": "MOP group name",
+            "lastUpdateTime": "Last update time",
+            "searchAll":"Search by MOP problem or group problem",
+            "updateUser":"Enter update user"
+        },
+        "message": {
+            "error": {
+                "search": "Search configuration allowing deploy impacted MOP failed",
+                "add": "Add new MOP failed",
+                "edit": "Edit MOP failed",
+                "delete": "Delete MOP failed",
+                "getDetail": "Get config MOP information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add MOP successfully",
+                "edit": "Edit MOP successfully",
+                "delete": "Delete MOP successfully",
+                "getDetail": "Get detail MOP successfully"
+            },
+            "required":{
+                "mopName":"Please enter config mop array",
+                "groupMopName":"Please enter config mop group"
+            },
+            "confirmDelete": "Do you want delete Config MOP {{mopName}} ?",
+            "requiredMopName": "Please enter Config MOP name",
+            "requiredGroupMopName": "Please enter Config MOP name"
+        }
+    }
+}

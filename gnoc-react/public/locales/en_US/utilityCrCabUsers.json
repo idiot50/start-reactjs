@@ -1,0 +1,67 @@
+{
+    "utilityCrCabUsers": {
+        "title": {
+            "utilityCrCabUsersInfo": "CAB users information ",
+            "utilityCrCabUsersInfoExtra": "CAB users extra information",
+            "utilityCrCabUsersAdd": "Add CAB users",
+            "utilityCrCabUsersEdit": "Update CAB users"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "unitImpl": "Implementing Unit",
+            "impactArr": "Impact Array",
+            "CABUnit": "CAB Unit",
+            "CABEmpl": "CAB Personnel",
+            "createdUnit": "Created Unit"
+        },
+        "placeholder": {
+            "searchAll": "Search by CAB users",
+            "unitImpl": "Enter unit code <name>",
+            "CABUnit": "Enter unit code <name>",
+            "createdUnit": "Enter unit code <name>"
+        },
+        "message": {
+            "error": {
+                "search": "Search CAB Users Management failed",
+                "add": "Add CAB Users Management failed",
+                "edit": "Edit CAB Users Management failed",
+                "delete": "Delete CAB Users Management failed",
+                "getDetail": "Get CAB Users Management information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add CAB Users Management successfully",
+                "edit": "Edit CAB Users Management successfully",
+                "delete": "Delete CAB Users Management successfully",
+                "getDetail": "Get detailCAB Users Management successfully"
+            },
+            "confirmDelete": "Do you want delete CAB users {{utilityCrCabUsersCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredProcessTime": "Please enter process time",
+            "requiredUnitImpl": "Please enter implementing unit",
+            "requiredImpactArr": "Please choose impact array",
+            "requiredCABUnit": "Please enter CAB unit",
+            "requiredCABEmpl": "Please choose CAB personnel"
+        }
+    }
+}

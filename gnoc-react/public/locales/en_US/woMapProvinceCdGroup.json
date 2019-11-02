@@ -1,0 +1,69 @@
+{
+    "woMapProvinceCdGroup": {
+        "title": {
+            "woMapProvinceCdGroupInfo": "Province-CD group mapping config information",
+            "woMapProvinceCdGroupAdd": "Add new Province-CD group mapping config",
+            "woMapProvinceCdGroupEdit": "Update Province-CD group mapping config"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "province" : "Province",
+            "cdGroup" : "CD Group",
+            "accidentInspectionDistrict" : "Accident Inspection's District",
+            "accidentInspectionAccount" : "Accident Inspection's Account",
+            "deployInspectionDistrict" : "Deploy Inspection's District",
+            "deployInspectionAccount" : "Deploy Inspection's Account"
+        },
+        "placeholder": {
+            "accidentInspectionDistrict" : "Enter Accident Inspection's District",
+            "accidentInspectionAccount" : "Enter Accident Inspection's Account",
+            "deployInspectionDistrict" : "Enter Deploy Inspection's District",
+            "deployInspectionAccount" : "Enter Deploy Inspection's Account",
+            "searchAll": "Search by location name, CD group name"
+        },
+        "message": {
+            "error": {
+                "search": "Search Province-CD group mapping config failed",
+                "add": "Add new Province-CD group mapping config failed",
+                "edit": "Edit Province-CD group mapping config failed",
+                "delete": "Delete Province-CD group mapping config failed",
+                "getDetail": "Get Province-CD group mapping config failed",
+                "wrongDataFormat": "Wrong data format, maximum 10 positive integer",
+                "getListProvince": "Get list province failed"
+            },
+            "success": {
+                "add": "Add Province-CD group mapping config successfully",
+                "edit": "Edit Province-CD group mapping config successfully",
+                "delete": "Delete Province-CD group mapping config successfully",
+                "getDetail": "Get detail Province-CD group mapping config successfully"
+            },
+            "confirmDelete": "Do you want delete Province-CD group mapping config {{woMapProvinceCdGroupCode}} ?",
+            "requiredProvince" : "Please choose province",
+            "requiredCdGroup" : "Please choose CD group",
+            "requiredAccidentInspectionDistrict" : "Please enter Accident Inspection's District",
+            "requiredAccidentInspectionAccount" : "Please enter Accident Inspection's Account",
+            "requiredDeployInspectionDistrict" : "Please enter Deploy Inspection's District",
+            "requiredDeployInspectionAccount" : "Please enter Deploy Inspection's Account"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "odType": {
+        "title": {
+            "odTypeInfo": "Thông tin loại OD",
+            "odTypeInfoExtra": "Thông tin bổ sung",
+            "odTypeAdd": "Thêm mới loại OD",
+            "odTypeEdit": "Cập nhật loại OD"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "typeCode": "Mã loại OD",
+            "type": "Loại OD",
+            "groupType": "Nhóm loại OD",
+            "priority": "Mức ưu tiên",
+            "processingTime": "Thời gian xử lý (H)"
+        },
+        "placeholder": {
+            "typeCode": "Nhập mã loại OD",
+            "type": "Nhập loại OD",
+            "groupType": "Nhập nhóm loại OD",
+            "searchAll": "Tìm kiếm theo mã, tên"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm loại OD không thành công",
+                "add": "Thêm mới loại OD không thành công",
+                "edit": "Sửa loại OD không thành công",
+                "delete": "Xóa loại OD không thành công",
+                "getDetail": "Lấy thông tin chi tiết loại OD không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới loại OD thành công",
+                "edit": "Sửa loại OD thành công",
+                "delete": "Xóa loại OD thành công",
+                "getDetail": "Lấy thông tin chi tiết loại OD thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa loại OD {{odTypeCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredType": "Bạn chưa nhập tên loại OD",
+            "requiredODcode": "Bạn chưa nhập mã OD",
+            "requiredProcessTime": "Bạn chưa nhập thời gian xử lý"
+        }
+    }
+}

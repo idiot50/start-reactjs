@@ -1,0 +1,68 @@
+{
+    "ttConfigReceiveUnit": {
+        "title": {
+            "ttConfigReceiveUnitInfo": "Thông tin loại SPM",
+            "ttConfigReceiveUnitInfoExtra": "Thông tin bổ sung",
+            "ttConfigReceiveUnitAdd": "Thêm mới",
+            "ttConfigReceiveUnitEdit": "Cập nhật cấu hình"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "unitType": {
+                "CTCT": "Cty Công trình",
+                "TKTU": "TKTU tỉnh"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "status": "Trạng thái",
+            "typeName": "Mảng sự cố",
+            "locationName": "Địa bàn",
+            "unitName": "Đơn vị thực hiện",
+            "unitType": "Loại đơn vị",
+            "priority": "Mức ưu tiên",
+            "processingTime": "Thời gian xử lý (H)"
+        },
+        "placeholder": {
+            "unitName": "Nhập mã <tên> đơn vị",
+            "typeCode": "Nhập mã loại SPM",
+            "type": "Nhập loại SPM",
+            "groupType": "Nhập nhóm loại SPM",
+            "searchAll": "Tìm kiếm theo tất cả các trường",
+            "locationName": "Nhập địa bàn"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm cấu hình không thành công",
+                "add": "Thêm mới cấu hình không thành công",
+                "edit": "Sửa cấu hình không thành công",
+                "delete": "Xóa cấu hình không thành công",
+                "getDetail": "Lấy thông tin chi tiết cấu hình không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới cấu hình thành công",
+                "edit": "Sửa cấu hình thành công",
+                "delete": "Xóa cấu hình thành công",
+                "getDetail": "Lấy thông tin chi tiết cấu hình thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa cấu hình {{ttConfigReceiveUnitCode}} không ?",
+            "requiredTypeName": "Bạn chưa chọn mảng sự cố",
+            "requiredLocationName": "Bạn chưa nhập địa bàn",
+            "requiredUnitName": "Bạn chưa nhập mã <tên> đơn vị thực hiện",
+            "requiredProcessTime": "Bạn chưa nhập thời gian xử lý"
+        }
+    }
+}

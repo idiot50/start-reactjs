@@ -1,0 +1,1 @@
+export const AJAX_LOADING = 'AJAX_LOADING';

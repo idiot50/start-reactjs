@@ -1,0 +1,138 @@
+{
+    "woTypeManagement": {
+        "title": {
+            "woTypeManagementInfo": "Type management information ",
+            "woTypeManagementAdd": "Add new type management",
+            "woTypeManagementEdit": "Update type management",
+            "woTypeManagementListRequiredInfo" : "List require infomation",
+            "woTypeManagementCheckList" : "Checklist information",
+            "woTypeManagementFile" : "File information",
+            "woTypeManagementConfigRequired" : "Config require",
+            "attachedFiles" : "Attached files",
+            "addNewCheckList" : "Add new checklist",
+            "addNewFile" : "Add new file",
+            "configFile" : "Config attached files"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search",
+            "save" : "Save",
+            "close" : "Close",
+            "require" : "Config require",
+            "download": "Download"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            },
+            "isAllow" : {
+                "allow" : "Allow",
+                "notAllow" : "Not allow"
+            },
+            "priroity":{
+                "low": "Low",
+                "medium": "Medium",
+                "high": "High",
+                "serious": "Serious" 
+            },
+            "required": {
+                "required": "Required",
+                "notRequired": "Not required"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "woTypeCode": "Work order type code",
+            "woTypeName": "Work order type name",
+            "status": "Status",
+            "woGroupName":"Group Type" ,
+            "allowManualCreate":"Allow manual create",
+            "duration" : "Duration",
+            "requiredInfo" : "Required Infomation",
+            "required" : "Require",
+            "fileName" : "File name",
+            "checkListName" : "Checklist name",
+            "defaultValue" : "Default value",
+            "timeOverdue" : "Time overdue",
+            "cycleMessageOverdue" : "Cycle message overdue",
+            "timeAutoCloseWo" : "Auto time close Wo",
+            "isAllowPause" : "Allow pause",
+            "isCreated" : "Create from other system",
+            "timeAutoCloseWoOverdue" : "Autotime close WO overdue",
+            "priorityCode": "Priority code",
+            "priority": "Priority"
+        },
+        "placeholder": {
+            "woTypeCode": "Enter type management code",
+            "woTypeName": "Enter type management name",
+            "searchAll": "Search by Type management name, Type management code",
+            "duration" : "Enter duration (days)",
+            "checkListName" : "Enter checklist name",
+            "defaultValue" : "Enter default value",
+            "fileName" : "Enter file name",
+            "timeOverdue" : "Enter time overdue",
+            "cycleMessageOverdue" : "Enter cycle message overdue",
+            "timeAutoCloseWo" : "Enter autotime close Wo",
+            "timeAutoCloseWoOverdue" : "Enter autotime close WO overdue"
+        },
+        "message": {
+            "error": {
+                "search": "Search type management failed",
+                "add": "Add new type management failed",
+                "edit": "Edit type management failed",
+                "delete": "Delete type management failed",
+                "deleteRequired": "Do not delete the work type being used",
+                "getDetail": "Get type management information failed",
+                "wrongDataFormat": "Wrong data format. Enter a positive integer",
+                "checkList" : "Duplicate check list name",
+                "duplicated" : "Duplicate data",
+                "duplicate": "WoTypeCode already exists",
+                "downloadFile": "File is not found in server",
+                "maxValue": "You must enter a value less than {{number}}",
+                "maxLength": "Must be less than {{number}} characters",
+                "editPriority": "Config priority failed",
+                "listEmpty": "Add list priority",
+                "deletePriority": "Delete priority failed"
+            },
+            "success": {
+                "add": "Add type management successfully",
+                "edit": "Edit type management successfully",
+                "delete": "Delete type management successfully",
+                "getDetail": "Get detail type management successfully",
+                "editPriority": "Config priority successfully",
+                "deletePriority": "Delete priority successfully"
+            },
+            "required": {
+                "checkListName": "Please enter checklist name",
+                "fileName": "Please enter file name",
+                "required": "Please choose require",
+                "woTypeName": "Please enter character, number and '_'"
+            },
+            "confirmDelete": "Do you want delete type management {{woTypeManagementCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredWoTypeCode": "Please enter type management code",
+            "requiredWoTypeName": "Please enter type management name",
+            "requiredGroupType":"Please select group type",
+            "requiredTimeOverdue" : "timeOverdue",
+            "requiredCycleMessageOverdue" : "cycleMessageOverdue",
+            "requiredTimeAutoCloseWo" : "timeAutoCloseWo",
+            "requiredIsAllowPause" : "Please select allow pause",
+            "requiredIsCreated" : "Please select created",
+            "requiredTimeAutoCloseWoOverdue" : "timeAutoCloseWoOverdue",
+            "requiredAllowManualCreate" : "Please select manual create",
+            "requiredPriority": "Please select priority",
+            "confirmDeletePriority" : "Do you want delete priority {{woTypeManagementCode}} ?"
+        }
+    }
+}

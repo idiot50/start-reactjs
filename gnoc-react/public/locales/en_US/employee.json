@@ -1,0 +1,120 @@
+{
+    "employee": {
+        "title": {
+            
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search",
+            "rotateLeft": "Left",
+            "rotateRight": "Right"
+        },
+        "table": {
+            
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "isActive": "Is active",
+                "looked": "Looked"
+            }
+        },
+        "label": {
+            "number": "Index",
+            "action": "Actions",
+            "image": "Image",
+            "username": "Username",
+            "fullName": "Full name",
+            "firstName": "First name",
+            "lastName": "Last name",
+            "status": "Status",
+            "roleName": "Role",
+            "createdTime": "Created time",
+            "createdUser": "Created user",
+            "updatedTime": "Updated time",
+            "updatedUser": "Updated user",
+            "signInCount": "Number login",
+            "email": "Email",
+            "dateOfBirth": "Date of birth",
+            "password": "Password",
+            "rePassword": "Re-password",
+            "phone": "Phone",
+            "employeeCode": "Employee code",
+            "unit": "Unit",
+            "zoom": "Zoom",
+            "allowScale": "Allow Scale < 1",
+            "borderRadius": "Border radius",
+            "rotate": "Rotate"
+        },
+        "placeholder": {
+            "username": "Enter username",
+            "fullName": "Enter full name",
+            "firstName": "Enter first name",
+            "lastName": "Enter last name",
+            "email": "Enter email",
+            "dateOfBirth": "Enter date of birth",
+            "createdUser": "Enter created user",
+            "password": "Enter password",
+            "rePassword": "Enter re-password",
+            "phone": "Enter phone",
+            "employeeCode": "Enter employee code",
+            "unit": "Enter unit"
+        },
+        "message": {
+            "error": {
+                "add": "Add user fails",
+                "edit": "Edit user fails",
+                "delete": "Delete user fails",
+                "getDetail": "Get detail user fails"
+            },
+            "success": {
+                "add": "Add user successfully",
+                "edit": "Edit user successfully",
+                "delete": "Delete user successfully",
+                "getDetail": "Get detail user successfully"
+            },
+            "username": {
+                "required": "Please enter username",
+                "minMaxLength": "Your username must be between 1 and 16 characters",
+                "pattern": "Your username must be composed only with letter and numbers",
+                "duplicate": "Duplicate username"
+            },
+            "password": {
+                "required": "Please enter password",
+                "minMaxLength": "Your password must be between 6 and 16 characters",
+                "pattern": "Your password must be composed only with letter and numbers",
+                "match": "Confirm the password incorrectly"
+            },
+            "employeeCode": {
+                "required": "Please enter employee code",
+                "minMaxLength": "Your employee code must be between 1 and 16 characters",
+                "pattern": "Your employee code must be composed only with letter and numbers",
+                "duplicate": "Duplicate employee code"
+            },
+            "confirmDelete": "Do you want delete user {{username}} ?",
+            "requiredRePassword": "Please enter re-password",
+            "invalidateDate": "Invalidate date",
+            "dateOfBirthMax": "Date of birth does not too current date",
+            "statusAll": "The default is all states",
+            "requiredStatus": "Please select status",
+            "fullName": "Please enter full name",
+            "firstName": "Please enter first name",
+            "lastName": "Please enter last name",
+            "email": "Please enter email",
+            "invalidateEmail": "Invalidate email",
+            "phone": "Please enter phone",
+            "invalidatePhone": "Invalidate phone",
+            "unit": "Please enter unit",
+            "requiredDateOfBirth": "Please enter date of birth",
+            "dateOfBirthRange": "Date of birth is invalid"
+        }
+    }
+}

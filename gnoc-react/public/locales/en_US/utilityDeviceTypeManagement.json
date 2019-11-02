@@ -1,0 +1,62 @@
+{
+    "utilityDeviceTypeManagement": {
+        "title": {
+            "utilityDeviceTypeManagementInfo": "Node type information ",
+            "utilityDeviceTypeManagementInfoExtra": "Node type extra information",
+            "utilityDeviceTypeManagementAdd": "Add node type",
+            "utilityDeviceTypeManagementEdit": "Update node type"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "deviceType" : "Node type",
+            "deviceTypeId" : "Node type code",
+            "description" : "Description"
+        },
+        "placeholder": {
+            "searchAll": "Search by code, name node type",
+            "deviceType" : "Enter node type",
+            "deviceTypeId" : "Enter node type code",
+            "description" : "Enter description"
+        },
+        "message": {
+            "error": {
+                "search": "Search Node Type Category failed",
+                "add": "Add Node Type Category failed",
+                "edit": "Edit Node Type Category failed",
+                "delete": "Delete Node Type Category failed",
+                "getDetail": "Get Node Type Category information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add Node Type Category successfully",
+                "edit": "Edit Node Type Category successfully",
+                "delete": "Delete Node Type Category successfully",
+                "getDetail": "Get detail Node Type Category successfully"
+            },
+            "confirmDelete": "Do you want delete node type {{utilityDeviceTypeManagementCode}} ?",
+            "requiredDeviceTypeId" : "Please enter node type id",
+            "requiredDeviceType" : "Please enter node type"
+        }
+    }
+}

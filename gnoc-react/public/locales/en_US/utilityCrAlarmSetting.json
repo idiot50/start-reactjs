@@ -1,0 +1,116 @@
+{
+    "utilityCrAlarmSetting": {
+        "title": {
+            "tableSearchResult": "Search Results",
+            "alarmList": "Alarm List",
+            "utilityCrAlarmSettingAdd": "Add CR alarm",
+            "utilityCrAlarmSettingEdit": "Update CR alarm",
+            "utilityCrAlarmSettingInfo": "Information CR alarm",
+            "listAlarm": "Search alarm list",
+            "searchResults": "Search results",
+            "listVendor": "Vendor selected",
+            "addVendor": "Update Vendor",
+            "listModule": "Module selected",
+            "addModule": "Update Module ",
+            "searchProcess": "Search Process"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search",
+            "impl": "Add",
+            "accept": "Select",
+            "remove": "Remove",
+            "choose": "Choose"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Approved",
+                "inActive": "Unapproved"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "status": "Status",
+            "domain": "Impact Segment",
+            "deviceType": "Device Type",
+            "CRProcessName": "CR Process Name",
+            "faultName": "Fault Name",
+            "faultGroupName": "Fault Group Name",
+            "alarmField": "Alarm Field",
+            "alarmGroupName": "Alarm Group Name",
+            "createUser": "Create User",
+            "keyword": "Keyword",
+            "NOCDevice": "Device Type Code NOC",
+            "vendorCode": "Vendor Code",
+            "moduleCode": "Module Code",
+            "vendorName": "Vendor name",
+            "moduleName": "Module name",
+            "isAutoLoad": "Is Auto Load ?",
+            "nation": "Nation",
+            "updateVendor": "Update Vendor",
+            "updateModule": "Update Module",
+            "applicationCode": "Application Code",
+            "crProcessCode": "Process code",
+            "crProcessName": "Process name"
+        },
+        "placeholder": {
+            "searchAll": "Search by alarm name",
+            "createUser": "Enter create user",
+            "CRProcessName": "Enter CR process name",
+            "faultName": "Enter fault name",
+            "vendorCode": "Enter vendor code",
+            "moduleCode": "Enter module code",
+            "vendorName": "Enter vendor name",
+            "moduleName": "Enter module name",
+            "applicationCode": "Enter application code",
+            "crProcessCode": "Enter process code",
+            "crProcessName": "Enter process name",
+            "doubleClick": "DoubleClick"
+        },
+        "message": {
+            "error": {
+                "search": "Search Configure Alarm For CR failed",
+                "add": "Add Configure Alarm For CR failed",
+                "edit": "Edit Configure Alarm For CR failed",
+                "delete": "Delete Configure Alarm For CR failed",
+                "getDetail": "Get Configure Alarm For CR information failed",
+                "wrongDataFormat": "Wrong data format",
+                "searchVendor": "Search vendor failed",
+                "searchModule": "Search module failed",
+                "updateVendor": "Update vendor failed",
+                "updateModule": "Update module failed",
+                "searchAlarmList": "Get alarm list information failed"
+            },
+            "success": {
+                "add": "Add Configure Alarm For CR successfully",
+                "edit": "Edit Configure Alarm For CR successfully",
+                "delete": "Delete Configure Alarm For CR successfully",
+                "getDetail": "Get detail Configure Alarm For CR successfully",
+                "updateVendor": "Update vendor successfully",
+                "updateModule": "Update module successfully"
+            },
+            "confirmDelete": "Do you want delete CR alarm {{faultName}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter CR alarm",
+            "requiredODcode": "Please enter CR alarm code",
+            "requiredProcessTime": "Please enter process time",
+            "requiredVendor": "Please choose vendor",
+            "requiredModule": "Please choose module",
+            "requiredCheckAlarm": "Please check Alarm",
+            "requiredAlarmField": "Please choose Fault Name",
+            "requiredDomain": "Please choose Impact Segment",
+            "requiredDeviceType": "Please choose Device Type",
+            "requiredCRProcessName": "Please choose Process",
+            "requiredNation": "Please choose Nation"
+        }
+    }
+}

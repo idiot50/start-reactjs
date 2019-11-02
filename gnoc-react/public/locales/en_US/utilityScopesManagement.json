@@ -1,0 +1,42 @@
+{
+    "utilityScopesManagement": {
+        "title": {
+            "utilityScopesManagementAdd": "Add utility scope",
+            "utilityScopesManagementEdit": "Update utility scope",
+            "utilityScopesManagementInfo": "Infomation utility scope"
+        },
+        "button": {
+            "add": "Add",
+            "export": "Export"
+        },
+        "label": {
+            "action" : "Action",
+            "rangeCode": "Range code",
+            "rangeName": "Range name",
+            "description": "Description"
+        },
+        "placeholder": {
+            "searchAll": "Search by code scopes, name scopes",
+            "rangeCode": "Enter range code",
+            "rangeName": "Enter range name",
+            "description": "Enter discription"
+        },
+        "message": {
+            "error": {
+                "search": "Search Scope Category failed",
+                "add": "Add Scope Category failed",
+                "edit": "Edit Scope Category failed",
+                "delete": "Delete Scope Category failed",
+                "getDetail": "Get scopes information failed"
+            },
+            "success": {
+                "add": "Add Scope Category successfully",
+                "edit": "Edit Scope Category successfully",
+                "delete": "Delete Scope Category successfully"
+            },
+            "confirmDelete": "Do you want delete scopes {{utilityScopesManagementCode}} ?",
+            "requiredRangeCode": "Please enter range code",
+            "requiredRangeName": "Please enter range name"
+        }
+    }
+}

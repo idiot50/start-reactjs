@@ -1,0 +1,62 @@
+{
+    "woUpdateServiceInfra": {
+        "title": {
+            
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "infraType": {
+                "coppleCable": "Cáp đồng",
+                "coaxialCable": "Cáp đồng trục",
+                "AON": "AON",
+                "GPON": "GPON"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "woCode": "Mã wo",
+            "account": "Account_ISDN",
+            "service": "Dịch vụ",
+            "infrastructure": "Công nghệ",
+            "save": "Lưu lại",
+            "woU": "woU"
+        },
+        "placeholder": {
+            "status": "Trạng thái",
+            "woCode": "Mã wo",
+            "account": "Tài khoản_ISDN",
+            "service": "Dịch vụ",
+            "infrastructure": "Công nghệ",
+            "save": "Lưu lại",
+            "searchAll": "Tìm kiếm theo mã wo, account"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm công nghệ dịch vụ không thành công",
+                "add": "Thêm mới công nghệ dịch vụ không thành công",
+                "update": "Cập nhật công nghệ dịch vụ không thành công",
+                "delete": "Xóa công nghệ dịch vụ không thành công",
+                "getDetail": "Lấy thông tin chi tiết công nghệ dịch vụ không thành công"
+            },
+            "success": {
+                "add": "Thêm mới công nghệ dịch vụ thành công",
+                "update": "Cập nhật công nghệ dịch vụ thành công",
+                "delete": "Xóa công nghệ dịch vụ thành công",
+                "getDetail": "Lấy thông tin chi tiết công nghệ dịch vụ thành công"
+            }
+        }
+    }
+}

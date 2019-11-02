@@ -1,0 +1,70 @@
+{
+    "utilityCrImpactFrame": {
+        "title": {
+            "utilityCrImpactFrameInfo": "Thông tin khung thời gian tác động",
+            "utilityCrImpactFrameAdd": "Thêm mới khung thời gian tác động",
+            "utilityCrImpactFrameEdit": "Cập nhật khung thời gian tác động"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "frameCode": "Mã thời gian tác động",
+            "frameName": "Tên thời gian tác động",
+            "startTime": "Thời gian bắt đầu",
+            "endTime": "Thời gian kết thúc",
+            "description": "Mô tả",
+            "isEditable": "Không cho sửa"
+        },
+        "placeholder": {
+            "frameCode": "Mã thời gian tác động",
+            "frameName": "Tên thời gian tác động",
+            "startTime": "Thời gian bắt đầu",
+            "endTime": "Thời gian kết thúc",
+            "description": "Mô tả",
+            "searchAll":"Tìm kiếm bằng mã, tên thời gian tác động "
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm khung thời gian tác động không thành công",
+                "add": "Thêm mới khung thời gian tác động không thành công",
+                "edit": "Sửa khung thời gian tác động không thành công",
+                "delete": "Xóa khung thời gian tác động không thành công",
+                "getDetail": "Lấy thông tin chi tiết khung thời gian tác động không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "startTimeError":"Thời gian bắt đầu phải nằm từ 0-23",
+                "endTimeError":"Thời gian kết thúc phải nằm từ 0-23",
+                "number":"Thời gian phải là một số nguyên dương"
+            },
+            "success": {
+                "add": "Thêm mới khung thời gian tác động thành công",
+                "edit": "Sửa khung thời gian tác động thành công",
+                "delete": "Xóa khung thời gian tác động thành công",
+                "getDetail": "Lấy thông tin chi tiết khung thời gian tác động thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa khung thời gian tác động {{utilityCrImpactFrameCode}} không ?",
+            "requiredFrameCode": "Bạn chưa nhập mã thời gian tác động",
+            "requiredFrameName": "Bạn chưa nhập tên thời gian tác động",
+            "requiredStartTime": "Bạn chưa nhập thời gian bát đầu",
+            "requiredEndtime": "Bạn chưa nhập thời gian kết thúc",
+            "requiredStatus":"Bạn chưa chọn trạng thái"
+        }
+    }
+}

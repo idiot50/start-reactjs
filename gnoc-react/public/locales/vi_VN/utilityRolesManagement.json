@@ -1,0 +1,68 @@
+{
+    "utilityRolesManagement": {
+        "title": {
+            "utilityRolesManagementInfo": "Thông tin vai trò",
+            "utilityRolesManagementAdd": "Thêm mới vai trò",
+            "utilityRolesManagementEdit": "Cập nhật vai trò"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            },
+            "emergency": {
+                "yes": "Có",
+                "no": "Không"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "roleCode": "Mã quyền",
+            "roleName": "Tên quyền",
+            "description" : "Mô tả",
+            "roleCr" : "Quyền sắp lịch Cr khẩn"
+        },
+        "placeholder": {
+            "roleCode": "Nhập mã quyền",
+            "roleName": "Nhập tên quyền",
+            "searchAll": "Tìm kiếm theo mã quyền, tên quyền"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm không thành công",
+                "add": "Thêm mới không thành công",
+                "edit": "Sửa không thành công",
+                "delete": "Xóa không thành công",
+                "getDetail": "Lấy thông tin chi tiết không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "duplicate": "Dữ liệu thêm mới bị trùng"
+            },
+            "success": {
+                "add": "Thêm mới thành công",
+                "edit": "Sửa thành công",
+                "delete": "Xóa thành công",
+                "getDetail": "Lấy thông tin chi tiết thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa vai trò {{cmreCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredRoleCode": "Bạn chưa nhập mã quyền",
+            "requiredRoleName": "Bạn chưa nhập tên quyền",
+            "requiredRoleCr": "Bạn chọn quyền sắp lịch CR"
+        }
+    }
+}

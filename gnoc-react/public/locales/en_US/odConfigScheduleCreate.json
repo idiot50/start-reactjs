@@ -1,0 +1,87 @@
+{
+    "odConfigScheduleCreate": {
+        "title": {
+            "odInfo": "OD Info",
+            "odActionInfo": "OD Action Info",
+            "odAdd": "Add new OD",
+            "odEdit": "Update OD"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search",
+            "additional": "Add",
+            "remove": "Remove",
+            "choose": "Choose"
+        },
+        "dropdown": {
+            "all": "--Choose--",
+            "schedule": {
+                "week": "Week",
+                "month": "Month",
+                "quarter": "Quarter"
+            }
+        },
+        "label": {
+            "number": "Index",
+            "action": "Action",
+            "odName": "OD Name",
+            "odDescription": "OD Description",
+            "odPriorityName": "OD Priority",
+            "odTypeName": "OD Type",
+            "schedule": "Schedule",
+            "receiveUnit": "Receive Unit",
+            "unitName": "Unit name",
+            "unitCode": "Unit code",
+            "parentUnitName": "Parent unit name",
+            "woName": "WO name",
+            "workDescription": "OD description",
+            "woGroupType": "Wo group type",
+            "choose": "Choose",
+            "addNewReceiveUnit": "Add new receive unit",
+            "unitList": "Unit list"
+        },
+        "placeholder": {
+            "odName": "Enter OD name",
+            "woName": "Enter WO name",
+            "workDescription": "Enter OD description",
+            "unitCode": "Enter unit code",
+            "unitName": "Enter unit name",
+            "searchAll": "Search by name, description"
+        },
+        "message": {
+            "error": {
+                "search": "Search OD fails",
+                "searchUnit": "Search unit fails",
+                "add": "Add OD fails",
+                "edit": "Edit OD fails",
+                "delete": "Delete OD fails",
+                "getDetail": "Get detail OD fails"
+            },
+            "success": {
+                "add": "Add OD successfully",
+                "edit": "Edit OD successfully",
+                "delete": "Delete OD successfully",
+                "getDetail": "Get detail OD successfully"
+            },
+            
+            "required": {
+                "woName": "Please enter Wo name",
+                "odTypeName": "Please select OD type",
+                "odPriorityName": "Please select OD priority",
+                "schedule": "Please select Schedule",
+                "receiveUnit": "Please select Receive unit",
+                "receiveName": "Please enter receive name",
+                "receiveCode": "Please enter receive code"
+            },
+            "confirmDelete": "Do you want delete current work {{name}} ?"
+        }
+    }
+}

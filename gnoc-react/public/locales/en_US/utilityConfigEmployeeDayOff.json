@@ -1,0 +1,65 @@
+{
+    "utilityConfigEmployeeDayOff": {
+        "title": {
+            "utilityConfigEmployeeDayOffInfo": "Employee day-off information ",
+            "utilityConfigEmployeeDayOffInfoExtra": "Employee day-off extra information",
+            "utilityConfigEmployeeDayOffAdd": "Add employee day-off",
+            "utilityConfigEmployeeDayOffEdit": "Update employee day-off"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "vacation": {
+                "mor": "Morning",
+                "aft": "Afternoon",
+                "full": "All day"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "employeeName": "Employee",
+            "unit": "Unit",
+            "dayOff": "Day off",
+            "vacation": "Vacation"
+        },
+        "placeholder": {
+            "employeeName": "Employee",
+            "unit": "Unit",
+            "dayOff": "Day off dd/MM/yyyy",
+            "vacation": "Vacation",
+            "searchAll":"Search by employees"
+        },
+        "message": {
+            "error": {
+                "search": "Search Configure Employee Day-Off failed",
+                "add": "Add Configure Employee Day-Off failed",
+                "edit": "Edit Configure Employee Day-Off failed",
+                "delete": "Delete Configure Employee Day-Off failed",
+                "getDetail": "Get Configure Employee Day-Off information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add Configure Employee Day-Off successfully",
+                "edit": "Edit Configure Employee Day-Off successfully",
+                "delete": "Delete Configure Employee Day-Off successfully",
+                "getDetail": "Get detail Configure Employee Day-Off successfully"
+            },
+            "confirmDelete": "Do you want delete employee day-off {{utilityConfigEmployeeDayOffCode}} ?",
+            "requiredEmployeeName": "Please enter employee",
+            "requiredDayOff": "Please enter day off",
+            "requiredVacation": "Please enter vacation"
+        }
+    }
+}

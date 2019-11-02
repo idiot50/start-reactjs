@@ -1,0 +1,22 @@
+version: '3.7'
+networks:
+  monitor:
+services:
+  react-coreui-admin:
+    container_name: react-coreui-admin
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/usr/src/app'
+      - '/usr/src/app/node_modules'
+      - '/usr/src/app/node_modules/node-sass'
+      - '/usr/src/app/node_modules/react-froala-wysiwyg'
+      - '/usr/src/app/node_modules/react-scripts'
+      - '/usr/src/app/node_modules/froala-editor/js'
+    ports:
+      - '80:80'
+    environment:
+      - NODE_ENV=development
+      - REACT_APP_API_URL=https://development.api.com
+    networks: [monitor]

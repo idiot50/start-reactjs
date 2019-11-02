@@ -1,0 +1,88 @@
+{
+    "odConfigScheduleCreate": {
+        "title": {
+            "odInfo": "Thông tin công việc",
+            "odActionInfo": "Thông tin thực hiện công việc",
+            "odAdd": "Thêm mới công việc",
+            "odEdit": "Cập nhật công việc"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm",
+            "additional": "Bổ sung",
+            "remove": "Loại bỏ",
+            "choose": "Chọn"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "schedule": {
+                "week": "Tuần",
+                "month": "Tháng",
+                "quarter": "Quý"
+            }
+        },
+        "label": {
+            "number": "STT",
+            "action": "Hành động",
+            "odName": "Tên công việc",
+            "odDescription": "Mô tả công việc",
+            "odPriorityName": "Mức độ ưu tiên",
+            "odTypeName": "Loại công việc",
+            "schedule": "Chu kì lập lịch",
+            "receiveUnit": "Đơn vị thực hiện",
+            "unitName": "Tên đơn vị",
+            "unitCode": "Mã đơn vị",
+            "parentUnitName": "Tên đơn vị cha",
+            "woName": "Nội dung công việc",
+            "workDescription": "Mô tả công việc",
+            "woGroupType": "Nhóm loại công việc",
+            "choose": "Chọn",
+            "addNewReceiveUnit": "Thêm mới đơn vị thực hiện",
+            "unitList": "Danh sách đơn vị"
+            
+        },
+        "placeholder": {
+            "odName": "Nhập tên công việc",
+            "woName": "Nhập nội dung công việc",
+            "workDescription": "Nhập mô tả công việc",
+            "unitCode": "Nhập mã đơn vị",
+            "unitName": "Nhập tên đơn vị",
+            "searchAll": "Tìm kiếm theo tên, mô tả"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm OD không thành công",
+                "searchUnit": "Tìm kiếm đơn vị không thành công",
+                "add": "Thêm mới OD không thành công",
+                "edit": "Sửa OD không thành công",
+                "delete": "Xóa OD không thành công",
+                "getDetail": "Lấy thông tin chi tiết OD không thành công"
+            },
+            "success": {
+                "add": "Thêm mới OD thành công",
+                "edit": "Sửa OD thành công",
+                "delete": "Xóa OD thành công",
+                "getDetail": "Lấy thông tin chi tiết OD thành công"
+            },
+            
+            "required": {
+                "woName": "Bạn chưa nhập Nội dung công việc",
+                "odTypeName": "Bạn chưa chọn Loại công việc",
+                "odPriorityName": "Bạn chưa chọn Mức ưu tiên",
+                "schedule": "Bạn chưa chọn Chu kì lập lịch",
+                "receiveUnit": "Bạn chưa chọn Đơn vị thực hiện",
+                "receiveName": "Bạn chưa nhập Tên đơn vị",
+                "receiveCode": "Bạn chưa nhập Mã đơn vị"
+            },
+            "confirmDelete": "Bạn có muốn xóa công việc {{name}} không ?"
+        }
+    }
+}

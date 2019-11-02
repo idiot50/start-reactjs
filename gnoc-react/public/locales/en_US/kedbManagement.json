@@ -1,0 +1,139 @@
+{
+    "kedbManagement": {
+        "title": {
+            "kedbManagementInfo": "Kedb information ",
+            "kedbManagementInfoExtra": "Kedb extra information",
+            "kedbManagementAdd": "Add new Kedb",
+            "kedbManagementEdit": "Update Kedb",
+            "history":"History",
+            "information":"Information",
+            "viewConfigField": "View search configuration"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search",
+            "save": "Save search configuration",
+            "restore": "Restore search configuration",
+            "viewConfigField": "View search configuration"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "status": "Status",
+            "typeCode": "Kedb code",
+            "type": "Kedb",
+            "groupType": "Group Kedb",
+            "priority": "Priority",
+            "processingTime": "Processing Time (H)",
+            "softwareVersion": "Software version",
+            "hardwareVersion": "Hardware version",
+            "staff": "Staff",
+            "kedbCode": "Experience  code",
+            "kedbName": "Experience name",
+            "vendor": "Vendor",
+            "parentTypeName": "Section",
+            "typeName": "Segmentation",
+            "nodeType": "Node type",
+            "createUserName": "Author",
+            "createdTime": "Created time",
+            "searchByContent": "Search by content file",
+            "createdByPt": "Created by Pt/Tt",
+            "handleUnit": "Handle unit",
+            "description": "Description",
+            "rootCause": "Root cause",
+            "solution": "Solution/Experience lessons",
+            "comment": "Comment",
+            "newComment": "New comment",
+            "attachFile": "Attached files",
+            "approvalUnit":"Approval unit",
+            "rate":"Your rating",
+            "averageRate":"Average rating",
+            "quickSearch": "Quick search",
+            "checkDescription": "Search by content checkbox",
+            "createTimeFrom": "Create time from",
+            "createTimeTo": "Create time to",
+            "fieldName": "Field name",
+            "fieldValue": "Field value",
+            "content": "Content",
+            "createUnit" : "Create Unit"
+        },
+        "placeholder": {
+            "typeCode": "Enter Kedb code",
+            "type": "Enter Kedb",
+            "groupType": "Enter group Kedb ",
+            "searchByContent": "Enter content file",
+            "staff": "Please enter name of staff",
+            "kedbName": "Please enter experience lesson name",
+            "kedbCode": "Please enter experience lesson code",
+            "createUserName":"Please enter author",
+            "createdByPt": "Please enter Pt/Tt which created",
+            "handleUnit": "Please enter handle unit",
+            "description": "Please enter description",
+            "rootCause": "Please enter root cause",
+            "solution": "Please enter solution or experience lessons",
+            "searchAll": "Search by kedb code, kedb name, description, rca, pt wa, solution"
+        },
+        "message": {
+            "error": {
+                "search": "Search Kedb failed",
+                "add": "Add new Kedb failed",
+                "edit": "Update type Kedb failed",
+                "delete": "Delete Kedb failed",
+                "getDetail": "Get Kedb information failed",
+                "wrongDataFormat": "Wrong data format",
+                "authority": "You are not authorized",
+                "saveSearchConfig" : "Save search config failed",
+                "filePermission": "You do not have permission to delete the file"
+            },
+            "success": {
+                "add": "Add Kedb successfully",
+                "edit": "Update Kedb successfully",
+                "delete": "Delete Kedb successfully",
+                "getDetail": "Get detail Kedb successfully",
+                "saveSearchConfig" : "Save search config success"
+            },
+            "required": {
+                "kedbName": "Please enter name of experience lesson",
+                "createUserName":"Please enter created name",
+                "createdByPt":"Please enter created Pt/Tt name",
+                "parentTypeName":"Please select one of sections",
+                "typeName":"Please select one of segmentations",
+                "nodeType":"Please select one of node types",
+                "vendor":"Please select one of vendor",
+                "kedbState":"Please select status",
+                "softwareVersion":"Please select one of software versions",
+                "hardwareVersion":"Please select one of hardware versions",
+                "unitCheckId":"Please select one of handle units",
+                "staff":"Please enter staff",
+                "description":"Please enter description",
+                "rootCause":"Please enter root cause",
+                "solution":"Please enter solution"
+            },
+            "confirmDelete": "Do you want delete OD {{kedbManagementCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter Kedb",
+            "requiredODcode": "Please enter Kedb code",
+            "requiredProcessTime": "Please enter process time",
+            "confirmAdd": "Do you want save information ?"
+        },
+        "textEditorGuilde": {
+            "description": "<p class=\"MsoNormal\"><b>Description: </b>describe brief and full about event and affect to network or services (ex: customers were ot make a call and heared \"tut...tut..\" but received calls normaly)<b></b></p><p class=\"MsoNormal\"><b><br> - symptom </b>(list all symptom which could identify incident):</p><p class=\"MsoNormal\">+ Symptom 1: Alarm \"A\"</p><p class=\"MsoNormal\">+ Symtom 2: There was error code \"B\" in logs</p><p class=\"MsoNormal\">        + Symptom C: Dont execute action C</p>",
+            "reason": "<p class=\"MsoNormal\">Rootcause: it can be written from cause level 1 to cause level n, ex:</p>  Card restarted -&gt; Why did it restart? -&gt; CPU was&nbsp; overloaded-&gt; Why was CPU overload?&nbsp; many process X were initialized -&gt; why were&nbsp; many process X initialized? Parameter Y was configured with incorrect -&gt; What is parameter Y? how does incorrect parameter Y affect? why was incorrect paramenter configured?",
+            "solution": "<p class=\"MsoNormal\">1. Remedy (a way to resolve incident)</p>  <p class=\"MsoNormal\">- Condition: the condition to apply this remedy (software version: R15, hardware version: APZ21250)</p>  <p class=\"MsoNormal\">- implementation Steps: describe each step in detail</p>  <p class=\"MsoNormal\">2. Solution (a way to prevent incident re-occur) </p>  <p class=\"MsoNormal\">- Condition: the condition to apply this solution (software version: R15, hardware version: APZ21250)</p>  <p class=\"MsoNormal\">- implementation Steps: describe each step in detail</p>  <p class=\"MsoNormal\">Step 1: Action A, details of each operation.</p>  <p class=\"MsoNormal\">Step 2: Action B, details of each operation.</p>  Step 3: Action C, details of each operation."
+        }
+    }
+}

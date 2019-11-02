@@ -1,0 +1,81 @@
+{
+    "odConfigBusiness": {
+        "title": {
+            "odConfigInfo": "OD configuration information",
+            "odTypeInfoExtra": "Additional information",
+            "permissionEditStatus": "Permission edit status",
+            "odConfigAdd": "Add new OD configuration",
+            "odConfigEdit": "Update OD configuration"
+        },
+        "button": {
+            "add": "Add new",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "- Select--",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive",
+                "sendToUnit": "Send to unit",
+                "yes": "Yes",
+                "no": "No",
+                "sendToLeader": "Send to leader"
+            }
+        },
+        "label": {
+            "action": "Active",
+            "oldStatusName": "Old status",
+            "newStatusName": "New status",
+            "odTypeName": "OD type",
+            "odPriorityName": "Priority",
+            "isDefaultName": "Default configuration",
+            "additionalMajor": "Additional operations",
+            "sendCreate": "Creator messaging",
+            "createContent": "Employee texting content created",
+            "sendReceiveUser": "Message handling staff",
+            "receiveUserContent": "Staff message processing content",
+            "sendReceiveUnit": "Processing unit messaging",
+            "receiveUnitContent": "Processing unit text message",
+            "columnName": "Field name",
+            "editable": "Allow edit",
+            "isRequired": "Is require",
+            "isVisible": "Is visible",
+            "message": "Error Message",
+            "roleName": "Role Name",
+            "permissionEditStatus": "Permission edit status"
+        },
+        "placeholder": {
+            "typeTask": "Enter OD type",
+            "additionalMajor": "Enter additional business",
+            "createContent": "Enter the employee text message content",
+            "receiveUserContent": "Enter the message handling staff content",
+            "receiveUnitContent": "Enter message processing unit content",
+            "searchAll": "Search by OD type"
+        },
+        "message": {
+            "error": {
+                "search": "OD configuration search failed",
+                "add": "Add new failed OD configuration",
+                "edit": "Fix OD configuration failed",
+                "delete": "Delete OD configuration failed",
+                "getDetail": "Get OD configuration details failed"
+            },
+            "success": {
+                "add": "Add successful OD configuration",
+                "edit": "Successful OD configuration editing",
+                "delete": "Successful OD configuration removal",
+                "getDetail": "Get successful OD configuration details"
+            },
+            "confirmDelete": "Do you want to delete the OD {{odTypeCode}} configuration ?",
+            "requiredOdTypeName": "OD type cannot be blank",
+            "requiredOdPriorityName": "Priority cannot be blank",
+            "requiredOldStatusName": "The old state cannot be left blank",
+            "requiredNewStatusName": "The new status cannot be blank",
+            "requiredPermissionEditStatus": "Please choose permission edit status"
+        }
+    }
+}

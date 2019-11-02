@@ -1,0 +1,74 @@
+{
+    "utilityRolesScopeManagement": {
+        "title": {
+            "utilityRolesScopeManagementInfo": "Roles scope information ",
+            "utilityRolesScopeManagementInfoExtra": "Roles scope extra information",
+            "utilityRolesScopeManagementAdd": "Add new roles - scope",
+            "utilityRolesScopeManagementEdit": "Update roles - scope"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "status": "Status",
+            "typeCode": "Roles - scope code",
+            "groupType": "Group roles - scope",
+            "cmseCode": "Scope code",
+            "cmseName": "Scope name",
+            "cmreCode": "Roles code",
+            "cmreName": "Roles name",
+            "scope": "Scope",
+            "role": "Role"
+        },
+        "placeholder": {
+            "typeCode": "Enter roles - scope code",
+            "type": "Enter roles - scope",
+            "groupType": "Enter group roles - scope",
+            "searchAll": "Search by code, name of scope",
+            "cmseCode": "Enter scope code",
+            "cmseName": "Enter scope name",
+            "cmreCode": "Enter roles code",
+            "cmreName": "Enter roles name"
+        },
+        "message": {
+            "error": {
+                "search": "Search Roles & Scopes Category failed",
+                "add": "Add Roles & Scopes Category failed",
+                "edit": "Edit Roles & Scopes Category failed",
+                "delete": "Delete Roles & Scopes Category failed",
+                "getDetail": "Get Roles & Scopes Category failed",
+                "wrongDataFormat": "Wrong data format",
+                "duplicate": "Record existed"
+            },
+            "success": {
+                "add": "Add Roles & Scopes Category successfully",
+                "edit": "Edit Roles & Scopes Category successfully",
+                "delete": "Delete Roles & Scopes Category successfully",
+                "getDetail": "Get detail Roles & Scopes Category successfully"
+            },
+            "scope": "Please select scope",
+            "role": "Please select roles",
+            "cmreCode": "Please select roles code",
+            "confirmDelete": "Do you want delete roles & scope {{utilityRolesScopeManagementCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter roles - scope"
+        }
+    }
+}

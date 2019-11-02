@@ -1,0 +1,56 @@
+{
+    "utilityConfigChildArray": {
+        "title": {
+            "utilityConfigChildArrayAdd": "Add config child array",
+            "utilityConfigChildArrayEdit": "Update config child array"
+        },
+        "button": {
+            "add": "Add"
+        },
+        "dropdown": {
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "parentArrId": "Parent array code",
+            "parentArrName": "Parent array name",
+            "parentArr": "Parent array",
+            "childArrId": "Child array code",
+            "childArrName": "Child array name",
+            "updater": "Updater",
+            "updateTime": "Update time"
+        },
+        "placeholder": {
+            "searchAll": "Search by child array code, child array name",
+            "childArrId": "Enter child array code",
+            "childArrName": "Enter child array name",
+            "updater": "Enter updater"
+        },
+        "message": {
+            "error": {
+                "search": "Search Configure Child Array failed",
+                "add": "Add Configure Child Array failed",
+                "edit": "Edit Configure Child Array failed",
+                "delete": "Delete Configure Child Array failed",
+                "getDetail": "Get detail Configure Child Array information failed",
+                "maxTime": "Search only for {{days}} days",
+                "minTime": "Search only when the distance is greater than or equal {{days}} days"
+            },
+            "success": {
+                "add": "Add Configure Child Array successfully",
+                "edit": "Edit Configure Child Array successfully",
+                "delete": "Delete Configure Child Array successfully",
+                "getDetail": "Get detail Configure Child Array successfully"
+            },
+            "confirmDelete": "Do you want delete child array {{childrenCode}} ?",
+            "requiredParentArr": "Please choose parent array",
+            "requiredParentArrName": "Please choose parent array name",
+            "requiredChildArrId": "Please enter child array code",
+            "requiredChildArrName": "Please enter child array name"
+        }
+    }
+}

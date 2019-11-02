@@ -1,0 +1,77 @@
+{
+    "utilityStatusConfig": {
+        "title": {
+            "utilityStatusConfigInfo": "Status config information ",
+            "utilityStatusConfigInfoExtra": "Status config extra information",
+            "utilityStatusConfigAdd": "Add new status config",
+            "utilityStatusConfigEdit": "Update status config",
+            "inforConfig": "information of configuration"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search",
+            "rotateLeft": "Left",
+            "rotateRight": "Right"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "status": "Status",
+            "typeCode": "status config code",
+            "type": "status config",
+            "groupType": "Group status config",
+            "priority": "Priority",
+            "processingTime": "Processing Time (H)",
+            "initialStatus": "Enter description",
+            "lastStatus": "Last status",
+            "procedure": "Procedure",
+            "description": "Description"
+        },
+        "placeholder": {
+            "typeCode": "Enter status config code",
+            "type": "Enter status config",
+            "groupType": "Enter group status config ",
+            "description": "Enter description",
+            "searchAll": "Search by description"
+        },
+        "message": {
+            "error": {
+                "search": "Search information of configuration failed ",
+                "add": "Add new information of configuration failed",
+                "edit": "Edit information of configuration failed",
+                "delete": "Delete information of configuration failed",
+                "getDetail": "Get information of configuration failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add information of configuration successfully",
+                "edit": "Edit information of configuration successfully",
+                "delete": "Delete information of configuration successfully",
+                "getDetail": "Get detail information of configuration successfully"
+            },
+            "confirmDelete": "Do you want delete status config {{utilityStatusConfigCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter status config",
+            "requiredODcode": "Please enter status config code",
+            "requiredProcessTime": "Please enter process time",
+            "requiredProcedure": "Please select procedure",
+            "requiredInitialStatus": "Please select initial status",
+            "requiredLastStatus": "Please select last status",
+            "requiredDescription": "Please enter description"
+        }
+    }
+}

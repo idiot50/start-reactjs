@@ -1,0 +1,59 @@
+{
+    "utilityGroupUnit": {
+        "title": {
+            "utilityGroupUnitInfo": "Utility major group unit information ",
+            "utilityGroupUnitAdd": "Add new major group unit",
+            "utilityGroupUnitEdit": "Update major group unit"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "utilityGroupUnitCode": "Group unit code",
+            "utilityGroupUnitName": "Group unit name"
+        },
+        "placeholder": {
+            "utilityGroupUnitCode": "Group unit code",
+            "utilityGroupUnitName": "Group unit name",
+            "searchAll": "Search by group unit code, group unit name"
+        },
+        "message": {
+            "error": {
+                "search": "Search type major group unit failed",
+                "add": "Add new type major group unit failed",
+                "edit": "Edit type major group unit failed",
+                "delete": "Delete type major group unit failed",
+                "getDetail": "Get type major group unit information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add type major group unit successfully",
+                "edit": "Edit type major group unit successfully",
+                "delete": "Delete type major group unit successfully",
+                "getDetail": "Get detail type major group unit successfully"
+            },
+            "confirmDelete": "Do you want delete major group unit {{utilityGroupUnitCode}} ?",
+            "requiredGroupUnitCode": "Please enter group unit code",
+            "requiredGroupUnitName": "Please enter group unit name"
+        }
+    }
+}

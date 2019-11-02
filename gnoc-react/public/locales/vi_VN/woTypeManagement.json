@@ -1,0 +1,140 @@
+{
+    "woTypeManagement": {
+        "title": {
+            "woTypeManagementInfo": "Thông tin loại công việc",
+            "woTypeManagementAdd": "Thêm mới loại công việc",
+            "woTypeManagementEdit": "Cập nhật loại công việc",
+            "woTypeManagementListRequiredInfo" : "Danh sách thông tin bắt buộc",
+            "woTypeManagementCheckList" : "Danh sách checklist",
+            "woTypeManagementFile" : "Thông tin file đính kèm",
+            "woTypeManagementConfigRequired" : "Thiết lập mức độ ưu tiên",
+            "attachedFiles" : "File đính kèm",
+            "addNewCheckList" : "Thêm mới checklist",
+            "addNewFile" : "Thêm mới file",
+            "configFile" : "Cấu hình file đính kèm"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Bổ sung",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm",
+            "save" : "Ghi lại",
+            "close" : "Đóng",
+            "require" : "Thiết lập mức độ ưu tiên",
+            "download": "Download"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Hoạt động",
+                "inActive": "Không hoạt động"
+            },
+            "isAllow" : {
+                "allow" : "Cho phép",
+                "notAllow" : "Không cho phép"
+            },
+            "priroity":{
+                "low": "Thấp",
+                "medium": "Trung bình",
+                "high": "Cao",
+                "serious": "Nghiêm trọng" 
+            },
+            "required": {
+                "required": "Bắt buộc",
+                "notRequired": "Không bắt buộc"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "woTypeCode": "Mã loại công việc",
+            "woTypeName": "Loại công việc",
+            "status": "Trạng thái" ,
+            "woGroupName":"Nhóm loại công việc" ,
+            "allowManualCreate":"Cho phép tạo thủ công",
+            "duration" : "Thời gian thực hiện WO (ngày)",
+            "requiredInfo" : "Thông tin bắt buộc",
+            "required" : "Bắt buộc",
+            "fileName" : "Tên file",
+            "checkListName" : "Tên checklist",
+            "defaultValue" : "Giá trị mặc định",
+            "timeOverdue" : "Thời gian sắp quá hạn",
+            "cycleMessageOverdue" : "Chu kì nhắn tin sắp quá hạn",
+            "timeAutoCloseWo" : "Thời gian tự động đóng WO",
+            "isAllowPause" : "Cho phép tạm dừng",
+            "isCreated" : "Cho phép tạo thủ công từ hệ thống khác",
+            "timeAutoCloseWoOverdue" : "Thời gian tự động đóng WO sau khi quá hạn",
+            "priorityCode": "Mã mức độ ưu tiên",
+            "priority": "Mức độ ưu tiên"
+
+        },
+        "placeholder": {
+            "woTypeCode": "Nhập mã loại công việc",
+            "woTypeName": "Nhập loại công việc",
+            "searchAll": "Tìm theo mã loại công việc, loại công việc",
+            "duration" : "Nhập thời gian thực hiện WO (ngày)",
+            "checkListName" : "Nhập tên checklist",
+            "defaultValue" : "Nhập giá trị mặc định",
+            "fileName" : "Nhập tên file",
+            "timeOverdue" : "Nhập thời gian sắp quá hạn",
+            "cycleMessageOverdue" : "Nhập chu kì nhắn tin sắp quá hạn",
+            "timeAutoCloseWo" : "Nhập thời gian tự động đóng WO",
+            "timeAutoCloseWoOverdue" : "Nhập thời gian tự động đóng WO sau khi quá hạn"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm loại công việc không thành công",
+                "add": "Thêm mới loại công việc không thành công",
+                "edit": "Sửa loại công việc không thành công",
+                "delete": "Xóa loại công việc không thành công",
+                "deleteRequired": "Không được xóa loại công việc đang được sử dụng",
+                "getDetail": "Lấy thông tin chi tiết loại công việc không thành công",
+                "wrongDataFormat": "Nhập sai định dạng. Phải nhập số nguyên dương",
+                "checkList" : "Trùng tên checklist",
+                "duplicated" : "Dữ liệu bị trùng",
+                "duplicate": "Mã loại công việc đã tồn tại trên hệ thống",
+                "downloadFile": "Không tìm thấy file trên server",
+                "maxValue": "Bạn phải nhập giá trị nhỏ hơn {{number}}",
+                "maxLength": "Không được nhập quá {{number}} ký tự",
+                "editPriority": "Thiết lập mức độ ưu tiên không thành công",
+                "listEmpty": "Bổ sung danh sách mức độ ưu tiên",
+                "deletePriority": "Xóa mức độ ưu tiên không thành công"
+            },
+            "success": {
+                "add": "Thêm mới loại công việc thành công",
+                "edit": "Sửa loại công việc thành công",
+                "delete": "Xóa loại công việc thành công",
+                "getDetail": "Lấy thông tin chi tiết loại công việc thành công",
+                "editPriority": "Thiết lập mức độ ưu tiên thành công",
+                "deletePriority": "Xóa mức độ ưu tiên thành công"
+            },
+            "required": {
+                "checkListName": "Bạn chưa nhập tên checklist",
+                "fileName": "Bạn chưa nhập tên file",
+                "required": "Bạn chưa chọn bắt buộc",
+                "woTypeName": "Chỉ được nhập tiếng việt không dấu, số nguyên và kí tự '_'"
+            },
+            "confirmDelete": "Bạn có muốn xóa loại công việc {{woTypeManagementCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredType": "Bạn chưa nhập tên loại OD",
+            "requiredWoTypeCode": "Bạn chưa nhập mã loại công việc",
+            "requiredWoTypeName": "Bạn chưa nhập tên loại công việc",
+            "requiredGroupType":"Bạn chưa chọn nhóm loại công việc",
+            "requiredTimeOverdue" : "timeOverdue",
+            "requiredCycleMessageOverdue" : "cycleMessageOverdue",
+            "requiredTimeAutoCloseWo" : "timeAutoCloseWo",
+            "requiredIsAllowPause" : "Bạn chưa chọn trường Cho phép tạm dừng",
+            "requiredIsCreated" : "Bạn chưa chọn trường Cho phép tạo thủ công từ hệ thống khác",
+            "requiredTimeAutoCloseWoOverdue" : "timeAutoCloseWoOverdue",
+            "requiredAllowManualCreate" : "Bạn chưa chọn trường Cho phép tạo thủ công",
+            "requiredPriority": "Bạn chưa chọn mức độ ưu tiên",
+            "confirmDeletePriority" : "Bạn có muốn xóa mức độ ưu tiên {{woTypeManagementCode}} không ?"
+        }
+    }
+}

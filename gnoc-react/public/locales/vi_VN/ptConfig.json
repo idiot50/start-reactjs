@@ -1,0 +1,65 @@
+{
+    "ptConfig": {
+        "title": {
+            "ptConfigInfo": "Thông tin cấu hình thời gian xử lý vấn đề"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "label": {
+            "action" : "Hành động",
+            "priority": "Mức ưu tiên",
+            "technicalDepartment": "Mảng kỹ thuật",
+            "configCode": "Mã cấu hình",
+            "estimatedTimeFindRca": "Thời gian dự kiến tìm Rca (giờ)",
+            "estimatedTimeFindTemporarySolution": "Thời gian dự kiến tìm giải pháp tạm thời (giờ)",
+            "estimatedTimeFindRadicalSolution": "Thời gian dự kiến tìm giải pháp triệt để (giờ)",
+            "latestUpdateTime": "Thời điểm cập nhật gần nhất"
+        },
+        "placeholder": {
+            "configCode": "Nhập mã cấu hình",
+            "estimatedTimeFindRca": "Nhập Thời gian dự kiến tìm Rca",
+            "estimatedTimeFindTemporarySolution": "Nhập Thời gian dự kiến tìm giải pháp tạm thời",
+            "estimatedTimeFindRadicalSolution": "Nhập Thời gian dự kiến tìm giải pháp triệt để",
+            "searchAll": "Tìm kiếm theo mã"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm cấu hình không thành công",
+                "add": "Thêm mới cấu hình không thành công",
+                "edit": "Sửa cấu hình không thành công",
+                "delete": "Xóa cấu hình không thành công",
+                "getDetail": "Lấy thông tin chi tiết cấu hình không thành công",
+                "slDataFormat": "Thời gian dự kiến tìm giải pháp triệt để phải là số nguyên dương",
+                "waDataFormat": "Thời gian dự kiến tìm giải pháp tạm thời phải là số nguyên dương",
+                "rcaDataFormat": "Thời gian dự kiến tìm Rca phải là số nguyên dương",
+                "slDataFormatLength": "Thời gian dự kiến tìm giải pháp triệt để chỉ được dài tối đa là 10",
+                "waDataFormatLength": "Thời gian dự kiến tìm giải pháp tạm thời chỉ được dài tối đa là 10",
+                "rcaDataFormatLength": "Thời gian dự kiến tìm Rca chỉ được dài tối đa là 10"
+            },
+            "success": {
+                "add": "Thêm mới cấu hình thành công",
+                "edit": "Sửa cấu hình thành công",
+                "delete": "Xóa cấu hình thành công",
+                "getDetail": "Lấy thông tin chi tiết cấu hình thành công"
+            },
+            "required": {
+                "configCode": "Bạn chưa nhập mã cấu hình",
+                "priority": "Bạn chưa chọn mức ưu tiên",
+                "technicalDepartment": "Bạn chưa chọn mảng kỹ thuật",
+                "estimatedTimeFindRca": "Bạn chưa nhập Thời gian dự kiến tìm Rca",
+                "estimatedTimeFindTemporarySolution": "Bạn chưa nhập Thời gian dự kiến tìm giải pháp tạm thời",
+                "estimatedTimeFindRadicalSolution": "Bạn chưa nhập Thời gian dự kiến tìm giải pháp triệt để"
+            },
+            "confirmDelete": "Bạn có muốn xóa cấu hình {{name}} không ?"
+        }
+    }
+}

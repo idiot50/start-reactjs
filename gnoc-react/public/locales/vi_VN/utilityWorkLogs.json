@@ -1,0 +1,47 @@
+{
+    "utilityWorkLogs": {
+        "title": {
+            "utilityWorkLogsAdd": "Thêm mới worklog",
+            "utilityWorkLogsEdit": "Cập nhật worklog",
+            "utilityWorkLogsInfo": "Thông tin worklog"
+        },
+        "button": {
+            "add": "Thêm mới"
+        },
+        "label": {
+            "action" : "Hành động",
+            "worklogType": "Loại worklog",
+            "worklogCode": "Mã worklog",
+            "worklogName": "Tên worklog",
+            "description": "Mô tả",
+            "uneditable": "Không cho sửa"
+        },
+        "placeholder": {
+            "searchAll": "Tìm kiếm theo mã, tên",
+            "worklogType": "Nhập loại worklog",
+            "worklogCode": "Nhập mã worklog",
+            "worklogName": "Nhập tên worklog",
+            "description": "Nhập mô tả"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm worklog không thành công",
+                "add": "Thêm mới worklog không thành công",
+                "edit": "Sửa worklog không thành công",
+                "delete": "Xóa worklog không thành công",
+                "getDetail": "Lấy thông tin chi tiết worklog không thành công"
+            },
+            "success": {
+                "add": "Thêm mới worklog thành công",
+                "edit": "Sửa worklog thành công",
+                "delete": "Xóa worklog thành công",
+                "getDetail": "Lấy thông tin chi tiết worklog thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa worklog {{utilityWorkLogsCode}} không ?",
+            "requiredWorkLogType": "Bạn chưa chọn loại worklog",
+            "requiredWorkLogCode": "Bạn chưa nhập mã worklog",
+            "requiredWorkLogName": "Bạn chưa nhập tên worklog",
+            "requiredStatus":"Bạn chưa chọn trạng thái"
+        }
+    }
+}

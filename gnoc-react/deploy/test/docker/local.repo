@@ -1,0 +1,11 @@
+[centos_repo]
+name=Centos Repo
+baseurl=http://10.240.201.50:8081/repository/centos-7/
+enabled=1
+gpgcheck=0
+
+[epel_repo]
+name=EPEL Repo
+baseurl=http://10.240.201.50:8081/repository/fedora/
+enabled=1
+gpgcheck=0

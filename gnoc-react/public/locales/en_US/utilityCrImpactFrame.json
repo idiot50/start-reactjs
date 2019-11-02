@@ -1,0 +1,70 @@
+{
+    "utilityCrImpactFrame": {
+        "title": {
+            "utilityCrImpactFrameInfo": "Configure impact frame information ",
+            "utilityCrImpactFrameAdd": "Add configure impact frame",
+            "utilityCrImpactFrameEdit": "Update configure impact frame"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "frameCode": "Impact frame code",
+            "frameName": "Impact frame name",
+            "startTime": "Start time",
+            "endTime": "End time",
+            "description": "Description",
+            "isEditable": "No editing"
+        },
+        "placeholder": {
+            "frameCode": "Impact frame code",
+            "frameName": "Impact frame name",
+            "startTime": "Start time",
+            "endTime": "End time",
+            "description": "Description",
+            "searchAll":"Search by frame action code,frame action name "
+        },
+        "message": {
+            "error": {
+                "search": "Search Configure Impact Frame failed",
+                "add": "Add Configure Impact Frame failed",
+                "edit": "Edit Configure Impact Frame failed",
+                "delete": "Delete Configure Impact Frame failed",
+                "getDetail": "Get Configure Impact Frame information failed",
+                "wrongDataFormat": "Wrong data format",
+                "startTimeError":"The range of start time value is from 0  to 23",
+                "endTimeError":"The range of end time value is from 0  to 23",
+                "number":"Please enter an integer"
+            },
+            "success": {
+                "add": " Add Configure Impact Frame successfully/",
+                "edit": " Eidt Configure Impact Frame successfully/",
+                "delete": "Delete Configure Impact Frame successfully",
+                "getDetail": "Get detail Configure Impact Frame frame successfully"
+            },
+            "confirmDelete": "Do you want delete config impact frame {{utilityCrImpactFrameCode}} ?",
+            "requiredFrameCode": "Please enter impact frame code",
+            "requiredFrameName": "Please enter impact frame name",
+            "requiredStartTime": "Please enter start time",
+            "requiredEndtime": "Please enter end time",
+            "requiredStatus":"Please select status"
+        }
+    }
+}

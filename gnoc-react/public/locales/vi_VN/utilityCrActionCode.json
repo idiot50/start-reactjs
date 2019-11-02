@@ -1,0 +1,60 @@
+{
+    "utilityCrActionCode": {
+        "title": {
+            "utilityCrActionCodeInfo": "Thông tin mã hành động",
+            "utilityCrActionCodeAdd": "Thêm mới mã hành động",
+            "utilityCrActionCodeEdit": "Cập nhật mã hành động"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "actionCode": "Mã hành động",
+            "actionCodeTitle": "Mô tả hành động",
+            "isEditable": "Không cho phép sửa",
+            "status":"Trạng thái"
+
+        },
+        "placeholder": {
+            "actionCode": "Mã hành động",
+            "actionCodeTitle": "Mô tả hành động",
+            "searchAll":"Tìm kiếm bằng mã hành động"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm mã hành động không thành công",
+                "add": "Thêm mới mã hành động không thành công",
+                "edit": "Sửa mã hành động không thành công",
+                "delete": "Xóa mã hành động không thành công",
+                "getDetail": "Lấy thông tin chi tiết mã hành động không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới mã hành động thành công",
+                "edit": "Sửa mã hành động thành công",
+                "delete": "Xóa mã hành động thành công",
+                "getDetail": "Lấy thông tin chi tiết mã hành động thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa mã hành động {{utilityCrActionCodeCode}} không ?",
+            "requiredActionCode": "Bạn chưa nhập mã hành động",
+            "requiredActionCodeTitle": "Bạn chưa nhập mô tả hành động"
+        }
+    }
+}

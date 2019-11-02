@@ -1,0 +1,46 @@
+{
+    "utilityConfigReturnAction": {
+        "title": {
+            "utilityConfigReturnActionAdd": "Thêm mới hành động trả về",
+            "utilityConfigReturnActionEdit": "Cập nhật hành động trả về",
+            "utilityConfigReturnActionInfo": "Thông tin hành động trả về"
+        },
+        "button": {
+            "add": "Thêm mới"
+        },
+        "label": {
+            "action" : "Hành động",
+            "returnCode": "Mã trả về",
+            "returnTitle": "Tiêu đề hành động",
+            "returnCategory": "RETURN_CATEGORY",
+            "description": "Mô tả",
+            "uneditable": "Không cho sửa"
+        },
+        "placeholder": {
+            "searchAll": "Tìm kiếm theo mã trả về",
+            "returnCode": "Nhập mã trả về",
+            "returnTitle": "Nhập tiêu đề hành động",
+            "description": "Nhập mô tả"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm hành động trả về không thành công",
+                "add": "Thêm mới hành động trả về không thành công",
+                "edit": "Sửa hành động trả về không thành công",
+                "delete": "Xóa hành động trả về không thành công",
+                "getDetail": "Lấy thông tin chi tiết hành động trả về không thành công"
+            },
+            "success": {
+                "add": "Thêm mới hành động trả về thành công",
+                "edit": "Sửa hành động trả về thành công",
+                "delete": "Xóa hành động trả về thành công",
+                "getDetail": "Lấy thông tin chi tiết hành động trả về thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa {{utilityConfigReturnActionCode}} không ?",
+            "requiredReturnCode": "Bạn chưa nhập mã trả về",
+            "requiredReturnTitle": "Bạn chưa nhập tiêu đề hành động",
+            "requiredReturnCategory": "Bạn chưa chọn RETURN_CATEGORY",
+            "requiredStatus":"Bạn chưa chọn trạng thái"
+        }
+    }
+}

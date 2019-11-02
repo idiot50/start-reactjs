@@ -1,0 +1,130 @@
+{
+    "woCdGroupManagement": {
+        "title": {
+            "woCdGroupManagementInfo": "Thông tin nhóm điều phối",
+            "woCdGroupManagementInfoExtra": "Thông tin bổ sung",
+            "woCdGroupManagementAdd": "Thêm mới nhóm điều phối",
+            "woCdGroupManagementEdit": "Cập nhật nhóm điều phối",
+            "userPopup": "Tìm kiếm nhân viên điều phối",
+            "unitPopup": "Tìm kiếm đơn vị điều phối"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Xuất file",
+            "search": "Tìm kiếm",
+            "remove": "Loại bỏ",
+            "choose": "Chọn",
+            "close": "Đóng",
+            "exportStaffFiles": "Xuất file nhân viên",
+            "lock": "Khóa",
+            "unlock": "Mở khóa",
+            "assignmentUser": "Nhân viên điều phối",
+            "assignmentUnit": "Đơn vị điều phối",
+            "assignmentWork": "Loại công việc",
+            "additional": "Bổ sung"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "status": "Trạng thái",
+            "typeCode": "Mã nhóm điều phối",
+            "type": "Nhóm điều phối",
+            "groupType": "Nhóm nhóm điều phối",
+            "priority": "Mức ưu tiên",
+            "processingTime": "Thời gian xử lý (H)",
+            "cdGroupCode": "Mã nhóm điều phối",
+            "cdGroupName": "Tên nhóm điều phối",
+            "cdGroupLevel": "Mức điều phối",
+            "market": "Thị trường",
+            "email": "Email liên hệ",
+            "phoneNumber": "Số điện thoại liên hệ",
+            "listUserCoordinator": "Nhân viên điều phối",
+            "listUnitCoordinator": "Đơn vị điều phối",
+            "listWorkCoordinator": "Cập nhật danh sách loại công việc",
+            "username": "Tên đăng nhập",
+            "fullname": "Tên đầy đủ",
+            "unitName": "Tên đơn vị",
+            "unitCode": "Mã đơn vị",
+            "parentUnit": "Đơn vị cha",
+            "user": "Nhân viên điều phối",
+            "unit": "Đơn vị điều phối",
+            "searchResult": "Kết quả tìm kiếm",
+            "allWorkTypeList": "Danh sách loại công việc",
+            "chosenWorkTypeList": "Danh sách loại công việc đã chọn"
+        },
+        "placeholder": {
+            "typeCode": "Nhập mã nhóm điều phối",
+            "type": "Nhập nhóm điều phối",
+            "groupType": "Nhập nhóm nhóm điều phối",
+            "searchAll": "Tìm kiếm theo mã, tên đơn vị",
+            "cdGroupCode": "Nhập mã nhóm điều phối",
+            "cdGroupName": "Nhập tên nhóm điều phối",
+            "email": "Nhập email liên hệ",
+            "phoneNumber": "Nhập số điện thoại liên hệ",
+            "user": "Nhập nhân viên điều phối",
+            "unit": "Nhập đơn vị điều phối",
+            "unitName": "Nhập vào tên đơn vị",
+            "unitCode": "Nhập vào mã đơn vị",
+            "username": "Nhập vào tên đăng nhập",
+            "fullname": "Nhập vào tên đầy đủ"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm nhóm điều phối không thành công",
+                "add": "Thêm mới nhóm điều phối không thành công",
+                "edit": "Sửa nhóm điều phối không thành công",
+                "delete": "Xóa nhóm điều phối không thành công",
+                "getDetail": "Lấy thông tin chi tiết nhóm điều phối không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "unitDuplicate": "Trùng với đơn vị đã thêm",
+                "userDuplicate": "Trùng với nhân viên đã thêm",
+                "duplicate": "Bản ghi đã tồn tại",
+                "editUser": "Cập nhật nhân viên điêu phối không thành công",
+                "editUnit": "Cập nhật đơn vị điều phối không thành công",
+                "editWork": "Cập nhật loại công việc không thành công",
+                "lock": "Khóa nhóm điều phối không thành công",
+                "unlock": "Mở khóa nhóm điều phối không thành công"
+            },
+            "success": {
+                "add": "Thêm mới nhóm điều phối thành công",
+                "edit": "Sửa nhóm điều phối thành công",
+                "delete": "Xóa nhóm điều phối thành công",
+                "getDetail": "Lấy thông tin chi tiết nhóm điều phối thành công",
+                "editUser": "Cập nhật nhân viên điêu phối thành công",
+                "editUnit": "Cập nhật đơn vị điều phối thành công",
+                "editWork": "Cập nhật loại công việc thành công",
+                "lock": "Khóa nhóm điều phối thành công",
+                "unlock": "Mở khóa nhóm điều phối thành công"
+            },
+            "required": {
+                "cdGroupLevel": "Bạn chưa chọn mức điều phối",
+                "cdGroupCode": "Bạn chưa nhập mã nhóm điều phối",
+                "cdGroupName": "Bạn chưa nhập tên nhóm điều phối",
+                "market": "Bạn chưa chọn thị trường",
+                "upperCdGroupCode": "Nhập tiếng việt không dấu, số nguyên và kí tự '_'",
+                "email": "Nhập email không hợp lệ ( abc@com.abc...)",
+                "phoneNumber": "Nhập số điện thoại không hợp lệ (0123...)"
+            },
+            "confirmDelete": "Bạn có muốn xóa nhóm điều phối {{woCdGroupManagementCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredType": "Bạn chưa nhập tên nhóm điều phối",
+            "requiredODcode": "Bạn chưa nhập mã Nhóm điều phối",
+            "requiredProcessTime": "Bạn chưa nhập thời gian xử lý",
+            "lock": "Bạn có muốn khóa nhóm điều phối: {{woCdGroupManagementCode}} ?",
+            "unlock": "Bạn có muốn mở khóa nhóm điều phối: {{woCdGroupManagementCode}} ? "
+        }
+    }
+}

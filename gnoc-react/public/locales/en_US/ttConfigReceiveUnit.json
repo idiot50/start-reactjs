@@ -1,0 +1,69 @@
+{
+    "ttConfigReceiveUnit": {
+        "title": {
+            "ttConfigReceiveUnitInfo": "Type SPM information ",
+            "ttConfigReceiveUnitInfoExtra": "Type SPM extra information",
+            "ttConfigReceiveUnitAdd": "Add new",
+            "ttConfigReceiveUnitEdit": "Update config"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "unitType": {
+                "CTCT": "Cty Công trình",
+                "TKTU": "TKTU tỉnh"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "typeName": "Trouble type",
+            "locationName": "Location",
+            "unitName": "Receive unit",
+            "unitType": "Unit type",
+            "priority": "Priority",
+            "processingTime": "Processing Time (H)"
+        },
+        "placeholder": {
+            "unitName": "Enter code <name> unit",
+            "typeCode": "Enter SPM type code",
+            "type": "Enter SPM",
+            "groupType": "Enter group SPM type",
+            "searchAll": "Search by all fields",
+            "locationName":"Enter location name"
+        },
+        "message": {
+            "error": {
+                "search": "Search config unit failed",
+                "add": "Add new config failed",
+                "edit": "Edit config failed",
+                "delete": "Delete config failed",
+                "getDetail": "Get config information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add config successfully",
+                "edit": "Edit config successfully",
+                "delete": "Delete config successfully",
+                "getDetail": "Get detail config successfully"
+            },
+            "confirmDelete": "Do you want to delete config {{ttConfigReceiveUnitCode}} ?",
+            "requiredTypeName": "Please enter trouble type",
+            "requiredLocationName": "Please enter location",
+            "requiredUnitName": "Please enter receive unit code <name>",
+            "requiredProcessTime": "Please enter process time"
+        }
+    }
+}

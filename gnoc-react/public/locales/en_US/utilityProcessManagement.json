@@ -1,0 +1,138 @@
+{
+    "utilityProcessManagement": {
+        "title": {
+            "utilityProcessManagementInfo": "Process information ",
+            "utilityProcessManagementInfoExtra": "Extra information",
+            "utilityProcessManagementAdd": "Add process",
+            "utilityProcessManagementEdit": "Update process"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "addChild": "Add child",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            },
+            "crType":{
+                "normal":"normal CR",
+                "emergency":"emergency CR",
+                "true":"true CR"
+            },
+            "impactCharacteristic":{
+                "logic":"Logic",
+                "physic":"Physic"
+            },
+            "fileType":{
+                "input":"Input file",
+                "output":"Output file"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "crType": "CR type",
+            "riskLevel": "Risk level",
+            "impactSegment": "Impact segment",
+            "deviceType": "Device type",
+            "crProcessCode":"Process Code",
+            "crProcessName":"Process Name",
+            "impactType":"Impact Time",
+            "impactCharacteristic":"Impact Characteristic",
+            "otherDept":"ATTT unit",
+            "requireMop":"Require Mop",
+            "requireFileLog":"Require file log",
+            "closeCrWhenResolveSuccess":"Close CR when resolve success",
+            "isLaneImpact":"Is lane impact",
+            "approvalLevel":"Approval level",
+            "approvalLevelDefault":"Default",
+            "approvalFirstLevel":"Approval 1 Level",
+            "approvalSecondLevel":"Approval 2 Levels",
+            "VMSAKey":"VMSA key",
+            "searchResult":"Search Results",
+            "listFile":"List of file",
+            "fileType":"Type of file",
+            "fileCode":"File code",
+            "fileName":"File name",
+            "addNewListFile":"File list",
+            "groupUnit":"Group unit list",
+            "groupCode":"Group code",
+            "groupName":"Group name",
+            "addNewGroupUnit":"Group unit list",
+            "woList":"Work order list",
+            "woName":"WO name",
+            "description":"Description",
+            "processTime":"Process time (day)",
+            "woType":"Type - group",
+            "isForceCreateWo":"Force to create wo",
+            "isCloseWoWhenCompletedCR":"Close WO when completed CR",
+            "isCreateWoWhenClosedCR":"Create WO when closed CR",
+            "addNewWo":"Add new Work order",
+            "editWo": "Update work order",
+            "parentTree":"Parent",
+            "isApproved":"Required approval"
+        },
+        "placeholder": {
+            "searchAll": "Search by process code or process name",
+            "crProcessCode":"Enter process code",
+            "crProcessName":"Enter process name",
+            "otherDept":"Enter ATTT unit",
+            "VMSAKey":"Enter VMSA key",
+            "fileCode":"Enter file code",
+            "fileName":"Enter file name",
+            "groupCode":"Enter group code",
+            "groupName":"Enter group name",
+            "woName":"Enter WO name",
+            "description":"Enter description",
+            "processTime":"Enter process time (day)"
+        },
+        "message": {
+            "error": {
+                "search": "Search Manage Process failed",
+                "add": "Add Manage Process failed",
+                "edit": "Edit Manage Process failed",
+                "delete": "Delete Manage Process failed",
+                "getDetail": "Get Manage Process information failed",
+                "wrongDataFormat": "Wrong data format",
+                "searchFile":"Search file failed",
+                "searchCrType":"Search cr type failed",
+                "searchRiskLevel":"Search risk level failed"
+            },
+            "success": {
+                "add": "Add Manage Process successfully",
+                "edit": "Edit Manage Process successfully",
+                "delete": "Delete Manage Process successfully",
+                "getDetail": "Get detail Manage Process successfully"
+            },
+            "required":{
+                "processTime":"Please enter an integer number with max 10 digits"
+            },
+            "confirmDelete": "Do you want delete process {{utilityProcessManagementCode}} ?",
+            "requiredProcessCode": "Please enter process code",
+            "requiredProcessName": "Please enter process name",
+            "requiredCrType": "Please select CR type",
+            "requiredImpactType": "Please select impact type",
+            "requiredRiskLevel":"Please select risk level",
+            "requiredImpactSegment":"Please select impact segment",
+            "requiredDeviceType":"Please select device type",
+            "requiredImpactCharacteristic":"Please select Impact Characteristic",
+            "requiredOtherDept":"Please enter ATTT unit",
+            "requiredVMSAKey":"Please enter VMS Key",
+            "requiredParentTree":"Please select parent tree",
+            "requiredWoName":"Please enter work order name",
+            "requiredProcessTime":"Please enter process time",
+            "requiredWoType":"Please select type-group",
+            "requiredVMSA":"Please enter VMSA active cell process key"
+        }
+    }
+}

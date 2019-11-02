@@ -1,0 +1,62 @@
+{
+    "utilityDepartmentsRolesManagement": {
+        "title": {
+            "utilityDepartmentsRolesManagementInfo": "Departments & roles information ",
+            "utilityDepartmentsRolesManagementInfoExtra": "Departments & roles extra information",
+            "utilityDepartmentsRolesManagementAdd": "Add departments & roles",
+            "utilityDepartmentsRolesManagementEdit": "Update departments & roles"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "roleName" : "Role name",
+            "unitName" : "Unit name",
+            "parentUnit" : "Parent unit"
+        },
+        "placeholder": {
+            "roleName" : "Enter role name",
+            "unitName" : "Enter unit name",
+            "parentUnit" : "Enter parent unit",
+            "searchAll": "Search by role name"
+        },
+        "message": {
+            "error": {
+                "search": "Search Departments & Roles Category failed",
+                "add": "Add Departments & Roles Category failed",
+                "edit": "Edit Departments & Roles Category failed",
+                "delete": "Delete Departments & Roles Category failed",
+                "getDetail": "Get Departments & Roles Category information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add Departments & Roles Category successfully",
+                "edit": "Edit Departments & Roles Category successfully",
+                "delete": "Delete Departments & Roles Category successfully",
+                "getDetail": "Get detail Departments & Roles Category successfully"
+            },
+            "confirmDelete": "Do you want delete departments roles {{utilityDepartmentsRolesManagementCode}} ?",
+            "requiredUnitName": "Please select unit name",
+            "requiredRoleName": "Please select role name"
+        }
+    }
+}

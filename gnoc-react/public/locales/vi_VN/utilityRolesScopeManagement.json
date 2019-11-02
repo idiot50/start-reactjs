@@ -1,0 +1,74 @@
+{
+    "utilityRolesScopeManagement": {
+        "title": {
+            "utilityRolesScopeManagementInfo": "Thông tin danh mục phạm vi - vai trò",
+            "utilityRolesScopeManagementInfoExtra": "Thông tin bổ sung",
+            "utilityRolesScopeManagementAdd": "Thêm mới danh mục phạm vi - vai trò",
+            "utilityRolesScopeManagementEdit": "Cập nhật danh mục phạm vi - vai trò"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action": "Hành động",
+            "status": "Trạng thái",
+            "typeCode": "Mã danh mục phạm vi - vai trò",
+            "groupType": "Nhóm danh mục phạm vi - vai trò",
+            "cmseCode": "Mã phạm vi",
+            "cmseName": "Tên phạm vi",
+            "cmreCode": "Mã vai trò",
+            "cmreName": "Tên vai trò",
+            "scope": "Phạm vi",
+            "role": "Vai trò"
+        },
+        "placeholder": {
+            "typeCode": "Nhập mã danh phạm vi - vai trò",
+            "type": "Nhập danh phạm vi - vai trò",
+            "groupType": "Nhập nhóm danh phạm vi - vai trò",
+            "searchAll": "Tìm kiếm theo mã, tên của phạm vi",
+            "cmseCode": "Nhập mã phạm vi",
+            "cmseName": "Nhập tên phạm vi",
+            "cmreCode": "Nhập mã vai trò",
+            "cmreName": "Nhập tên vai trò"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm phạm vi - vai trò không thành công",
+                "add": "Thêm mới phạm vi - vai trò không thành công",
+                "edit": "Sửa phạm vi - vai trò không thành công",
+                "delete": "Xóa phạm vi - vai trò không thành công",
+                "getDetail": "Lấy thông tin chi tiết phạm vi - vai trò không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "duplicate": "Trùng lặp phạm vi - vai trò"
+            },
+            "success": {
+                "add": "Thêm mới phạm vi - vai trò thành công",
+                "edit": "Sửa phạm vi - vai trò thành công",
+                "delete": "Xóa phạm vi - vai trò thành công",
+                "getDetail": "Lấy thông tin chi tiết phạm vi - vai trò thành công"
+            },
+            "scope": "Bạn chưa chọn phạm vi",
+            "role": "Bạn chưa chọn vai trò",
+            "cmreCode": "Bạn chưa chọn mã vai trò",
+            "confirmDelete": "Bạn có muốn xóa phạm vi - vai trò {{utilityRolesScopeManagementCode}} không ?",
+            "requiredStatus": "Bạn chưa chọn trạng thái",
+            "requiredType": "Bạn chưa nhập tên phạm vi - vai trò"
+        }
+    }
+}

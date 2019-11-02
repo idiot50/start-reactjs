@@ -1,0 +1,61 @@
+{
+    "woConfigMapUnitGnocNims": {
+        "title": {
+            "woConfigMapUnitGnocNimsInfo": "Thông tin map đơn vị GNOC-NIMS",
+            "woConfigMapUnitGnocNimsAdd": "Thêm mới map đơn vị GNOC-NIMS",
+            "woConfigMapUnitGnocNimsEdit": "Cập nhật map đơn vị GNOC-NIMS"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action":"Hành động",
+            "NIMSCode" : "Mã đơn vị NIMS",
+            "GNOCCode": "Mã đơn vị GNOC",
+            "businessName": "Tên nghiệp vụ"
+        },
+        "placeholder": {
+            "NIMSCode": "Nhập mã NIMS",
+            "GNOCCode": "Nhập mã GNOC",
+            "searchAll": "Tìm kiếm theo mã đơn vị NIMS và GNOC"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm map đơn vị GNOC-NIMS không thành công",
+                "add": "Thêm mới map đơn vị GNOC-NIMS không thành công",
+                "edit": "Sửa map đơn vị GNOC-NIMS không thành công",
+                "delete": "Xóa map đơn vị GNOC-NIMS không thành công",
+                "getDetail": "Lấy thông tin chi tiết map đơn vị GNOC-NIMS không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "duplicate":"Duplicated data"
+            },
+            "success": {
+                "add": "Thêm mới map đơn vị GNOC-NIMS thành công",
+                "edit": "Sửa map đơn vị GNOC-NIMS thành công",
+                "delete": "Xóa map đơn vị GNOC-NIMS thành công",
+                "getDetail": "Lấy thông tin chi tiết map đơn vị GNOC-NIMS thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa map đơn vị GNOC-NIMS {{woConfigMapUnitGnocNimsCode}} không ?",
+            "requiredNIMSCode": "Bạn chưa nhập mã NIMS",
+            "requiredGNOCCode": "Bạn chưa nhập mã GNOC",
+            "requiredBusinessName": "bạn chưa chọn tên nghiệp vụ"
+        }
+    }
+}

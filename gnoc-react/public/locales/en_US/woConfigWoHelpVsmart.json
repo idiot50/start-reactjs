@@ -1,0 +1,60 @@
+{
+    "woConfigWoHelpVsmart": {
+        "title": {
+            "woConfigWoHelpVsmartInfo": "WO help information ",
+            "woConfigWoHelpVsmartAdd": "Add new",
+            "woConfigWoHelpVsmartEdit": "Update"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+       
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "systemName": "System Name",
+            "typeName": "Type Name",
+            "attachFile": "Attach File",
+            "acceptFile": "Only accept file *.xls, *.xlsx"
+        },
+        "placeholder": {
+            "searchAll": "Search by System Name, Type Name"
+        },
+        "message": {
+            "error": {
+                "search": "Search Wo help failed",
+                "add": "Add new Wo help failed",
+                "edit": "Edit Wo help failed",
+                "delete": "Delete Wo help failed",
+                "getDetail": "Get Wo help information failed",
+                "wrongDataFormat": "Wrong data format",
+                "file" : "File wrong format"
+            },
+            "success": {
+                "add": "Add Wo help successfully",
+                "edit": "Edit Wo help successfully",
+                "delete": "Delete Wo help successfully",
+                "getDetail": "Get detail Wo help successfully"
+            },
+            "confirmDelete": "Do you want delete wo help {{systemName}} ?",
+            "requiredSystemName": "Please choose system name",
+            "requiredTypeName": "Please choose type name",
+            "fileRequired": "Please choose file"
+        }
+    }
+}

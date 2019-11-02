@@ -1,0 +1,131 @@
+{
+    "woCdGroupManagement": {
+        "title": {
+            "woCdGroupManagementInfo": "CD group managerment information ",
+            "woCdGroupManagementInfoExtra": "CD group managerment extra information",
+            "woCdGroupManagementAdd": "Add new CD group managerment",
+            "woCdGroupManagementEdit": "Update CD group managerment",
+            "userPopup": "Search coordinator staff",
+            "unitPopup": "Search coordinator unit"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search",
+            "remove": "Remove",
+            "exportStaffFiles": "Export staff file",
+            "lock": "Lock",
+            "unlock": "Unlock",
+            "assignmentUser": "Assignment user",
+            "assignmentUnit": "Assignment unit",
+            "assignmentWork": "Work type",
+            "choose": "Choose",
+            "close": "Close",
+            "additional": "Additional"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "status": "Status",
+            "typeCode": "CD group managerment code",
+            "type": "CD group managerment",
+            "groupType": "CD group group managerment",
+            "priority": "Priority",
+            "processingTime": "Processing Time (H)",
+            "cdGroupCode": "CD group code",
+            "cdGroupName": "CD group name",
+            "cdGroupLevel": "Group type",
+            "market": "Market",
+            "email": "Email",
+            "phoneNumber": "Phone number",
+            "listUserCoordinator": "List user coordinator",
+            "listUnitCoordinator": "List unit coordinator",
+            "listWorkCoordinator": "Update list work",
+            "account": "Account",
+            "username": "Username",
+            "fullname": "Fullname",
+            "unitName": "Unit name",
+            "unitCode": "Unit code",
+            "parentUnit": "Parent unit",
+            "user": "Coordinator staff",
+            "unit": "Coordinator unit",
+            "searchResult": "Search results",
+            "allWorkTypeList": "All work type list",
+            "chosenWorkTypeList": "Chosen work type list"
+        },
+        "placeholder": {
+            "typeCode": "Enter CD group managerment code",
+            "type": "Enter CD group managerment",
+            "groupType": "Enter CD group group managerment",
+            "searchAll": "Search by code, name CD group",
+            "cdGroupCode": "Enter CD group code",
+            "cdGroupName": "enter CD group name",
+            "email": "Enter email",
+            "phoneNumber": "Enter phone number",
+            "user": "Please enter coordinator staff",
+            "unit": "Please enter coordinator unit",
+            "unitName": "Please enter unit name",
+            "unitCode": "Please enter unit code",
+            "username": "Please enter username",
+            "fullname": "Please enter fullname"
+        },
+        "message": {
+            "error": {
+                "search": "Search CD group managerment failed",
+                "add": "Add new CD group managerment failed",
+                "edit": "Edit CD group managerment failed",
+                "delete": "Delete CD group managerment failed",
+                "getDetail": "Get CD group managerment information failed",
+                "wrongDataFormat": "Wrong data format",
+                "unitDuplicate": "Duplicate unit",
+                "userDuplicate": "Duplicate user",
+                "duplicate": "Duplicate record",
+                "editUser": "Edit assignment user failed",
+                "editUnit": "Edit assignment unit failed",
+                "editWork": "Edit work type failed",
+                "lock": "Lock this CD group failed",
+                "unlock": "Unlock this CD group failed"
+            },
+            "success": {
+                "add": "Add CD group managerment successfully",
+                "edit": "Edit CD group managerment successfully",
+                "delete": "Delete CD group managerment successfully",
+                "getDetail": "Get detail CD group managerment successfully",
+                "editUser": "Edit assignment user successfully",
+                "editUnit": "Edit assignment unit successfully",
+                "editWork": "Edit work type successfully",
+                "lock": "Lock this CD group successfully",
+                "unlock": "Unlock this CD group successfully"
+            },
+            "required": {
+                "cdGroupLevel": "Please select CD group level",
+                "cdGroupCode": "Please enter CD group code",
+                "cdGroupName": "Please enter CD group name",
+                "market": "Please enter market",
+                "upperCdGroupCode": "Please enter characters, digits and symbol '_'",
+                "email": "Invalid email ( abc@com.abc...)",
+                "phoneNumber": "Invalid phone number (0123...)"
+            },
+            "confirmDelete": "Do you want delete CD group managerment {{woCdGroupManagementCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter CD group managerment",
+            "requiredODcode": "Please enter CD group managerment code",
+            "requiredProcessTime": "Please enter process time",
+            "lock": "Do you want lock this CD group {{woCdGroupManagementCode}} ?",
+            "unlock": "Do you want unlock this CD group {{woCdGroupManagementCode}} ?"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "utilityConfigEmployeeDayOff": {
+        "title": {
+            "utilityConfigEmployeeDayOffInfo": "Thông tin thời gian nghỉ nhân viên",
+            "utilityConfigEmployeeDayOffInfoExtra": "Danh sách quản lý thời gian nghỉ nhân sự tác động",
+            "utilityConfigEmployeeDayOffAdd": "Thêm mới thời gian nghỉ nhân viên",
+            "utilityConfigEmployeeDayOffEdit": "Cập nhật thời gian nghỉ nhân viên"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "vacation": {
+                "mor": "Sáng",
+                "aft": "Chiều",
+                "full": "Cả ngày"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "employeeName": "Nhân viên",
+            "unit": "Đơn vị",
+            "dayOff": "Ngày nghỉ",
+            "vacation": "Ca nghỉ"
+        },
+        "placeholder": {
+            "employeeName": "Nhân viên",
+            "unit": "Đơn vị",
+            "dayOff": "Ngày nghỉ dd/MM/yyyy",
+            "vacation": "Ca nghỉ",
+            "searchAll":"Tìm kiếm theo nhân viên"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm thời gian nghỉ nhân viên không thành công",
+                "add": "Thêm mới thời gian nghỉ nhân viên không thành công",
+                "edit": "Sửa thời gian nghỉ nhân viên không thành công",
+                "delete": "Xóa thời gian nghỉ nhân viên không thành công",
+                "getDetail": "Lấy thông tin chi tiết thời gian nghỉ nhân viên không thành công",
+                "wrongDataFormat": "Nhập sai định dạng"
+            },
+            "success": {
+                "add": "Thêm mới thời gian nghỉ nhân viên thành công",
+                "edit": "Sửa thời gian nghỉ nhân viên thành công",
+                "delete": "Xóa thời gian nghỉ nhân viên thành công",
+                "getDetail": "Lấy thông tin chi tiết thời gian nghỉ nhân viên thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa thời gian nghỉ nhân viên {{utilityConfigEmployeeDayOffCode}} không ?",
+            "requiredEmployeeName": "Vui lòng nhập nhân viên",
+            "requiredDayOff": "Vui lòng nhập ngày nghỉ",
+            "requiredVacation": "Vui lòng nhập ca nghỉ"
+        }
+    }
+}

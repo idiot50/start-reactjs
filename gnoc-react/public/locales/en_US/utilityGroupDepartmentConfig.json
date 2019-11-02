@@ -1,0 +1,63 @@
+{
+    "utilityGroupDepartmentConfig": {
+        "title": {
+            "utilityGroupDepartmentConfigInfo": "Group department config infomation information ",
+            "utilityGroupDepartmentConfigInfoExtra": "Group department config infomation extra information",
+            "utilityGroupDepartmentConfigAdd": "Add group department config infomation",
+            "utilityGroupDepartmentConfigEdit": "Update group department config infomation"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action" : "Action",
+            "status": "Status",
+            "unitCode" : "Unit code",
+            "unitName" : "Unit",
+            "groupUnitCode" : "Group unit code",
+            "groupUnitName" : "Group unit"
+        },
+        "placeholder": {
+            "unitCode" : "Enter unit code",
+            "unitName" : "Enter unit name",
+            "groupUnitCode" : "Enter group unit code",
+            "groupUnitName" : "Enter group unit name",
+            "searchAll": "Search by code, name group department config"
+        },
+        "message": {
+            "error": {
+                "search": "Search Group Department Configuration failed",
+                "add": "Add Group Department Configuration failed",
+                "edit": "Edit Group Department Configuration failed",
+                "delete": "Delete Group Department Configuration failed",
+                "getDetail": "Get Group Department Configuration failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add Group Department Configuration successfully",
+                "edit": "Edit Group Department Configuration successfully",
+                "delete": "Delete Group Department Configuration successfully",
+                "getDetail": "Get detail Group Department Configuration successfully"
+            },
+            "confirmDelete": "Do you want delete group department config {{utilityGroupDepartmentConfigCode}} ?",
+            "requiredUnitName":"Please choose unit",
+            "requiredGroupUnitName":"Please choose group unit name"
+        }
+    }
+}

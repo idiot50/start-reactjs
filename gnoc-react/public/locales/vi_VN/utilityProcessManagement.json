@@ -1,0 +1,138 @@
+{
+    "utilityProcessManagement": {
+        "title": {
+            "utilityProcessManagementInfo": "Thông tin quy trình",
+            "utilityProcessManagementInfoExtra": "Thông tin bổ sung",
+            "utilityProcessManagementAdd": "Thêm mới quy trình",
+            "utilityProcessManagementEdit": "Cập nhật quy trình"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "addChild": "Thêm mới con",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            },
+            "crType":{
+                "normal":"CR thường",
+                "emergency":"CR khẩn",
+                "true":"CR chuẩn"
+            },
+            "impactCharacteristic":{
+                "logic":"Logic",
+                "physic":"Vật lý"
+            },
+            "fileType":{
+                "input":"File đầu vào",
+                "output":"File đầu ra"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "crType": "Loại CR",
+            "riskLevel": "Mức rủi ro",
+            "impactSegment": "Mảng tác động",
+            "deviceType": "Loại thiết bị",
+            "crProcessCode":"Mã quy trình",
+            "crProcessName":"Tên quy trình",
+            "impactType":"Thời gian tác động",
+            "impactCharacteristic":"Tính chất tác động",
+            "otherDept":"Đơn vị ATTT",
+            "requireMop":"Bắt buộc load Mop từ tool tác động",
+            "requireFileLog":"Bắt buộc đính kèm file log",
+            "closeCrWhenResolveSuccess":"Đóng CR khi hoàn thành hoàn toàn",
+            "isLaneImpact":"Bắt buộc nhập tuyến cáp tác động",
+            "approvalLevel":"Số cấp phê duyệt",
+            "approvalLevelDefault":"Mặc định",
+            "approvalFirstLevel":"Phê duyệt 1 cấp",
+            "approvalSecondLevel":"Phê duyệt 2 cấp",
+            "VMSAKey":"VMSA key",
+            "listFile":"Danh sách file",
+            "fileType":"Loại file",
+            "fileCode":"Mã file",
+            "fileName":"Tên file",
+            "searchResult":"Kết quả tìm kiếm",
+            "addNewListFile":"Danh sách file",
+            "groupUnit":"Danh sách nhóm đơn vị",
+            "groupCode":"Mã nhóm",
+            "groupName":"Tên nhóm",
+            "addNewGroupUnit":"Danh sách nhóm đơn vị",
+            "woList":"Danh sách work order",
+            "addNewWo":"Thêm mới work order",
+            "editWo":"Cập nhật work order",
+            "woName":"Tên Wo",
+            "description":"Mô tả",
+            "processTime":"Thời gian thực hiện Wo (ngày)",
+            "woType":"Loại - nhóm",
+            "isForceCreateWo":"Bắt buộc tạo WP",
+            "isCloseWoWhenCompletedCR":"Bắt buộc đóng WO khi hoàn thành CR",
+            "isCreateWoWhenClosedCR":"Tạo WO khi đóng CR",
+            "parentTree":"Parent",
+            "isApproved":"Bắt buộc phê duyệt"
+        },
+        "placeholder": {
+            "searchAll": "Tìm kiếm theo mã hoặc tên quy trình",
+            "crProcessCode":"Nhập mã quy trình",
+            "crProcessName":"Nhập tên quy trình",
+            "otherDept":"Nhập đơn vị ATTT",
+            "VMSAKey":"Nhập VMSA key",
+            "fileCode":"Nhập mã file",
+            "fileName":"Nhập tên file",
+            "groupCode":"Nhập mã nhóm",
+            "groupName":"Nhập tên nhóm",
+            "woName":"Nhập tên Wo",
+            "description":"Nhập mô tả",
+            "processTime":"Nhập thời gian thực hiện WO (ngày)"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm quy trình không thành công",
+                "add": "Thêm mới quy trình không thành công",
+                "edit": "Sửa quy trình không thành công",
+                "delete": "Xóa quy trình không thành công",
+                "getDetail": "Lấy thông tin chi tiết quy trình không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "searchFile":"Tìm kiếm file không thành công",
+                "searchCrType":"Tìm kiếm loại cr không thành công",
+                "searchRiskLevel":"Tìm kiếm mức độ rủi ro không thành công"
+            },
+            "success": {
+                "add": "Thêm mới quy trình thành công",
+                "edit": "Sửa quy trình thành công",
+                "delete": "Xóa quy trình thành công",
+                "getDetail": "Lấy thông tin chi tiết quy trình thành công"
+            },
+            "required":{
+                "processTime":"Thời gian thực hiện là một số nguyên dương 10 chữ số"
+            },
+            "confirmDelete": "Bạn có muốn xóa quy trình {{utilityProcessManagementCode}} không ?",
+            "requiredProcessCode": "Bạn chưa nhập mã quy trình",
+            "requiredProcessName": "Bạn chưa nhập tên quy trình",
+            "requiredCrType": "Bạn chưa chọn loại CR",
+            "requiredImpactType": "Bạn chưa chọn thời gian tác động",
+            "requiredRiskLevel":"Bạn chưa chọn mức rủi ro",
+            "requiredImpactSegment":"Bạn chưa chọn mảng tác động",
+            "requiredDeviceType":"Bạn chưa chọn loại thiết bị",
+            "requiredImpactCharacteristic":"Bạn chưa chọn tính chất tác động",
+            "requiredOtherDept":"Bạn chưa nhập đơn vị ATTT",
+            "requiredVMSAKey":"Bạn chưa nhập VMS key",
+            "requiredParentTree":"Bạn chưa chọn cha ",
+            "requiredWoName":"Bạn chưa nhập tên Work order",
+            "requiredProcessTime":"Bạn chưa nhập thời gian thực hiện Work order",
+            "requiredWoType":"Bạn chưa chọn loại - nhóm",
+            "requiredVMSA": "Bạn chưa nhập VMSA active cell process key"
+        }
+    }
+}

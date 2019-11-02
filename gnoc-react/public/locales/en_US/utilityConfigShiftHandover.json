@@ -1,0 +1,137 @@
+{
+    "utilityConfigShiftHandover": {
+        "title": {
+            "utilityConfigShiftHandoverInfo": "Configuration shift handover information ",
+            "utilityConfigShiftHandoverInfoExtra": "Configuration shift handover extra information",
+            "utilityConfigShiftHandoverAdd": "Add configuration shift handover config",
+            "utilityConfigShiftHandoverEdit": "Update configuration shift handover config",
+            "utilityConfigShiftHandoverDetail":"Detail configuration shift handover config",
+            "insertConfig": "Insert configuration shift handover",
+            "editConfig": "Update configuration shift handover",
+            "detailConfig": "Information configuration shift handover",
+            "shiftUser": "Shift user",
+            "workShift": "Work shift",
+            "seriousIncident": "Serious incident is shift",
+            "receiveTicket": "Receive and process tickets in shift",
+            "cr": "CR",
+            "otherWork": "Other works"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search",
+            "download": "Download",
+            "detail": "Detail",
+            "handover": "Open tooltip shift",
+            "remove":"Delete"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "status": "Status",
+            "shiftUser": "Shift user",
+            "shiftUnit": "Shift unit",
+            "shiftTime": "Shift time",
+            "shift": "Shift",
+            "lastUpdateTime": "Last update time",
+            "employeeShift": "Employee shift",
+            "vietNam": "Việt Nam",
+            "country": "Country",
+            "workName": "Work name",
+            "description": "Description",
+            "process": "Process",
+            "reasonExist": "Reason Exist",
+            "contact": "Contact",
+            "option": "Option",
+            "note": "Note",
+            "result": "Status",
+            "time": "Time",
+            "solution": "Solution",
+            "reason": "Reason",
+            "purpose": "Purpose",
+            "check": "Check",
+            "userAction": "User action",
+            "unitAction": "Unit action",
+            "crName": "CR name",
+            "crNumber": "CR number",
+            "kpi": "Kpi",
+            "emergency": "Emergency",
+            "serious": "Serious",
+            "medium": "Medium",
+            "total": "Total",
+            "informationTicket": "Information ticket",
+            "affect": "Affect",
+            "correctiveAction": "Corrective action",
+            "nextAction": "Next action",
+            "waitingShift": "Waiting shift",
+            "handOverShift": "Handing over shift",
+            "startTime": "Starttime",
+            "deadline": "Deadline",
+            "owner": "Owner",
+            "handle": "Handle",
+            "importantLevel": "Important",
+            "nextWork": "The following work",
+            "manipulation":"Manipulation"
+        },
+        "placeholder": {
+            "shiftUser": "Shift user",
+            "shiftUnit": "Shift unit",
+            "shiftTime": "Shift time",
+            "shift": "Shift",
+            "lastUpdateTime": "Last update time",
+            "searchAll": "Search by shift user, shift unit",
+            "employeeShift": "Employee shift"
+        },
+        "message": {
+            "error": {
+                "search": "Search Configuration Shift Handover failed",
+                "add": "Add Configuration Shift Handover failed",
+                "edit": "Edit Configuration Shift Handover failed",
+                "delete": "Delete Configuration Shift Handover failed",
+                "getDetail": "Get Configuration Shift Handover information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add Configuration Shift Handover successfully",
+                "edit": "Edit Configuration Shift Handover successfully",
+                "delete": "Delete Configuration Shift Handover successfully",
+                "getDetail": "Get detail Configuration Shift Handover successfully"
+            },
+            "required": {
+                "shiftTime": "Please enter shift time",
+                "shift": "Please select shift",
+                "shiftUser": "Please enter hand over shift user",
+                "employeeShift": "Please enter take shift user",
+                "workName": "Please enter work name",
+                "description": "Please enter description",
+                "process": "Please enter process",
+                "reasonExist": "Please enter reason existed",
+                "contact": "Please enter contact",
+                "opinion": "Please enter opinon",
+                "crNumber": "Please enter Cr number",
+                "crName": "Please enter CR name",
+                "userCheckName": "Please enter user checked name",
+                "result": "Please enter result",
+                "note": "Please enter note",
+                "numberType": "Please enter number",
+                "manipulation":"Please enter manipulation"
+            },
+            "confirmDelete": "Do you want delete shift handover {{utilityConfigShiftHandoverCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter shift hand over"
+        }
+    }
+}

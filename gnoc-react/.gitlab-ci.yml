@@ -1,0 +1,67 @@
+image: node:6.4.1 # can be upgraded, depending on your node version used
+
+# cache:
+#   path:
+#     - node_modules/
+
+before_script:
+  ##
+  ## Install ssh-agent if not already installed, it is required by Docker.
+  ## (change apt-get to yum if you use an RPM-based image)
+  ##
+  - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+  ##
+  ## Run ssh-agent (inside the build environment)
+  ##
+  - eval $(ssh-agent -s)
+  ##
+  ## Add the SSH key stored in SSH_PRIVATE_KEY variable to the agent store
+  ## We're using tr to fix line endings which makes ed25519 keys work
+  ## without extra base64 encoding.
+  ## https://gitlab.com/gitlab-examples/ssh-private-key/issues/1#note_48526556
+  ##
+  - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+  ##
+  ## Create the SSH directory and give it the right permissions
+  ##
+  - mkdir -p ~/.ssh
+  - chmod 700 ~/.ssh
+  ##
+  ## Optionally, if you will be using any Git commands, set the user name and
+  ## and email.
+  ##
+  # - git config --global user.email "user@example.com"
+  # - git config --global user.name "User name"
+  - git config --global user.email "truongbb@itsol.vn"
+  - git config --global user.name "itsol_truongbb"
+  ##
+  ## Assuming you created the SSH_KNOWN_HOSTS variable, uncomment the
+  ## following two lines.
+  ##
+  - echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
+  - chmod 644 ~/.ssh/known_hosts
+  ##
+  # Go to folder and pull code
+  ##
+  # - cd /var/.....
+  # - git pull
+  - ls
+
+deploy_stage:
+  stage: deploy
+  only:
+    - dev-front-end-itsol
+  script:
+    - ls
+# pages:
+#   stage: deploy
+#   script:
+#   - npm install
+#   - npm run build
+#   - rm -rf public
+#   - mv build public
+#   artifacts:
+#     paths:
+#     - public # mandatory, other folder won't work
+#   only:
+#   - dev-font-end-itsol # or dev, the branch you want to publish

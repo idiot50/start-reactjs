@@ -1,0 +1,138 @@
+/* Example theme */
+.msts_theme_example {
+	border: 1px solid #dadada;
+	width: 100%;
+
+	.msts__heading {
+		.msts__side {
+			padding: 5px;
+			text-align: center;
+		}
+
+		.msts__side_available {
+			background-color: #f0f3f5;
+			border-right: 1px solid #dadada;
+		}
+
+		.msts__side_selected {
+			background-color: #f0f3f5;
+		}
+	}
+
+	.msts__subheading {
+		.msts__side_filter {
+			padding: 5px;
+		}
+	}
+
+	.msts__footer {
+		.msts__side {
+			padding: 5px 15px;
+			background-color: #f0f3f5;
+			font-size: 0.75em;
+			color: #5c6873;
+			text-align: right;
+		}
+	}
+
+	.msts__list {
+		height: 140px;
+		overflow-y: auto;
+		overflow-x: hidden;
+	}
+
+	.msts__list-item {
+		padding: 5px 10px;
+		transition: background-color ease-in 0.1s, color ease-in 0.1s;
+
+		&:hover {
+			background-color: #deebff;
+		}
+
+		&_disabled {
+			background-color: #ecf0f1;
+			color: #7f8c8d;
+
+			&:hover {
+				background-color: #ecf0f1;
+				color: #7f8c8d;
+			}
+		}
+
+		&_highlighted {
+			background-color: rgba(41, 128, 185, 0.25);
+		}
+	}
+
+	.msts__control {
+		border: none;
+		background: none;
+		cursor: pointer;
+		padding: 10px 3px;
+		color: #bdc3c7;
+		transition: color ease 0.15s;
+
+		&:hover {
+			color: #95a5a6;
+		}
+
+		&[disabled] {
+			color: #ecf0f1;
+		}
+	}
+
+	.msts__control_select-all {
+		&:after {
+			content: '❯❯';
+		}
+	}
+
+	.msts__control_deselect-all {
+		&:after {
+			content: '❮❮';
+		}
+	}
+
+	.msts__filter {
+		position: relative;
+	}
+
+	.msts__filter-input {
+		width: 100%;
+		box-sizing: border-box;
+		padding: 5px 7px;
+		border: 1px solid rgba(0,0,0,0.1);
+		border-radius: 3px;
+
+		&:focus {
+			border-color: #8ad4ee;
+			box-shadow: 0 0 0 0.2rem rgba(32, 168, 216, 0.25);
+			outline: none;
+		}
+	}
+
+	.msts__filter-clear {
+		cursor: pointer;
+		position: absolute;
+		top: -11px;
+		right: 0;
+		height: 100%;
+		padding: 0 10px;
+		font-size: 2em;
+		color: #cccccc;
+		transition: color ease 0.15s;
+
+		&:after {
+			content: '×';
+			vertical-align: middle;
+		}
+
+		&:hover {
+			color: #999999;
+		}
+	}
+}
+
+.msts_theme_example.msts_disabled {
+	background-color: #ecf0f1;
+}

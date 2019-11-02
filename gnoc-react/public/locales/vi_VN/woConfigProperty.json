@@ -1,0 +1,65 @@
+{
+    "woConfigProperty": {
+        "title": {
+            "woConfigPropertyInfo": "Thông tin key - value",
+            "woConfigPropertyInfoExtra": "Thông tin bổ sung",
+            "woConfigPropertyAdd": "Thêm mới key - value",
+            "woConfigPropertyEdit": "Cập nhật key - value"
+        },
+        "intro": {
+            "loadData": "Tải dữ liệu",
+            "saveData": "Lưu dữ liệu"
+        },
+        "button": {
+            "add": "Thêm mới",
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "import": "Import",
+            "export": "Export",
+            "search": "Tìm kiếm"
+        },
+        
+        "dropdown": {
+            "all": "-- Chọn--",
+            "status": {
+                "active": "Đang hoạt động",
+                "inActive": "Không hoạt động"
+            }
+        },
+        "label": {
+            "action" : "Hành động",
+            "status": "Trạng thái",
+            "key": "Khóa",
+            "value": "Giá trị",
+            "description": "Mô tả"
+        },
+        "placeholder": {
+            "key": "Nhập khóa",
+            "value": "Nhập giá trị",
+            "description": "Nhập mô tả",
+            "searchAll": "Tìm kiếm theo khóa, giá trị, mô tả"
+        },
+        "message": {
+            "error": {
+                "search": "Tìm kiếm key - value không thành công",
+                "add": "Thêm mới key - value không thành công",
+                "edit": "Sửa key - value không thành công",
+                "delete": "Xóa key - value không thành công",
+                "getDetail": "Lấy thông tin chi tiết key - value không thành công",
+                "wrongDataFormat": "Nhập sai định dạng",
+                "duplicate": "Khóa đã tồn tại trên hệ thống"
+            },
+            "success": {
+                "add": "Thêm mới key - value thành công",
+                "edit": "Sửa key - value thành công",
+                "delete": "Xóa key - value thành công",
+                "getDetail": "Lấy thông tin chi tiết key - value thành công"
+            },
+            "confirmDelete": "Bạn có muốn xóa key - value {{woConfigPropertyId}} không ?",
+            "requiredKey": "Bạn chưa nhập khóa",
+            "requiredKeyPattern": "Khóa chỉ được nhập tiếng việt không dấu, số nguyên và kí tự '_'",
+            "requiredValue": "Bạn chưa nhập giá trị",
+            "requiredDescription": "Bạn chưa nhập mô tả"
+        }
+    }
+}

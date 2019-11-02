@@ -1,0 +1,99 @@
+{
+    "ttMessageConfig": {
+        "title": {
+            "ttMessageConfigInfo": "Tt expired message information ",
+            "ttMessageConfigInfoExtra": "Tt expired message information",
+            "ttMessageConfigAdd": "Add new Tt expired message",
+            "ttMessageConfigEdit": "Update Tt expired message",
+            "staff": "Staff"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "status": "Status",
+            "typeCode": "Tt expired message code",
+            "type": "Tt expired message",
+            "groupType": "Group Tt expired message",
+            "priority": "Priority",
+            "processingTime": "Processing Time (H)",
+            "spmCode": "Config name",
+            "configLevel": "Config level",
+            "unit": "Unit",
+            "staff": "Staff",
+            "section": "Section",
+            "messageType": "Message type",
+            "fullname": "Fullname",
+            "account": "Account",
+            "email": "Email",
+            "phoneNumber": "Phone number",
+            "singleSynMess": "Single and synthetic message",
+            "singleMess": "Single message",
+            "syntheticMess": "Synthetic message"
+        },
+        "placeholder": {
+            "typeCode": "Enter message config failed",
+            "type": "Enter message config failed",
+            "groupType": "Enter group message config failed",
+            "searchAll": "Search by Config name",
+            "spmCode": "Enter config name",
+            "unit": "Enter code <Name>",
+            "staff": "Enter account",
+            "handleTime": "Enter handle time",
+            "section": "Enter section"
+        },
+        "message": {
+            "error": {
+                "search": "Search TT message config failed",
+                "add": "Add new TT message config failed",
+                "edit": "Edit TT message config failed",
+                "delete": "Delete TT message config failed",
+                "getDetail": "Get message config failed information failed",
+                "searchStaff":"Search staff failed",
+                "messList":"Failed to get message list",
+                "wrongDataFormat": "Wrong data format, time must less than 10000, two digits after decimal part",
+                "wrongZeroDataFormat": "Time must be greater than 0",
+                "duplicate":"Record is available on system"
+            },
+            "success": {
+                "add": "Add TT message config  successfully",
+                "edit": "Edit TT message config  successfully",
+                "delete": "Delete TT message config  successfully",
+                "getDetail": "Get detail TT message config  successfully"
+            },
+            "required": {
+                "spmCode": "Please enter config name",
+                "configLevel": "Please select one of config levels",
+                "priority": "Please select priority",
+                "handleTime": "Please enter handle time",
+                "unit": "Please enter unit",
+                "numberRequired":"Please enter number",
+                "duplicatedStaff":"Can not duplicate staff",
+                "messageType":"Please select message type",
+                "staff":"Please enter staff",
+                "rangeConfigLevel":"Please select config from level again"
+            },
+            "confirmDelete": "Do you want delete TT message config failed {{ttMessageConfigCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter message config failed",
+            "requiredProcessTime": "Please enter process time"
+        }
+    }
+}

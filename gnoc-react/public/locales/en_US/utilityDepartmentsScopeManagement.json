@@ -1,0 +1,78 @@
+{
+    "utilityDepartmentsScopeManagement": {
+        "title": {
+            "utilityDepartmentsScopeManagementInfo": "Type CR approval unit - role information ",
+            "utilityDepartmentsScopeManagementInfoExtra": "Type CR approval unit - role extra information",
+            "utilityDepartmentsScopeManagementAdd": "Add new CR approval unit - role",
+            "utilityDepartmentsScopeManagementEdit": "Update CR approval unit - role"
+        },
+        "intro": {
+            "loadData": "Load data",
+            "saveData": "Save data"
+        },
+        "button": {
+            "add": "Add",
+            "edit": "Edit",
+            "delete": "Delete",
+            "import": "Import",
+            "export": "Export",
+            "search": "Search"
+        },
+        "dropdown": {
+            "all": "All",
+            "status": {
+                "active": "Active",
+                "inActive": "Inactive"
+            }
+        },
+        "label": {
+            "action": "Action",
+            "status": "Status",
+            "typeCode": "CR approval unit - role code",
+            "groupType": "Group CR approval unit - role",
+            "cmseCode": "Scope code",
+            "cmseName": "Scope name",
+            "unitCode": "Unit code",
+            "unitName": "Unit name",
+            "scope": "Scope",
+            "unit": "Unit",
+            "impactGroup": "Impact group",
+            "deviceType": "Device types",
+            "group": "Group"
+        },
+        "placeholder": {
+            "typeCode": "Enter CR approval unit - role code",
+            "type": "Enter CR approval unit - role",
+            "groupType": "Enter group CR approval unit - role",
+            "searchAll": "Search by code, name scope",
+            "cmseCode": "Enter scope code",
+            "cmseName": "Enter scope name",
+            "unitCode": "Enter unit code",
+            "unitName": "Enter unit name",
+            "unit": "Enter unit"
+        },
+        "message": {
+            "error": {
+                "search": "Search Departments & Scopes Category failed",
+                "add": "Add Departments & Scopes Category failed",
+                "edit": "Edit Departments & Scopes Category failed",
+                "delete": "Delete Departments & Scopes Category failed",
+                "getDetail": "Get Departments & Scopes Category information failed",
+                "wrongDataFormat": "Wrong data format"
+            },
+            "success": {
+                "add": "Add Departments & Scopes Category successfully",
+                "edit": "Edit Departments & Scopes Category successfully",
+                "delete": "Delete Departments & Scopes Category successfully",
+                "getDetail": "Get detail Departments & Scopes Category successfully"
+            },
+            "required": {
+                "unit": "Please enter unit",
+                "scope": "Please select one of scopes"
+            },
+            "confirmDelete": "Do you want delete departments & scopes {{utilityDepartmentsScopeManagementCode}} ?",
+            "requiredStatus": "Please select status",
+            "requiredType": "Please enter Departments & Scopes Category"
+        }
+    }
+}
